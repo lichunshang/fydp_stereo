@@ -122,6 +122,7 @@ bool CheckSoftwareTriggerPresence( Camera* pCam )
     return true;
 }
 
+
 bool initGPIO()
 {
 	jetsonTX1GPIONumber triggerGPIO = GPIO_NUMBER; // Ouput
@@ -129,30 +130,26 @@ bool initGPIO()
 	GPIO_INIT = gpioExport(triggerGPIO) == 0 ? 1 : 0;
 	GPIO_INIT &= gpioSetDirection(triggerGPIO, outputPin) == 0 ? 1 : 0;
 	if(GPIO_INIT){
-		unsigned int value = 0;
-		gpioGetValue(triggerGPIO, &value);
-		if(value != 0)
-			GPIO_INIT &= gpioSetValue(triggerGPIO, low);
-	}
+        unsigned int value = 0;
+        gpioGetValue(triggerGPIO, &value);
+        if(value != 0)
+    		gpioSetValue(triggerGPIO, low);
+    }
 	return GPIO_INIT;
 }
 
 bool triggerGPIO(unsigned int numCameras, Camera * camArray[])
 {
 	jetsonTX1GPIONumber triggerGPIO = GPIO_NUMBER;
-	bool ret = false;
-	if(GPIO_INIT)
-    {
-		for(int i = 0; i < numCameras; i++){
-			cout << "Waiting for camera " << i << " to be trigger ready..."; 
-			PollForTriggerReady(camArray[i]);
-			cout << " READY!" << endl;
-		}
-		ret = gpioSetValue(triggerGPIO, high) == 0 ? true : false;
-//		ret &= gpioSetValue(triggerGPIO, low) == 0 ? true : false;
+	if(GPIO_INIT){
+        for(int i = 0; i < numCameras; i++){
+            cout << "waiting for camera " << i << " trigger...";
+            PollForTriggerReady(camArray[i]);
+            cout << "READY!" << endl;
+        }
+		return gpioSetValue(triggerGPIO, high) == 0 ? true : false;
     }
-cout << "set high? ... " << ret << endl;
-	return ret;
+	return false;
 }
 
 cv::Mat getMatFromCameraImage(unsigned int cameraIndex, Camera * camArray[])
@@ -164,13 +161,13 @@ cv::Mat getMatFromCameraImage(unsigned int cameraIndex, Camera * camArray[])
         cam = camArray[cameraIndex];
 
         // Start capturing images
-/*        error = cam->StartCapture();
+        error = cam->StartCapture();
         if (error != PGRERROR_OK)
         {
             PrintError(error);
             return result;
         }
-*/
+
     	Image rawImage;
     
 #ifdef SOFTWARE_TRIGGER_CAMERA
@@ -183,7 +180,6 @@ cv::Mat getMatFromCameraImage(unsigned int cameraIndex, Camera * camArray[])
             return result;
         }
 #endif
-
 
         // Retrieve an image
         error = cam->RetrieveBuffer(&rawImage);
@@ -204,19 +200,19 @@ cv::Mat getMatFromCameraImage(unsigned int cameraIndex, Camera * camArray[])
 	image.copyTo(result);
 
 	// Stop capturing images
-/*        error = cam->StopCapture();
+        error = cam->StopCapture();
         if (error != PGRERROR_OK)
         {
             PrintError(error);
             return result;
         }
-*/
+
 	return result;
  }
 
 void capPictures(unsigned int numCameras, Camera * camArray[])
 {
-    const int k_numImages = 2;
+    const int k_numImages = 1;
     Error error;
     Camera *cam;
 
@@ -240,7 +236,7 @@ void capPictures(unsigned int numCameras, Camera * camArray[])
     Image rawImage;
     for (unsigned int imageCnt = 0; imageCnt < k_numImages; imageCnt++)
     {
-		triggerGPIO(numCameras, camArray);
+        triggerGPIO(numCameras, camArray);
         for (unsigned int i = 0; i < numCameras; i++)
         {
             cam = camArray[i];
@@ -256,7 +252,7 @@ void capPictures(unsigned int numCameras, Camera * camArray[])
 #endif
         }
 
-        printf("fired triggers...\n");
+        printf("fired software triggers...\n");
 
         for (unsigned int i = 0; i < numCameras; i++)
         {
@@ -403,13 +399,12 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
 //        triggerMode.onOff = false;
         triggerMode.mode = 0;
         triggerMode.parameter = 0;
-		triggerMode.polarity = 0; //active low
 #ifdef SOFTWARE_TRIGGER_CAMERA
         triggerMode.source = 7; //software trigger
 #else
         triggerMode.source = 2; //external trigger
 #endif
-
+        triggerMode.polarity = 0;
         // Set the trigger settings
         error = cam->SetTriggerMode(&triggerMode);
         if (error != PGRERROR_OK)
@@ -452,7 +447,7 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
             return false;
         }
 
-        // Set the number of driver buffers used to 1.
+        // Set the number of driver buffers used to 10.
         config.numBuffers = 1;
         // Set the grab timeout to 5 seconds
         config.grabTimeout = 5000;
@@ -472,7 +467,7 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
             return false;
         }
 #else
-            cout << "Trigger the camera by sending a trigger pulse to GPIO" << triggerMode.source << endl;
+//            cout << "Trigger the camera by sending a trigger pulse to GPIO" << triggerMode.source << endl;
 #endif
         camArray[i] = cam;
 //        RunSingleCamera(*guid);

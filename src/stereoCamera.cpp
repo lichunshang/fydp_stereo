@@ -25,12 +25,11 @@ int main(int /*argc*/, char ** /*argv*/)
 
     cout << "press a button for gpio on" << endl;
     getchar();
-    triggerGPIO(NUMCAMS, cameraArray);
+    //triggerGPIO();
 
     if (res)
     {
-while(1);
-//	capPictures(NUMCAMS, cameraArray); 
+	capPictures(NUMCAMS, cameraArray); 
 	
 	//individual_calib(0, cameraArray);
 	//individual_calib(1, cameraArray);
