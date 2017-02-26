@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8)
+project( stereoCamera )
+find_package( OpenCV REQUIRED )
+include_directories("/usr/include/flycapture")
+find_library(FLYCAPTURE2 flycapture)
+add_executable( stereoCamera stereoCamera.cpp )
+target_link_libraries( stereoCamera ${OpenCV_LIBS} flycapture)

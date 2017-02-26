@@ -4,10 +4,65 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ABS_THRESH	src/configuration.h	47;"	d
 ADOBE_DEFLATE	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^			ADOBE_DEFLATE, \/**< Save using ADOBE DEFLATE compression *\/$/;"	e	enum:FlyCapture2::TIFFOption::CompressionMethod
 ADOBE_DEFLATE	include/FlyCapture2Defs.h	/^			ADOBE_DEFLATE, \/**< Save using ADOBE DEFLATE compression *\/$/;"	e	enum:FlyCapture2::TIFFOption::CompressionMethod
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	396;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	399;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	402;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	406;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	408;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	410;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	414;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	417;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	420;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	425;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	428;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	431;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	435;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	391;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	394;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	397;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	401;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	403;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	405;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	409;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	412;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	415;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	420;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	423;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	426;"	d	file:
+ARCHITECTURE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	430;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	396;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	399;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	402;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	406;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	408;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	410;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	414;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	417;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	420;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	425;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	428;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	431;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	435;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	391;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	394;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	397;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	401;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	403;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	405;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	409;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	412;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	415;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	420;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	423;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	426;"	d	file:
+ARCHITECTURE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	430;"	d	file:
 ARRIVAL	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		ARRIVAL, \/**< Register for arrivals only. *\/$/;"	e	enum:FlyCapture2::BusCallbackType
 ARRIVAL	include/FlyCapture2Defs.h	/^		ARRIVAL, \/**< Register for arrivals only. *\/$/;"	e	enum:FlyCapture2::BusCallbackType
+ASYMMETRIC_CIRCLES_GRID	src/individual_calib.cpp	/^    enum Pattern { NOT_EXISTING, CHESSBOARD, CIRCLES_GRID, ASYMMETRIC_CIRCLES_GRID };$/;"	e	enum:Settings::Pattern	file:
+ASYMMETRIC_CIRCLES_GRID	src/stereo_get_images.cpp	/^    enum Pattern { NOT_EXISTING, CHESSBOARD, CIRCLES_GRID, ASYMMETRIC_CIRCLES_GRID };$/;"	e	enum:Settings::Pattern	file:
 AUTO_EXPOSURE	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		AUTO_EXPOSURE, \/**< Auto exposure. *\/$/;"	e	enum:FlyCapture2::PropertyType
 AUTO_EXPOSURE	include/FlyCapture2Defs.h	/^		AUTO_EXPOSURE, \/**< Auto exposure. *\/$/;"	e	enum:FlyCapture2::PropertyType
 AVIOption	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		AVIOption()$/;"	f	struct:FlyCapture2::AVIOption
@@ -43,12 +98,12 @@ BASE_NAME	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/Makefile	/^BASE_NAME = 
 BASE_NAME	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/Makefile	/^BASE_NAME = HighDynamicRangeEx$/;"	m
 BASE_NAME	flycapture.2.10.3.266_arm64/src/ImageEventEx/Makefile	/^BASE_NAME = ImageEventEx$/;"	m
 BASE_NAME	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/Makefile	/^BASE_NAME = MultipleCameraEx$/;"	m
-BASE_NAME	src/AsyncTriggerEx/Makefile	/^BASE_NAME = AsyncTriggerEx$/;"	m
-BASE_NAME	src/FlyCapture2Test/Makefile	/^BASE_NAME = FlyCapture2Test$/;"	m
-BASE_NAME	src/Makefile	/^BASE_NAME = stereoCamera$/;"	m
-BASE_NAME	src/MultipleCameraEx/Makefile	/^BASE_NAME = MultipleCameraEx$/;"	m
+BASE_NAME	old_src/src/AsyncTriggerEx/Makefile	/^BASE_NAME = AsyncTriggerEx$/;"	m
+BASE_NAME	old_src/src/FlyCapture2Test/Makefile	/^BASE_NAME = FlyCapture2Test$/;"	m
+BASE_NAME	old_src/src/MultipleCameraEx/Makefile	/^BASE_NAME = MultipleCameraEx$/;"	m
 BGGR	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		BGGR, \/**< Blue-Green-Green-Red. *\/$/;"	e	enum:FlyCapture2::BayerTileFormat
 BGGR	include/FlyCapture2Defs.h	/^		BGGR, \/**< Blue-Green-Green-Red. *\/$/;"	e	enum:FlyCapture2::BayerTileFormat
+BLOCK_SIZE	src/configuration.h	43;"	d
 BLUE	flycapture.2.10.3.266_arm64/include/ImageStatistics.h	/^				BLUE,$/;"	e	enum:FlyCapture2::ImageStatistics::StatisticsChannel
 BLUE	include/ImageStatistics.h	/^				BLUE,$/;"	e	enum:FlyCapture2::ImageStatistics::StatisticsChannel
 BMP	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		BMP, \/**< Bitmap. *\/$/;"	e	enum:FlyCapture2::ImageFileFormat
@@ -124,26 +179,486 @@ BusSpeed	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	enum BusSpeed$
 BusSpeed	include/FlyCapture2Defs.h	/^	enum BusSpeed$/;"	g	namespace:FlyCapture2
 ByteOrder	flycapture.2.10.3.266_arm64/include/Utilities.h	/^	enum ByteOrder$/;"	g	namespace:FlyCapture2
 ByteOrder	include/Utilities.h	/^	enum ByteOrder$/;"	g	namespace:FlyCapture2
+CALIBRATED	src/individual_calib.cpp	/^enum { DETECTION = 0, CAPTURING = 1, CALIBRATED = 2 };$/;"	e	enum:__anon3	file:
+CALIBRATED	src/stereo_get_images.cpp	/^enum { DETECTION = 0, CAPTURING = 1, CALIBRATED = 2 };$/;"	e	enum:__anon4	file:
 CALLBACK_TYPE_FORCE_32BITS	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		CALLBACK_TYPE_FORCE_32BITS = FULL_32BIT_VALUE$/;"	e	enum:FlyCapture2::BusCallbackType
 CALLBACK_TYPE_FORCE_32BITS	include/FlyCapture2Defs.h	/^		CALLBACK_TYPE_FORCE_32BITS = FULL_32BIT_VALUE$/;"	e	enum:FlyCapture2::BusCallbackType
 CAMERA	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		CAMERA,$/;"	e	enum:_fc2NodeType
 CAMERA	flycapture.2.10.3.266_arm64/include/TopologyNode.h	/^				CAMERA,$/;"	e	enum:FlyCapture2::TopologyNode::NodeType
 CAMERA	include/C/FlyCapture2Defs_C.h	/^		CAMERA,$/;"	e	enum:_fc2NodeType
 CAMERA	include/TopologyNode.h	/^				CAMERA,$/;"	e	enum:FlyCapture2::TopologyNode::NodeType
+CAMERA	src/individual_calib.cpp	/^    enum InputType {INVALID, CAMERA, VIDEO_FILE, IMAGE_LIST};$/;"	e	enum:Settings::InputType	file:
+CAMERA	src/stereo_get_images.cpp	/^    enum InputType {INVALID, CAMERA, VIDEO_FILE, IMAGE_LIST};$/;"	e	enum:Settings::InputType	file:
+CAMERAS	old_src/src/cameraSetup.h	2;"	d
 CAMERAS	src/cameraSetup.h	2;"	d
+CAPTURING	src/individual_calib.cpp	/^enum { DETECTION = 0, CAPTURING = 1, CALIBRATED = 2 };$/;"	e	enum:__anon3	file:
+CAPTURING	src/stereo_get_images.cpp	/^enum { DETECTION = 0, CAPTURING = 1, CALIBRATED = 2 };$/;"	e	enum:__anon4	file:
 CC	flycapture.2.10.3.266_arm64/src/FlyCapture2Test_C/Makefile	/^	CC = gcc$/;"	m
 CC	flycapture.2.10.3.266_arm64/src/GigEGrabEx_C/Makefile	/^	CC    = gcc$/;"	m
 CCITTFAX3	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^			CCITTFAX3,$/;"	e	enum:FlyCapture2::TIFFOption::CompressionMethod
 CCITTFAX3	include/FlyCapture2Defs.h	/^			CCITTFAX3,$/;"	e	enum:FlyCapture2::TIFFOption::CompressionMethod
 CCITTFAX4	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^			CCITTFAX4,$/;"	e	enum:FlyCapture2::TIFFOption::CompressionMethod
 CCITTFAX4	include/FlyCapture2Defs.h	/^			CCITTFAX4,$/;"	e	enum:FlyCapture2::TIFFOption::CompressionMethod
+CENSUS_HEIGHT	src/configuration.h	32;"	d
+CENSUS_WIDTH	src/configuration.h	31;"	d
+CHESSBOARD	src/individual_calib.cpp	/^    enum Pattern { NOT_EXISTING, CHESSBOARD, CIRCLES_GRID, ASYMMETRIC_CIRCLES_GRID };$/;"	e	enum:Settings::Pattern	file:
+CHESSBOARD	src/stereo_get_images.cpp	/^    enum Pattern { NOT_EXISTING, CHESSBOARD, CIRCLES_GRID, ASYMMETRIC_CIRCLES_GRID };$/;"	e	enum:Settings::Pattern	file:
+CIRCLES_GRID	src/individual_calib.cpp	/^    enum Pattern { NOT_EXISTING, CHESSBOARD, CIRCLES_GRID, ASYMMETRIC_CIRCLES_GRID };$/;"	e	enum:Settings::Pattern	file:
+CIRCLES_GRID	src/stereo_get_images.cpp	/^    enum Pattern { NOT_EXISTING, CHESSBOARD, CIRCLES_GRID, ASYMMETRIC_CIRCLES_GRID };$/;"	e	enum:Settings::Pattern	file:
+CMAKE_BINARY_DIR	old_src/src/Makefile	/^CMAKE_BINARY_DIR = \/home\/ubuntu\/Documents\/fydp\/src$/;"	m
+CMAKE_BINARY_DIR	src/Makefile	/^CMAKE_BINARY_DIR = \/home\/ubuntu\/Documents\/fydp\/src$/;"	m
+CMAKE_COMMAND	old_src/src/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	src/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	old_src/src/Makefile	/^CMAKE_SOURCE_DIR = \/home\/ubuntu\/Documents\/fydp\/src$/;"	m
+CMAKE_SOURCE_DIR	src/Makefile	/^CMAKE_SOURCE_DIR = \/home\/ubuntu\/Documents\/fydp\/src$/;"	m
 COLOR_PROCESSING_ALGORITHM_FORCE_32BITS	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		COLOR_PROCESSING_ALGORITHM_FORCE_32BITS = FULL_32BIT_VALUE$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
 COLOR_PROCESSING_ALGORITHM_FORCE_32BITS	include/FlyCapture2Defs.h	/^		COLOR_PROCESSING_ALGORITHM_FORCE_32BITS = FULL_32BIT_VALUE$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	117;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	124;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	132;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	144;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	147;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	14;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	150;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	153;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	168;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	192;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	210;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	219;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	222;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	237;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	244;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	262;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	265;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	268;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	37;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	45;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	51;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	57;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	75;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	96;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	212;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	221;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	224;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	257;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	260;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	263;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	50;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	62;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	117;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	124;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	132;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	144;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	147;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	14;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	150;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	153;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	168;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	192;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	210;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	219;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	222;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	237;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	244;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	262;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	265;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	268;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	37;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	45;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	51;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	57;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	75;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	96;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	212;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	221;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	224;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	257;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	260;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	263;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	50;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	62;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	105;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	139;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	157;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	172;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	183;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	194;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	213;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	225;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	230;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	239;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	247;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	252;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	38;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	59;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	68;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	78;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	83;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	91;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	185;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	196;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	215;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	242;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	247;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	96;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	105;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	139;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	157;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	172;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	183;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	194;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	213;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	225;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	230;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	239;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	247;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	252;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	38;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	59;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	68;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	78;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	83;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	91;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	185;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	196;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	215;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	242;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	247;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	96;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	106;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	120;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	185;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	195;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	20;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	214;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	226;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	231;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	240;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	248;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	253;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	39;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	47;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	54;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	60;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	69;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	79;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	84;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	99;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	197;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	233;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	243;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	248;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+COMPILER_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	106;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	120;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	185;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	195;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	20;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	214;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	226;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	231;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	240;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	248;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	253;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	39;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	47;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	54;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	60;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	69;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	79;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	84;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	99;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	197;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	233;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	243;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	248;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+COMPILER_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	100;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	114;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	121;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	141;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	159;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	174;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	188;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	199;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	215;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	227;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	232;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	241;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	249;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	254;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	41;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	48;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	62;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	71;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	93;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	176;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	204;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	217;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	234;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	249;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	100;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	114;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	121;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	141;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	159;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	174;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	188;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	199;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	215;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	227;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	232;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	241;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	249;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	254;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	41;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	48;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	62;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	71;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	93;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	176;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	204;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	217;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	234;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	249;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_TWEAK	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	165;"	d	file:
+COMPILER_VERSION_TWEAK	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	206;"	d	file:
+COMPILER_VERSION_TWEAK	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_VERSION_TWEAK	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_TWEAK	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	208;"	d	file:
+COMPILER_VERSION_TWEAK	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+COMPILER_VERSION_TWEAK	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	165;"	d	file:
+COMPILER_VERSION_TWEAK	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	206;"	d	file:
+COMPILER_VERSION_TWEAK	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_VERSION_TWEAK	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_TWEAK	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	208;"	d	file:
+COMPILER_VERSION_TWEAK	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
 COMPUTER	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		COMPUTER,$/;"	e	enum:_fc2NodeType
 COMPUTER	flycapture.2.10.3.266_arm64/include/TopologyNode.h	/^				COMPUTER,$/;"	e	enum:FlyCapture2::TopologyNode::NodeType
 COMPUTER	include/C/FlyCapture2Defs_C.h	/^		COMPUTER,$/;"	e	enum:_fc2NodeType
 COMPUTER	include/TopologyNode.h	/^				COMPUTER,$/;"	e	enum:FlyCapture2::TopologyNode::NodeType
-CONFIG	src/config.h	2;"	d
+CONFIG	old_src/src/config.h	2;"	d
+CONFIGURATION_H_	src/configuration.h	22;"	d
 CONNECTED_TO_CHILD	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		CONNECTED_TO_CHILD$/;"	e	enum:_fc2PortType
 CONNECTED_TO_CHILD	flycapture.2.10.3.266_arm64/include/TopologyNode.h	/^				CONNECTED_TO_CHILD$/;"	e	enum:FlyCapture2::TopologyNode::PortType
 CONNECTED_TO_CHILD	include/C/FlyCapture2Defs_C.h	/^		CONNECTED_TO_CHILD$/;"	e	enum:_fc2PortType
@@ -152,7 +667,12 @@ CONNECTED_TO_PARENT	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^
 CONNECTED_TO_PARENT	flycapture.2.10.3.266_arm64/include/TopologyNode.h	/^				CONNECTED_TO_PARENT,$/;"	e	enum:FlyCapture2::TopologyNode::PortType
 CONNECTED_TO_PARENT	include/C/FlyCapture2Defs_C.h	/^		CONNECTED_TO_PARENT,$/;"	e	enum:_fc2PortType
 CONNECTED_TO_PARENT	include/TopologyNode.h	/^				CONNECTED_TO_PARENT,$/;"	e	enum:FlyCapture2::TopologyNode::PortType
+COSTAGG_BLOCKSIZE	src/configuration.h	44;"	d
+COSTAGG_BLOCKSIZE_HORIZ	src/configuration.h	45;"	d
+COSTS_H_	src/costs.h	22;"	d
+COST_AGGREGATION_H_	src/cost_aggregation.h	22;"	d
 CPP_FILES	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/Makefile	/^	CPP_FILES := $(wildcard *.cpp)$/;"	m
+CUDA_CHECK_RETURN	src/util.h	43;"	d
 CXX	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/Makefile	/^	CXX   = g++$/;"	m
 CXX	flycapture.2.10.3.266_arm64/src/BusEventsEx/Makefile	/^	CXX   = g++$/;"	m
 CXX	flycapture.2.10.3.266_arm64/src/CustomImageEx/Makefile	/^	CXX   = g++$/;"	m
@@ -164,14 +684,10 @@ CXX	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/Makefile	/^	CXX   = g++$/;"	m
 CXX	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/Makefile	/^	CXX   = g++$/;"	m
 CXX	flycapture.2.10.3.266_arm64/src/ImageEventEx/Makefile	/^	CXX   = g++$/;"	m
 CXX	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/Makefile	/^	CXX   = g++$/;"	m
-CXX	src/AsyncTriggerEx/Makefile	/^	CXX   = g++$/;"	m
-CXX	src/FlyCapture2Test/Makefile	/^	CXX   = g++$/;"	m
-CXX	src/MultipleCameraEx/Makefile	/^	CXX   = g++$/;"	m
-CXX_OBJS	src/Makefile	/^CXX_OBJS  = ${CXX_SRCS:.cpp=.o}$/;"	m
-CXX_SRCS	src/Makefile	/^CXX_SRCS  = ${wildcard *.cpp}$/;"	m
+CXX	old_src/src/AsyncTriggerEx/Makefile	/^	CXX   = g++$/;"	m
+CXX	old_src/src/FlyCapture2Test/Makefile	/^	CXX   = g++$/;"	m
+CXX	old_src/src/MultipleCameraEx/Makefile	/^	CXX   = g++$/;"	m
 C_FILES	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/Makefile	/^	C_FILES := $(wildcard *.c)$/;"	m
-C_OBJS	src/Makefile	/^C_OBJS    = ${C_SRCS:.c=.o}$/;"	m
-C_SRCS	src/Makefile	/^C_SRCS    = ${wildcard *.c}$/;"	m
 CalculateRowColStats	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramWindow.cpp	/^void HistogramWindow::CalculateRowColStats($/;"	f	class:HistogramWindow
 CalculateRowColStatsColor	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramWindow.cpp	/^void HistogramWindow::CalculateRowColStatsColor($/;"	f	class:HistogramWindow
 CalculateRowColStatsColorColumn	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramWindow.cpp	/^void HistogramWindow::CalculateRowColStatsColorColumn($/;"	f	class:HistogramWindow
@@ -203,8 +719,11 @@ CameraStats	include/FlyCapture2Defs.h	/^		CameraStats()$/;"	f	struct:FlyCapture2
 CameraStats	include/FlyCapture2Defs.h	/^	struct CameraStats$/;"	s	namespace:FlyCapture2
 CenterImageInWindow	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^void FlycapWindow::CenterImageInWindow()$/;"	f	class:FlycapWindow
 CenterScrolledWindow	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^void FlycapWindow::CenterScrolledWindow()$/;"	f	class:FlycapWindow
+CheckCudaErrorAux	src/util.h	/^static void CheckCudaErrorAux (const char *file, unsigned line, const char *statement, cudaError_t err) {$/;"	f
 CheckSoftwareTriggerPresence	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^bool CheckSoftwareTriggerPresence(Camera *pCam)$/;"	f
-CheckSoftwareTriggerPresence	src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^bool CheckSoftwareTriggerPresence(Camera *pCam)$/;"	f
+CheckSoftwareTriggerPresence	old_src/src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^bool CheckSoftwareTriggerPresence(Camera *pCam)$/;"	f
+CheckSoftwareTriggerPresence	old_src/src/cameraSetup.cpp	/^bool CheckSoftwareTriggerPresence( Camera* pCam )$/;"	f
+CheckSoftwareTriggerPresence	src/cameraSetup.cpp	/^bool CheckSoftwareTriggerPresence( Camera* pCam )$/;"	f
 Cleanup	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^FlycapWindow::Cleanup()$/;"	f	class:FlycapWindow
 ClearRowColChannelStats	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramWindow.cpp	/^void HistogramWindow::ClearRowColChannelStats($/;"	f	class:HistogramWindow
 ColorProcessingAlgorithm	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	enum ColorProcessingAlgorithm$/;"	g	namespace:FlyCapture2
@@ -216,12 +735,37 @@ ConfigROM	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	struct Config
 ConfigROM	include/FlyCapture2Defs.h	/^		ConfigROM()$/;"	f	struct:FlyCapture2::ConfigROM
 ConfigROM	include/FlyCapture2Defs.h	/^	struct ConfigROM$/;"	s	namespace:FlyCapture2
 ConvertMonoToOutput	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^void FlycapWindow::ConvertMonoToOutput(Image* pIn, Image* pOut)$/;"	f	class:FlycapWindow
+CostAggregationDiagonalGeneric	src/cost_aggregation.h	/^__device__ __forceinline__ void CostAggregationDiagonalGeneric(uint8_t* d_cost, uint8_t *d_L, const int P1, const int P2, const int initial_row, const int initial_col, const int max_iter, const int col_nomin, const int col_copycost, const int cols, const T *_d_transform0, const T *_d_transform1, uint8_t* __restrict__ d_disparity, const uint8_t* d_L0, const uint8_t* d_L1, const uint8_t* d_L2, const uint8_t* d_L3, const uint8_t* d_L4, const uint8_t* d_L5, const uint8_t* d_L6) {$/;"	f
+CostAggregationDiagonalGenericIndexesIncrement	src/cost_aggregation.h	/^__device__ __forceinline__ void CostAggregationDiagonalGenericIndexesIncrement(int *index, int *index_im, int *col, const int cols, const int initial_row, const int i, const int dis) {$/;"	f
+CostAggregationGeneric	src/cost_aggregation.h	/^__device__ __forceinline__ void CostAggregationGeneric(uint8_t* d_cost, uint8_t *d_L, const int P1, const int P2, const int initial_row, const int initial_col, const int max_iter, const int cols, int add_index, const T *_d_transform0, const T *_d_transform1, const int add_imindex, uint8_t* __restrict__ d_disparity, const uint8_t* d_L0, const uint8_t* d_L1, const uint8_t* d_L2, const uint8_t* d_L3, const uint8_t* d_L4, const uint8_t* d_L5, const uint8_t* d_L6) {$/;"	f
+CostAggregationGenericIndexesIncrement	src/cost_aggregation.h	/^__device__ __forceinline__ void CostAggregationGenericIndexesIncrement(int *index, int *index_im, int *col, const int add_index, const int add_imindex) {$/;"	f
+CostAggregationGenericIteration	src/cost_aggregation.h	/^__device__ __forceinline__ void CostAggregationGenericIteration(int index, int index_im, int col, uint32_t *old_values, int *old_value1, int *old_value2, int *old_value3, int *old_value4, uint32_t *min_cost, uint32_t *min_cost_p2, uint8_t* d_cost, uint8_t *d_L, const int p1_vector, const int p2_vector, const T *_d_transform0, const T *_d_transform1, const int lane, const int MAX_PAD, const int dis, T *rp0, T *rp1, T *rp2, T *rp3, uint8_t* __restrict__ d_disparity, const uint8_t* d_L0, const uint8_t* d_L1, const uint8_t* d_L2, const uint8_t* d_L3, const uint8_t* d_L4, const uint8_t* d_L5, const uint8_t* d_L6) {$/;"	f
+CostAggregationKernelDiagonalDownUpLeftRight	src/cost_aggregation.h	/^__global__ void CostAggregationKernelDiagonalDownUpLeftRight(uint8_t* d_cost, uint8_t *d_L, const int P1, const int P2, const int rows, const int cols, const T *d_transform0, const T *d_transform1, uint8_t* __restrict__ d_disparity, const uint8_t* d_L0, const uint8_t* d_L1, const uint8_t* d_L2, const uint8_t* d_L3, const uint8_t* d_L4, const uint8_t* d_L5, const uint8_t* d_L6) {$/;"	f
+CostAggregationKernelDiagonalDownUpRightLeft	src/cost_aggregation.h	/^__global__ void CostAggregationKernelDiagonalDownUpRightLeft(uint8_t* d_cost, uint8_t *d_L, const int P1, const int P2, const int rows, const int cols, const T *d_transform0, const T *d_transform1, uint8_t* __restrict__ d_disparity, const uint8_t* d_L0, const uint8_t* d_L1, const uint8_t* d_L2, const uint8_t* d_L3, const uint8_t* d_L4, const uint8_t* d_L5, const uint8_t* d_L6) {$/;"	f
+CostAggregationKernelDiagonalUpDownLeftRight	src/cost_aggregation.h	/^__global__ void CostAggregationKernelDiagonalUpDownLeftRight(uint8_t* d_cost, uint8_t *d_L, const int P1, const int P2, const int rows, const int cols, const T *d_transform0, const T *d_transform1, uint8_t* __restrict__ d_disparity, const uint8_t* d_L0, const uint8_t* d_L1, const uint8_t* d_L2, const uint8_t* d_L3, const uint8_t* d_L4, const uint8_t* d_L5, const uint8_t* d_L6) {$/;"	f
+CostAggregationKernelDiagonalUpDownRightLeft	src/cost_aggregation.h	/^__global__ void CostAggregationKernelDiagonalUpDownRightLeft(uint8_t* d_cost, uint8_t *d_L, const int P1, const int P2, const int rows, const int cols, const T *d_transform0, const T *d_transform1, uint8_t* __restrict__ d_disparity, const uint8_t* d_L0, const uint8_t* d_L1, const uint8_t* d_L2, const uint8_t* d_L3, const uint8_t* d_L4, const uint8_t* d_L5, const uint8_t* d_L6) {$/;"	f
+CostAggregationKernelDownToUp	src/cost_aggregation.h	/^__global__ void CostAggregationKernelDownToUp(uint8_t* d_cost, uint8_t *d_L, const int P1, const int P2, const int rows, const int cols, const T *d_transform0, const T *d_transform1, uint8_t* __restrict__ d_disparity, const uint8_t* d_L0, const uint8_t* d_L1, const uint8_t* d_L2, const uint8_t* d_L3, const uint8_t* d_L4, const uint8_t* d_L5, const uint8_t* d_L6) {$/;"	f
+CostAggregationKernelLeftToRight	src/cost_aggregation.h	/^__global__ void CostAggregationKernelLeftToRight(uint8_t* d_cost, uint8_t *d_L, const int P1, const int P2, const int rows, const int cols, const T *d_transform0, const T *d_transform1, uint8_t* __restrict__ d_disparity, const uint8_t* d_L0, const uint8_t* d_L1, const uint8_t* d_L2, const uint8_t* d_L3, const uint8_t* d_L4, const uint8_t* d_L5, const uint8_t* d_L6) {$/;"	f
+CostAggregationKernelRightToLeft	src/cost_aggregation.h	/^__global__ void CostAggregationKernelRightToLeft(uint8_t* d_cost, uint8_t *d_L, const int P1, const int P2, const int rows, const int cols, const T *d_transform0, const T *d_transform1, uint8_t* __restrict__ d_disparity, const uint8_t* d_L0, const uint8_t* d_L1, const uint8_t* d_L2, const uint8_t* d_L3, const uint8_t* d_L4, const uint8_t* d_L5, const uint8_t* d_L6) {$/;"	f
+CostAggregationKernelUpToDown	src/cost_aggregation.h	/^__global__ void CostAggregationKernelUpToDown(uint8_t* d_cost, uint8_t *d_L, const int P1, const int P2, const int rows, const int cols, const T *d_transform0, const T *d_transform1, uint8_t* __restrict__ d_disparity, const uint8_t* d_L0, const uint8_t* d_L1, const uint8_t* d_L2, const uint8_t* d_L3, const uint8_t* d_L4, const uint8_t* d_L5, const uint8_t* d_L6) {$/;"	f
+DEBUG_H_	src/debug.h	22;"	d
+DEC	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	439;"	d	file:
+DEC	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	434;"	d	file:
+DEC	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	439;"	d	file:
+DEC	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	434;"	d	file:
 DEFAULT	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		DEFAULT,$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
 DEFAULT	include/FlyCapture2Defs.h	/^		DEFAULT,$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
 DEFLATE	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^			DEFLATE, \/**< Save using DEFLATE compression (ZLIB compression). *\/$/;"	e	enum:FlyCapture2::TIFFOption::CompressionMethod
 DEFLATE	include/FlyCapture2Defs.h	/^			DEFLATE, \/**< Save using DEFLATE compression (ZLIB compression). *\/$/;"	e	enum:FlyCapture2::TIFFOption::CompressionMethod
+DETECTION	src/individual_calib.cpp	/^enum { DETECTION = 0, CAPTURING = 1, CALIBRATED = 2 };$/;"	e	enum:__anon3	file:
+DETECTION	src/stereo_get_images.cpp	/^enum { DETECTION = 0, CAPTURING = 1, CALIBRATED = 2 };$/;"	e	enum:__anon4	file:
 DIRECTIONAL_FILTER	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		DIRECTIONAL_FILTER,$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
 DIRECTIONAL_FILTER	include/FlyCapture2Defs.h	/^		DIRECTIONAL_FILTER,$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
+DIR_DOWNUP	src/cost_aggregation.h	31;"	d
+DIR_LEFTRIGHT	src/cost_aggregation.h	32;"	d
+DIR_RIGHTLEFT	src/cost_aggregation.h	33;"	d
+DIR_UPDOWN	src/cost_aggregation.h	30;"	d
+DISPARITY_METHOD_H_	src/disparity_method.h	22;"	d
 DRAGONFLY_EXTENDED_SHUTTER	flycapture.2.10.3.266_arm64/src/ExtendedShutterEx/ExtendedShutterEx.cpp	/^    DRAGONFLY_EXTENDED_SHUTTER,$/;"	e	enum:ExtendedShutterType	file:
 DRIVER_1394_CAM	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		DRIVER_1394_CAM, \/**< PGRCam.sys. *\/$/;"	e	enum:FlyCapture2::DriverType
 DRIVER_1394_CAM	include/FlyCapture2Defs.h	/^		DRIVER_1394_CAM, \/**< PGRCam.sys. *\/$/;"	e	enum:FlyCapture2::DriverType
@@ -265,6 +809,8 @@ DriverType	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	enum DriverT
 DriverType	include/FlyCapture2Defs.h	/^	enum DriverType$/;"	g	namespace:FlyCapture2
 EDGE_SENSING	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		EDGE_SENSING,$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
 EDGE_SENSING	include/FlyCapture2Defs.h	/^		EDGE_SENSING,$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
+EQUALS	old_src/src/Makefile	/^EQUALS = =$/;"	m
+EQUALS	src/Makefile	/^EQUALS = =$/;"	m
 EmbeddedImageInfo	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	struct EmbeddedImageInfo$/;"	s	namespace:FlyCapture2
 EmbeddedImageInfo	include/FlyCapture2Defs.h	/^	struct EmbeddedImageInfo$/;"	s	namespace:FlyCapture2
 EmbeddedImageInfoProperty	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		EmbeddedImageInfoProperty()$/;"	f	struct:FlyCapture2::EmbeddedImageInfoProperty
@@ -872,6 +1418,7 @@ FC2_WINDOWS_X86	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		FC
 FC2_WINDOWS_X86	include/C/FlyCapture2Defs_C.h	/^		FC2_WINDOWS_X86, \/**< All Windows 32-bit variants. *\/$/;"	e	enum:_fc2OSType
 FC2_ZOOM	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		FC2_ZOOM,$/;"	e	enum:_fc2PropertyType
 FC2_ZOOM	include/C/FlyCapture2Defs_C.h	/^		FC2_ZOOM,$/;"	e	enum:_fc2PropertyType
+FERMI	src/util.h	28;"	d
 FLYCAPTURE2INTERNAL_C_H	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Internal_C.h	22;"	d
 FLYCAPTURE2INTERNAL_C_H	include/C/FlyCapture2Internal_C.h	22;"	d
 FLYCAPTURE2_API	flycapture.2.10.3.266_arm64/include/FlyCapture2Platform.h	36;"	d
@@ -927,7 +1474,9 @@ FULL_32BIT_VALUE	include/C/FlyCapture2Defs_C.h	58;"	d
 FULL_32BIT_VALUE	include/FlyCapture2Defs.h	39;"	d
 FilterData	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/SaveImageFileChooserDialog.h	/^struct FilterData$/;"	s
 FireSoftwareTrigger	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^bool FireSoftwareTrigger(Camera *pCam)$/;"	f
-FireSoftwareTrigger	src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^bool FireSoftwareTrigger(Camera *pCam)$/;"	f
+FireSoftwareTrigger	old_src/src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^bool FireSoftwareTrigger(Camera *pCam)$/;"	f
+FireSoftwareTrigger	old_src/src/cameraSetup.cpp	/^bool FireSoftwareTrigger(Camera *pCam)$/;"	f
+FireSoftwareTrigger	src/cameraSetup.cpp	/^bool FireSoftwareTrigger(Camera *pCam)$/;"	f
 FlyCapture2	flycapture.2.10.3.266_arm64/include/AVIRecorder.h	/^namespace FlyCapture2$/;"	n
 FlyCapture2	flycapture.2.10.3.266_arm64/include/BusManager.h	/^namespace FlyCapture2$/;"	n
 FlyCapture2	flycapture.2.10.3.266_arm64/include/Camera.h	/^namespace FlyCapture2$/;"	n
@@ -980,11 +1529,16 @@ GBRG	include/FlyCapture2Defs.h	/^		GBRG, \/**< Green-Blue-Red-Green. *\/$/;"	e	e
 GCHNAME	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/Makefile	/^GCHNAME      = $(_GCHNAME)$/;"	m
 GCH_INCLUDES	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/Makefile	/^GCH_INCLUDES = -I..\/..\/include ${GTK_INC}$/;"	m
 GENERAL_EXTENDED_SHUTTER	flycapture.2.10.3.266_arm64/src/ExtendedShutterEx/ExtendedShutterEx.cpp	/^    GENERAL_EXTENDED_SHUTTER$/;"	e	enum:ExtendedShutterType	file:
+GET_IMAGES	src/stereo_get_images.h	2;"	d
 GPIOPinState	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2EmbeddedImageInfoProperty GPIOPinState;$/;"	m	struct:_fc2EmbeddedImageInfo
 GPIOPinState	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		EmbeddedImageInfoProperty GPIOPinState;$/;"	m	struct:FlyCapture2::EmbeddedImageInfo
 GPIOPinState	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/InformationPane.h	/^					unsigned int GPIOPinState;$/;"	m	struct:InformationPane::EmbeddedImageInfoStruct::__anon1::__anon2
 GPIOPinState	include/C/FlyCapture2Defs_C.h	/^		fc2EmbeddedImageInfoProperty GPIOPinState;$/;"	m	struct:_fc2EmbeddedImageInfo
 GPIOPinState	include/FlyCapture2Defs.h	/^		EmbeddedImageInfoProperty GPIOPinState;$/;"	m	struct:FlyCapture2::EmbeddedImageInfo
+GPU_THREADS_PER_BLOCK	src/util.h	35;"	d
+GPU_THREADS_PER_BLOCK	src/util.h	37;"	d
+GPU_THREADS_PER_BLOCK_FERMI	src/util.h	30;"	d
+GPU_THREADS_PER_BLOCK_MAXWELL	src/util.h	31;"	d
 GRAB_MODE_FORCE_32BITS	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		GRAB_MODE_FORCE_32BITS = FULL_32BIT_VALUE$/;"	e	enum:FlyCapture2::GrabMode
 GRAB_MODE_FORCE_32BITS	include/FlyCapture2Defs.h	/^		GRAB_MODE_FORCE_32BITS = FULL_32BIT_VALUE$/;"	e	enum:FlyCapture2::GrabMode
 GRAB_TIMEOUT_FORCE_32BITS	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		GRAB_TIMEOUT_FORCE_32BITS = FULL_32BIT_VALUE$/;"	e	enum:FlyCapture2::GrabTimeout
@@ -1046,10 +1600,15 @@ H264Option	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		H264Option(
 H264Option	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	struct H264Option$/;"	s	namespace:FlyCapture2
 H264Option	include/FlyCapture2Defs.h	/^		H264Option()$/;"	f	struct:FlyCapture2::H264Option
 H264Option	include/FlyCapture2Defs.h	/^	struct H264Option$/;"	s	namespace:FlyCapture2
+HAMMING_COST_H_	src/hamming_cost.h	22;"	d
 HEARTBEAT	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		HEARTBEAT,$/;"	e	enum:FlyCapture2::GigEPropertyType
 HEARTBEAT	include/FlyCapture2Defs.h	/^		HEARTBEAT,$/;"	e	enum:FlyCapture2::GigEPropertyType
 HEARTBEAT_TIMEOUT	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		HEARTBEAT_TIMEOUT,$/;"	e	enum:FlyCapture2::GigEPropertyType
 HEARTBEAT_TIMEOUT	include/FlyCapture2Defs.h	/^		HEARTBEAT_TIMEOUT,$/;"	e	enum:FlyCapture2::GigEPropertyType
+HEX	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	450;"	d	file:
+HEX	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	445;"	d	file:
+HEX	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	450;"	d	file:
+HEX	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	445;"	d	file:
 HISTOGRAMDRAWINGAREA_H_INCLUDED	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramDrawingArea.h	22;"	d
 HISTOGRAMWINDOW_H_INCLUDED	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramWindow.h	22;"	d
 HQ_LINEAR	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		HQ_LINEAR,$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
@@ -1065,8 +1624,12 @@ HistogramStruct	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramWindow.h	/^
 HistogramWindow	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramWindow.cpp	/^	HistogramWindow::HistogramWindow(BaseObjectType* cobject, const Glib::RefPtr<Gnome::Glade::Xml>& refGlade)$/;"	f	class:HistogramWindow
 HistogramWindow	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramWindow.h	/^class HistogramWindow : public Gtk::Window$/;"	c
 IDI_ICON1	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/resource.h	5;"	d
+ID_VOID_MAIN	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+ID_VOID_MAIN	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
 IMAGE_FILE_FORMAT_FORCE_32BITS	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		IMAGE_FILE_FORMAT_FORCE_32BITS = FULL_32BIT_VALUE$/;"	e	enum:FlyCapture2::ImageFileFormat
 IMAGE_FILE_FORMAT_FORCE_32BITS	include/FlyCapture2Defs.h	/^		IMAGE_FILE_FORMAT_FORCE_32BITS = FULL_32BIT_VALUE$/;"	e	enum:FlyCapture2::ImageFileFormat
+IMAGE_LIST	src/individual_calib.cpp	/^    enum InputType {INVALID, CAMERA, VIDEO_FILE, IMAGE_LIST};$/;"	e	enum:Settings::InputType	file:
+IMAGE_LIST	src/stereo_get_images.cpp	/^    enum InputType {INVALID, CAMERA, VIDEO_FILE, IMAGE_LIST};$/;"	e	enum:Settings::InputType	file:
 INC	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/Makefile	/^INC       = -I..\/..\/include -I\/usr\/include\/flycapture$/;"	m
 INC	flycapture.2.10.3.266_arm64/src/BusEventsEx/Makefile	/^INC       = -I..\/..\/include -I\/usr\/include\/flycapture$/;"	m
 INC	flycapture.2.10.3.266_arm64/src/CustomImageEx/Makefile	/^INC       = -I..\/..\/include -I\/usr\/include\/flycapture$/;"	m
@@ -1080,10 +1643,10 @@ INC	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/Makefile	/^INC       = -I..\/
 INC	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/Makefile	/^INC       = -I..\/..\/include -I\/usr\/include\/flycapture$/;"	m
 INC	flycapture.2.10.3.266_arm64/src/ImageEventEx/Makefile	/^INC       = -I..\/..\/include -I\/usr\/include\/flycapture$/;"	m
 INC	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/Makefile	/^INC       = -I..\/..\/include -I\/usr\/include\/flycapture$/;"	m
-INC	src/AsyncTriggerEx/Makefile	/^INC       = -I..\/..\/include -I\/usr\/include\/flycapture$/;"	m
-INC	src/FlyCapture2Test/Makefile	/^INC       = -I..\/..\/include -I\/usr\/include\/flycapture$/;"	m
-INC	src/MultipleCameraEx/Makefile	/^INC       = -I..\/..\/include -I\/usr\/include\/flycapture$/;"	m
-INC_DIRS	src/Makefile	/^INC_DIRS  = ${PROJECT_ROOT}\/include \/usr\/include\/flycapture$/;"	m
+INC	old_src/src/AsyncTriggerEx/Makefile	/^INC       = -I..\/..\/include -I\/usr\/include\/flycapture$/;"	m
+INC	old_src/src/FlyCapture2Test/Makefile	/^INC       = -I..\/..\/include -I\/usr\/include\/flycapture$/;"	m
+INC	old_src/src/MultipleCameraEx/Makefile	/^INC       = -I..\/..\/include -I\/usr\/include\/flycapture$/;"	m
+IND_CALIB	src/individual_calib.h	2;"	d
 INTERFACE_GIGE	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		INTERFACE_GIGE, \/**< GigE. *\/$/;"	e	enum:FlyCapture2::InterfaceType
 INTERFACE_GIGE	include/FlyCapture2Defs.h	/^		INTERFACE_GIGE, \/**< GigE. *\/$/;"	e	enum:FlyCapture2::InterfaceType
 INTERFACE_IEEE1394	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		INTERFACE_IEEE1394, \/**< IEEE-1394 (Includes 1394a and 1394b). *\/$/;"	e	enum:FlyCapture2::InterfaceType
@@ -1096,6 +1659,8 @@ INTERFACE_USB2	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		INTERFA
 INTERFACE_USB2	include/FlyCapture2Defs.h	/^		INTERFACE_USB2, \/**< USB 2.0. *\/$/;"	e	enum:FlyCapture2::InterfaceType
 INTERFACE_USB3	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		INTERFACE_USB3, \/**< USB 3.0. *\/$/;"	e	enum:FlyCapture2::InterfaceType
 INTERFACE_USB3	include/FlyCapture2Defs.h	/^		INTERFACE_USB3, \/**< USB 3.0. *\/$/;"	e	enum:FlyCapture2::InterfaceType
+INVALID	src/individual_calib.cpp	/^    enum InputType {INVALID, CAMERA, VIDEO_FILE, IMAGE_LIST};$/;"	e	enum:Settings::InputType	file:
+INVALID	src/stereo_get_images.cpp	/^    enum InputType {INVALID, CAMERA, VIDEO_FILE, IMAGE_LIST};$/;"	e	enum:Settings::InputType	file:
 IPAddress	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		IPAddress( unsigned int ipAddressVal )$/;"	f	struct:FlyCapture2::IPAddress
 IPAddress	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		IPAddress() { memset(octets, 0x0, 4 * sizeof(unsigned char) ); }$/;"	f	struct:FlyCapture2::IPAddress
 IPAddress	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	struct IPAddress$/;"	s	namespace:FlyCapture2
@@ -1106,6 +1671,8 @@ IPP	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		IPP,$/;"	e	enum:Fl
 IPP	include/FlyCapture2Defs.h	/^		IPP,$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
 IRIS	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		IRIS, \/**< Iris. *\/$/;"	e	enum:FlyCapture2::PropertyType
 IRIS	include/FlyCapture2Defs.h	/^		IRIS, \/**< Iris. *\/$/;"	e	enum:FlyCapture2::PropertyType
+ITER_COPY	src/cost_aggregation.h	24;"	d
+ITER_NORMAL	src/cost_aggregation.h	25;"	d
 Image	flycapture.2.10.3.266_arm64/include/Image.h	/^	class FLYCAPTURE2_API Image$/;"	c	namespace:FlyCapture2
 Image	include/Image.h	/^	class FLYCAPTURE2_API Image$/;"	c	namespace:FlyCapture2
 ImageDrawingArea	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/ImageDrawingArea.cpp	/^	ImageDrawingArea::ImageDrawingArea(BaseObjectType* cobject, const Glib::RefPtr<Gnome::Glade::Xml>& \/*refGlade*\/)$/;"	f	class:ImageDrawingArea
@@ -1129,6 +1696,8 @@ Initialize	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^Flycap
 Initialize	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramWindow.cpp	/^bool HistogramWindow::Initialize()$/;"	f	class:HistogramWindow
 Initialize	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/InformationPane.cpp	/^void InformationPane::Initialize()$/;"	f	class:InformationPane
 InitializeHDRRegisters	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/HighDynamicRangeEx.cpp	/^void InitializeHDRRegisters(Camera *pCam)$/;"	f
+InputType	src/individual_calib.cpp	/^    enum InputType {INVALID, CAMERA, VIDEO_FILE, IMAGE_LIST};$/;"	g	class:Settings	file:
+InputType	src/stereo_get_images.cpp	/^    enum InputType {INVALID, CAMERA, VIDEO_FILE, IMAGE_LIST};$/;"	g	class:Settings	file:
 InterfaceType	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	enum InterfaceType$/;"	g	namespace:FlyCapture2
 InterfaceType	include/FlyCapture2Defs.h	/^	enum InterfaceType$/;"	g	namespace:FlyCapture2
 IsContextValid	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Internal_C.h	/^inline bool IsContextValid( fc2Context context )$/;"	f
@@ -1151,7 +1720,9 @@ JPG2Option	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	struct JPG2O
 JPG2Option	include/FlyCapture2Defs.h	/^		JPG2Option()$/;"	f	struct:FlyCapture2::JPG2Option
 JPG2Option	include/FlyCapture2Defs.h	/^	struct JPG2Option$/;"	s	namespace:FlyCapture2
 KillGrabThread	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^FlycapWindow::KillGrabThread()$/;"	f	class:FlycapWindow
-LIBRARIES	src/Makefile	/^LIBRARIES = flycapture$/;"	m
+LDG	src/util.h	86;"	d
+LDG	src/util.h	88;"	d
+LEFT	src/configuration.h	38;"	d
 LIBS	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/Makefile	/^LIBS      = -L..\/..\/lib -lflycapture${D} ${FC2_DEPS}$/;"	m
 LIBS	flycapture.2.10.3.266_arm64/src/BusEventsEx/Makefile	/^LIBS      = -L..\/..\/lib -lflycapture${D} ${FC2_DEPS}$/;"	m
 LIBS	flycapture.2.10.3.266_arm64/src/CustomImageEx/Makefile	/^LIBS      = -L..\/..\/lib -lflycapture${D} ${FC2_DEPS}$/;"	m
@@ -1165,19 +1736,20 @@ LIBS	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/Makefile	/^LIBS      = -L..\
 LIBS	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/Makefile	/^LIBS      = -L..\/..\/lib -lflycapture${D} ${FC2_DEPS}$/;"	m
 LIBS	flycapture.2.10.3.266_arm64/src/ImageEventEx/Makefile	/^LIBS      = -L..\/..\/lib -lflycapture${D} ${FC2_DEPS}$/;"	m
 LIBS	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/Makefile	/^LIBS      = -L..\/..\/lib -lflycapture${D} ${FC2_DEPS}$/;"	m
-LIBS	src/AsyncTriggerEx/Makefile	/^LIBS      = -L..\/..\/lib -lflycapture${D} ${FC2_DEPS}$/;"	m
-LIBS	src/FlyCapture2Test/Makefile	/^LIBS      = -L..\/..\/lib -lflycapture${D} ${FC2_DEPS}$/;"	m
-LIBS	src/MultipleCameraEx/Makefile	/^LIBS      = -L..\/..\/lib -lflycapture${D} ${FC2_DEPS}$/;"	m
-LIB_DIRS	src/Makefile	/^LIB_DIRS  = ${PROJECT_ROOT}\/lib$/;"	m
+LIBS	old_src/src/AsyncTriggerEx/Makefile	/^LIBS      = -L..\/..\/lib -lflycapture${D} ${FC2_DEPS}$/;"	m
+LIBS	old_src/src/FlyCapture2Test/Makefile	/^LIBS      = -L..\/..\/lib -lflycapture${D} ${FC2_DEPS}$/;"	m
+LIBS	old_src/src/MultipleCameraEx/Makefile	/^LIBS      = -L..\/..\/lib -lflycapture${D} ${FC2_DEPS}$/;"	m
 LIGHTNESS	flycapture.2.10.3.266_arm64/include/ImageStatistics.h	/^				LIGHTNESS,$/;"	e	enum:FlyCapture2::ImageStatistics::StatisticsChannel
 LIGHTNESS	include/ImageStatistics.h	/^				LIGHTNESS,$/;"	e	enum:FlyCapture2::ImageStatistics::StatisticsChannel
 LINUX	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/AsyncTriggerEx.cpp	29;"	d	file:
-LINUX	src/AsyncTriggerEx/AsyncTriggerEx.cpp	29;"	d	file:
+LINUX	old_src/src/AsyncTriggerEx/AsyncTriggerEx.cpp	29;"	d	file:
+LINUX	old_src/src/cameraSetup.h	5;"	d
 LINUX	src/cameraSetup.h	5;"	d
 LINUX_X64	flycapture.2.10.3.266_arm64/include/Utilities.h	/^		LINUX_X64, \/**< All Linux 32-bit variants. *\/$/;"	e	enum:FlyCapture2::OSType
 LINUX_X64	include/Utilities.h	/^		LINUX_X64, \/**< All Linux 32-bit variants. *\/$/;"	e	enum:FlyCapture2::OSType
 LINUX_X86	flycapture.2.10.3.266_arm64/include/Utilities.h	/^		LINUX_X86, \/**< All Linux 32-bit variants. *\/$/;"	e	enum:FlyCapture2::OSType
 LINUX_X86	include/Utilities.h	/^		LINUX_X86, \/**< All Linux 32-bit variants. *\/$/;"	e	enum:FlyCapture2::OSType
+LOG	src/configuration.h	26;"	d
 LUTData	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		LUTData()$/;"	f	struct:FlyCapture2::LUTData
 LUTData	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	struct LUTData$/;"	s	namespace:FlyCapture2
 LUTData	include/FlyCapture2Defs.h	/^		LUTData()$/;"	f	struct:FlyCapture2::LUTData
@@ -1197,8 +1769,14 @@ MACAddress	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	struct MACAd
 MACAddress	include/FlyCapture2Defs.h	/^		MACAddress( unsigned int macAddressValHigh, unsigned int macAddressValLow )$/;"	f	struct:FlyCapture2::MACAddress
 MACAddress	include/FlyCapture2Defs.h	/^		MACAddress() { memset(octets, 0x0, 6 * sizeof(unsigned char) ); }$/;"	f	struct:FlyCapture2::MACAddress
 MACAddress	include/FlyCapture2Defs.h	/^	struct MACAddress$/;"	s	namespace:FlyCapture2
+MAX_COST	src/configuration.h	41;"	d
+MAX_DISPARITY	src/configuration.h	30;"	d
 MAX_STRING_LENGTH	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	61;"	d
 MAX_STRING_LENGTH	include/C/FlyCapture2Defs_C.h	61;"	d
+MEDIAN_FILTER_H_	src/median_filter.h	22;"	d
+MIN_COMPUTE	src/cost_aggregation.h	27;"	d
+MIN_NOCOMPUTE	src/cost_aggregation.h	28;"	d
+MISMATCHED_PIXEL	src/configuration.h	35;"	d
 MJPGOption	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		MJPGOption()$/;"	f	struct:FlyCapture2::MJPGOption
 MJPGOption	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	struct MJPGOption$/;"	s	namespace:FlyCapture2
 MJPGOption	include/FlyCapture2Defs.h	/^		MJPGOption()$/;"	f	struct:FlyCapture2::MJPGOption
@@ -1216,9 +1794,9 @@ MKDIR	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/Makefile	/^	MKDIR = mkdir -
 MKDIR	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/Makefile	/^	MKDIR = mkdir -p$/;"	m
 MKDIR	flycapture.2.10.3.266_arm64/src/ImageEventEx/Makefile	/^	MKDIR = mkdir -p$/;"	m
 MKDIR	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/Makefile	/^	MKDIR = mkdir -p$/;"	m
-MKDIR	src/AsyncTriggerEx/Makefile	/^	MKDIR = mkdir -p$/;"	m
-MKDIR	src/FlyCapture2Test/Makefile	/^	MKDIR = mkdir -p$/;"	m
-MKDIR	src/MultipleCameraEx/Makefile	/^	MKDIR = mkdir -p$/;"	m
+MKDIR	old_src/src/AsyncTriggerEx/Makefile	/^	MKDIR = mkdir -p$/;"	m
+MKDIR	old_src/src/FlyCapture2Test/Makefile	/^	MKDIR = mkdir -p$/;"	m
+MKDIR	old_src/src/MultipleCameraEx/Makefile	/^	MKDIR = mkdir -p$/;"	m
 MODE_0	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		MODE_0 = 0,$/;"	e	enum:FlyCapture2::Mode
 MODE_0	include/FlyCapture2Defs.h	/^		MODE_0 = 0,$/;"	e	enum:FlyCapture2::Mode
 MODE_1	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		MODE_1,$/;"	e	enum:FlyCapture2::Mode
@@ -1300,10 +1878,10 @@ MV	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/Makefile	/^	MV    = mv$/;"	m
 MV	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/Makefile	/^	MV    = mv$/;"	m
 MV	flycapture.2.10.3.266_arm64/src/ImageEventEx/Makefile	/^	MV    = mv$/;"	m
 MV	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/Makefile	/^	MV    = mv$/;"	m
-MV	src/AsyncTriggerEx/Makefile	/^	MV    = mv$/;"	m
-MV	src/FlyCapture2Test/Makefile	/^	MV    = mv$/;"	m
-MV	src/Makefile	/^MV        = mv$/;"	m
-MV	src/MultipleCameraEx/Makefile	/^	MV    = mv$/;"	m
+MV	old_src/src/AsyncTriggerEx/Makefile	/^	MV    = mv$/;"	m
+MV	old_src/src/FlyCapture2Test/Makefile	/^	MV    = mv$/;"	m
+MV	old_src/src/MultipleCameraEx/Makefile	/^	MV    = mv$/;"	m
+MedianFilter	src/median_filter.h	/^__inline__ __device__ void MedianFilter(const T* __restrict__ d_input, T* __restrict__ d_out, const uint32_t rows, const uint32_t cols) {$/;"	f
 Mode	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	enum Mode$/;"	g	namespace:FlyCapture2
 Mode	include/FlyCapture2Defs.h	/^	enum Mode$/;"	g	namespace:FlyCapture2
 NAME	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/Makefile	/^NAME      = ${BASE_NAME}${D}$/;"	m
@@ -1319,10 +1897,9 @@ NAME	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/Makefile	/^NAME      = ${BAS
 NAME	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/Makefile	/^NAME      = ${BASE_NAME}${D}$/;"	m
 NAME	flycapture.2.10.3.266_arm64/src/ImageEventEx/Makefile	/^NAME      = ${BASE_NAME}${D}$/;"	m
 NAME	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/Makefile	/^NAME      = ${BASE_NAME}${D}$/;"	m
-NAME	src/AsyncTriggerEx/Makefile	/^NAME      = ${BASE_NAME}${D}$/;"	m
-NAME	src/FlyCapture2Test/Makefile	/^NAME      = ${BASE_NAME}${D}$/;"	m
-NAME	src/Makefile	/^NAME      = ${BASE_NAME}${D}$/;"	m
-NAME	src/MultipleCameraEx/Makefile	/^NAME      = ${BASE_NAME}${D}$/;"	m
+NAME	old_src/src/AsyncTriggerEx/Makefile	/^NAME      = ${BASE_NAME}${D}$/;"	m
+NAME	old_src/src/FlyCapture2Test/Makefile	/^NAME      = ${BASE_NAME}${D}$/;"	m
+NAME	old_src/src/MultipleCameraEx/Makefile	/^NAME      = ${BASE_NAME}${D}$/;"	m
 NEAREST_NEIGHBOR	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		NEAREST_NEIGHBOR,$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
 NEAREST_NEIGHBOR	include/FlyCapture2Defs.h	/^		NEAREST_NEIGHBOR,$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
 NODE	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		NODE$/;"	e	enum:_fc2NodeType
@@ -1337,12 +1914,19 @@ NOT_CONNECTED	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		NOT_
 NOT_CONNECTED	flycapture.2.10.3.266_arm64/include/TopologyNode.h	/^				NOT_CONNECTED = 1,$/;"	e	enum:FlyCapture2::TopologyNode::PortType
 NOT_CONNECTED	include/C/FlyCapture2Defs_C.h	/^		NOT_CONNECTED = 1,$/;"	e	enum:_fc2PortType
 NOT_CONNECTED	include/TopologyNode.h	/^				NOT_CONNECTED = 1,$/;"	e	enum:FlyCapture2::TopologyNode::PortType
+NOT_EXISTING	src/individual_calib.cpp	/^    enum Pattern { NOT_EXISTING, CHESSBOARD, CIRCLES_GRID, ASYMMETRIC_CIRCLES_GRID };$/;"	e	enum:Settings::Pattern	file:
+NOT_EXISTING	src/stereo_get_images.cpp	/^    enum Pattern { NOT_EXISTING, CHESSBOARD, CIRCLES_GRID, ASYMMETRIC_CIRCLES_GRID };$/;"	e	enum:Settings::Pattern	file:
 NO_COLOR_PROCESSING	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		NO_COLOR_PROCESSING,$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
 NO_COLOR_PROCESSING	include/FlyCapture2Defs.h	/^		NO_COLOR_PROCESSING,$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
 NO_EXTENDED_SHUTTER	flycapture.2.10.3.266_arm64/src/ExtendedShutterEx/ExtendedShutterEx.cpp	/^    NO_EXTENDED_SHUTTER,$/;"	e	enum:ExtendedShutterType	file:
 NULL	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	35;"	d
 NULL	include/FlyCapture2Defs.h	35;"	d
-NUMCAMS	src/stereoCamera.cpp	11;"	d	file:
+NUMCAMS	old_src/src/stereoCamera.cpp	11;"	d	file:
+NUMCAMS	src/individual_calib.cpp	11;"	d	file:
+NUMCAMS	src/stereoCamera.cpp	16;"	d	file:
+NUMCAMS	src/stereo_get_images.cpp	11;"	d	file:
+NUM_BUFFERS	old_src/src/cameraSetup.cpp	29;"	d	file:
+NUM_BUFFERS	src/cameraSetup.cpp	29;"	d	file:
 NUM_FRAMERATES	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		NUM_FRAMERATES, \/**< Number of possible camera frame rates. *\/$/;"	e	enum:FlyCapture2::FrameRate
 NUM_FRAMERATES	include/FlyCapture2Defs.h	/^		NUM_FRAMERATES, \/**< Number of possible camera frame rates. *\/$/;"	e	enum:FlyCapture2::FrameRate
 NUM_MODES	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		NUM_MODES, \/**< Number of modes *\/$/;"	e	enum:FlyCapture2::Mode
@@ -1369,12 +1953,10 @@ OBJ	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/Makefile	/^OBJ       = $(pats
 OBJ	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/Makefile	/^OBJ       = $(patsubst %,$(ODIR)\/%,$(_OBJ))$/;"	m
 OBJ	flycapture.2.10.3.266_arm64/src/ImageEventEx/Makefile	/^OBJ       = $(patsubst %,$(ODIR)\/%,$(_OBJ))$/;"	m
 OBJ	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/Makefile	/^OBJ       = $(patsubst %,$(ODIR)\/%,$(_OBJ))$/;"	m
-OBJ	src/AsyncTriggerEx/Makefile	/^OBJ       = $(patsubst %,$(ODIR)\/%,$(_OBJ))$/;"	m
-OBJ	src/FlyCapture2Test/Makefile	/^OBJ       = $(patsubst %,$(ODIR)\/%,$(_OBJ))$/;"	m
-OBJ	src/MultipleCameraEx/Makefile	/^OBJ       = $(patsubst %,$(ODIR)\/%,$(_OBJ))$/;"	m
-OBJECT_DEPENDS_ON_CORRESPONDING_HEADER	src/Makefile	/^define OBJECT_DEPENDS_ON_CORRESPONDING_HEADER$/;"	m
-OBJS	src/Makefile	/^OBJS      = $(C_OBJS) $(CXX_OBJS)$/;"	m
-OBJ_FILES	src/Makefile	/^OBJ_FILES = *.o$/;"	m
+OBJ	old_src/src/AsyncTriggerEx/Makefile	/^OBJ       = $(patsubst %,$(ODIR)\/%,$(_OBJ))$/;"	m
+OBJ	old_src/src/FlyCapture2Test/Makefile	/^OBJ       = $(patsubst %,$(ODIR)\/%,$(_OBJ))$/;"	m
+OBJ	old_src/src/MultipleCameraEx/Makefile	/^OBJ       = $(patsubst %,$(ODIR)\/%,$(_OBJ))$/;"	m
+OCCLUDED_PIXEL	src/configuration.h	34;"	d
 ODIR	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/Makefile	/^	ODIR  = .obj\/build${D}$/;"	m
 ODIR	flycapture.2.10.3.266_arm64/src/BusEventsEx/Makefile	/^	ODIR  = .obj\/build${D}$/;"	m
 ODIR	flycapture.2.10.3.266_arm64/src/CustomImageEx/Makefile	/^	ODIR  = .obj\/build${D}$/;"	m
@@ -1388,9 +1970,9 @@ ODIR	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/Makefile	/^	ODIR  = .obj\/bu
 ODIR	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/Makefile	/^	ODIR  = .obj\/build${D}$/;"	m
 ODIR	flycapture.2.10.3.266_arm64/src/ImageEventEx/Makefile	/^	ODIR  = .obj\/build${D}$/;"	m
 ODIR	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/Makefile	/^	ODIR  = .obj\/build${D}$/;"	m
-ODIR	src/AsyncTriggerEx/Makefile	/^	ODIR  = .obj\/build${D}$/;"	m
-ODIR	src/FlyCapture2Test/Makefile	/^	ODIR  = .obj\/build${D}$/;"	m
-ODIR	src/MultipleCameraEx/Makefile	/^	ODIR  = .obj\/build${D}$/;"	m
+ODIR	old_src/src/AsyncTriggerEx/Makefile	/^	ODIR  = .obj\/build${D}$/;"	m
+ODIR	old_src/src/FlyCapture2Test/Makefile	/^	ODIR  = .obj\/build${D}$/;"	m
+ODIR	old_src/src/MultipleCameraEx/Makefile	/^	ODIR  = .obj\/build${D}$/;"	m
 OPT_INC	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/Makefile	/^OPT_INC = ${PROJECT_ROOT}\/common\/make\/common.mk$/;"	m
 OPT_INC	flycapture.2.10.3.266_arm64/src/BusEventsEx/Makefile	/^OPT_INC = ${PROJECT_ROOT}\/common\/make\/common.mk$/;"	m
 OPT_INC	flycapture.2.10.3.266_arm64/src/CustomImageEx/Makefile	/^OPT_INC = ${PROJECT_ROOT}\/common\/make\/common.mk$/;"	m
@@ -1404,9 +1986,9 @@ OPT_INC	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/Makefile	/^OPT_INC = ${PR
 OPT_INC	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/Makefile	/^OPT_INC = ${PROJECT_ROOT}\/common\/make\/common.mk$/;"	m
 OPT_INC	flycapture.2.10.3.266_arm64/src/ImageEventEx/Makefile	/^OPT_INC = ${PROJECT_ROOT}\/common\/make\/common.mk$/;"	m
 OPT_INC	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/Makefile	/^OPT_INC = ${PROJECT_ROOT}\/common\/make\/common.mk$/;"	m
-OPT_INC	src/AsyncTriggerEx/Makefile	/^OPT_INC = ${PROJECT_ROOT}\/common\/make\/common.mk$/;"	m
-OPT_INC	src/FlyCapture2Test/Makefile	/^OPT_INC = ${PROJECT_ROOT}\/common\/make\/common.mk$/;"	m
-OPT_INC	src/MultipleCameraEx/Makefile	/^OPT_INC = ${PROJECT_ROOT}\/common\/make\/common.mk$/;"	m
+OPT_INC	old_src/src/AsyncTriggerEx/Makefile	/^OPT_INC = ${PROJECT_ROOT}\/common\/make\/common.mk$/;"	m
+OPT_INC	old_src/src/FlyCapture2Test/Makefile	/^OPT_INC = ${PROJECT_ROOT}\/common\/make\/common.mk$/;"	m
+OPT_INC	old_src/src/MultipleCameraEx/Makefile	/^OPT_INC = ${PROJECT_ROOT}\/common\/make\/common.mk$/;"	m
 OSTYPE_FORCE_32BITS	flycapture.2.10.3.266_arm64/include/Utilities.h	/^		OSTYPE_FORCE_32BITS = FULL_32BIT_VALUE$/;"	e	enum:FlyCapture2::OSType
 OSTYPE_FORCE_32BITS	include/Utilities.h	/^		OSTYPE_FORCE_32BITS = FULL_32BIT_VALUE$/;"	e	enum:FlyCapture2::OSType
 OSType	flycapture.2.10.3.266_arm64/include/Utilities.h	/^	enum OSType$/;"	g	namespace:FlyCapture2
@@ -1424,10 +2006,9 @@ OUTDIR	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/Makefile	/^OUTDIR    = ${P
 OUTDIR	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/Makefile	/^OUTDIR    = ${PROJECT_ROOT}\/bin$/;"	m
 OUTDIR	flycapture.2.10.3.266_arm64/src/ImageEventEx/Makefile	/^OUTDIR    = ${PROJECT_ROOT}\/bin$/;"	m
 OUTDIR	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/Makefile	/^OUTDIR    = ${PROJECT_ROOT}\/bin$/;"	m
-OUTDIR	src/AsyncTriggerEx/Makefile	/^OUTDIR    = ${PROJECT_ROOT}\/bin$/;"	m
-OUTDIR	src/FlyCapture2Test/Makefile	/^OUTDIR    = ${PROJECT_ROOT}\/bin$/;"	m
-OUTDIR	src/Makefile	/^OUTDIR    = ${PROJECT_ROOT}\/bin$/;"	m
-OUTDIR	src/MultipleCameraEx/Makefile	/^OUTDIR    = ${PROJECT_ROOT}\/bin$/;"	m
+OUTDIR	old_src/src/AsyncTriggerEx/Makefile	/^OUTDIR    = ${PROJECT_ROOT}\/bin$/;"	m
+OUTDIR	old_src/src/FlyCapture2Test/Makefile	/^OUTDIR    = ${PROJECT_ROOT}\/bin$/;"	m
+OUTDIR	old_src/src/MultipleCameraEx/Makefile	/^OUTDIR    = ${PROJECT_ROOT}\/bin$/;"	m
 OnBusArrival	flycapture.2.10.3.266_arm64/src/BusEventsEx/BusEventsEx.cpp	/^void OnBusArrival(void *pParam, unsigned int serialNumber)$/;"	f
 OnBusArrival	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^FlycapWindow::OnBusArrival( void* pParam, unsigned int serial )$/;"	f	class:FlycapWindow
 OnBusArrivalHandler	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^FlycapWindow::OnBusArrivalHandler()$/;"	f	class:FlycapWindow
@@ -1472,6 +2053,7 @@ PACKET_SIZE	include/C/FlyCapture2Defs_C.h	/^		PACKET_SIZE,$/;"	e	enum:_fc2GigEPr
 PACKET_SIZE	include/FlyCapture2Defs.h	/^		PACKET_SIZE,$/;"	e	enum:FlyCapture2::GigEPropertyType
 PAN	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		PAN, \/**< Pan. *\/$/;"	e	enum:FlyCapture2::PropertyType
 PAN	include/FlyCapture2Defs.h	/^		PAN, \/**< Pan. *\/$/;"	e	enum:FlyCapture2::PropertyType
+PATH_AGGREGATION	src/configuration.h	29;"	d
 PCIE_BUSSPEED_2_5	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		PCIE_BUSSPEED_2_5, \/** 2.5 Gb\/s *\/$/;"	e	enum:FlyCapture2::PCIeBusSpeed
 PCIE_BUSSPEED_2_5	include/FlyCapture2Defs.h	/^		PCIE_BUSSPEED_2_5, \/** 2.5 Gb\/s *\/$/;"	e	enum:FlyCapture2::PCIeBusSpeed
 PCIE_BUSSPEED_5_0	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		PCIE_BUSSPEED_5_0, \/** 5.0 Gb\/s *\/$/;"	e	enum:FlyCapture2::PCIeBusSpeed
@@ -1662,6 +2244,130 @@ PIXEL_FORMAT_S_MONO16	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		
 PIXEL_FORMAT_S_MONO16	include/FlyCapture2Defs.h	/^		PIXEL_FORMAT_S_MONO16  = 0x01000000, \/**< 16 bits of signed mono information. *\/$/;"	e	enum:FlyCapture2::PixelFormat
 PIXEL_FORMAT_S_RGB16	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		PIXEL_FORMAT_S_RGB16   = 0x00800000, \/**< R = G = B = 16 bits signed. *\/$/;"	e	enum:FlyCapture2::PixelFormat
 PIXEL_FORMAT_S_RGB16	include/FlyCapture2Defs.h	/^		PIXEL_FORMAT_S_RGB16   = 0x00800000, \/**< R = G = B = 16 bits signed. *\/$/;"	e	enum:FlyCapture2::PixelFormat
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	293;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	296;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	299;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	302;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	305;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	308;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	311;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	314;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	317;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	320;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	323;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	326;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	329;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	332;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	335;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	338;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	341;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	344;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	347;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	350;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	353;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	356;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	359;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	362;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	365;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	369;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	372;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	375;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	378;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	381;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	385;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	288;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	291;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	294;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	297;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	300;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	303;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	306;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	309;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	312;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	315;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	318;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	321;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	324;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	327;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	330;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	333;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	336;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	339;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	342;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	345;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	348;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	351;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	354;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	357;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	360;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	364;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	367;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	370;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	373;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	376;"	d	file:
+PLATFORM_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	380;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	293;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	296;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	299;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	302;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	305;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	308;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	311;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	314;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	317;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	320;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	323;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	326;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	329;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	332;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	335;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	338;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	341;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	344;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	347;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	350;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	353;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	356;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	359;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	362;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	365;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	369;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	372;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	375;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	378;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	381;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	385;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	288;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	291;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	294;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	297;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	300;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	303;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	306;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	309;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	312;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	315;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	318;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	321;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	324;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	327;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	330;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	333;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	336;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	339;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	342;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	345;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	348;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	351;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	354;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	357;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	360;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	364;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	367;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	370;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	373;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	376;"	d	file:
+PLATFORM_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	380;"	d	file:
 PNG	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		PNG, \/**< Portable network graphics. *\/$/;"	e	enum:FlyCapture2::ImageFileFormat
 PNG	include/FlyCapture2Defs.h	/^		PNG, \/**< Portable network graphics. *\/$/;"	e	enum:FlyCapture2::ImageFileFormat
 PNGOption	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		PNGOption()$/;"	f	struct:FlyCapture2::PNGOption
@@ -1688,16 +2394,19 @@ PROJECT_ROOT	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/Makefile	/^PROJECT_R
 PROJECT_ROOT	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/Makefile	/^PROJECT_ROOT=..\/..\/$/;"	m
 PROJECT_ROOT	flycapture.2.10.3.266_arm64/src/ImageEventEx/Makefile	/^PROJECT_ROOT=..\/..\/$/;"	m
 PROJECT_ROOT	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/Makefile	/^PROJECT_ROOT=..\/..\/$/;"	m
-PROJECT_ROOT	src/AsyncTriggerEx/Makefile	/^PROJECT_ROOT=..\/..\/$/;"	m
-PROJECT_ROOT	src/FlyCapture2Test/Makefile	/^PROJECT_ROOT=..\/..\/$/;"	m
-PROJECT_ROOT	src/Makefile	/^PROJECT_ROOT=..$/;"	m
-PROJECT_ROOT	src/MultipleCameraEx/Makefile	/^PROJECT_ROOT=..\/..\/$/;"	m
+PROJECT_ROOT	old_src/src/AsyncTriggerEx/Makefile	/^PROJECT_ROOT=..\/..\/$/;"	m
+PROJECT_ROOT	old_src/src/FlyCapture2Test/Makefile	/^PROJECT_ROOT=..\/..\/$/;"	m
+PROJECT_ROOT	old_src/src/MultipleCameraEx/Makefile	/^PROJECT_ROOT=..\/..\/$/;"	m
 PROPERTY_TYPE_FORCE_32BITS	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		PROPERTY_TYPE_FORCE_32BITS = FULL_32BIT_VALUE$/;"	e	enum:FlyCapture2::PropertyType
 PROPERTY_TYPE_FORCE_32BITS	include/FlyCapture2Defs.h	/^		PROPERTY_TYPE_FORCE_32BITS = FULL_32BIT_VALUE$/;"	e	enum:FlyCapture2::PropertyType
+Pattern	src/individual_calib.cpp	/^    enum Pattern { NOT_EXISTING, CHESSBOARD, CIRCLES_GRID, ASYMMETRIC_CIRCLES_GRID };$/;"	g	class:Settings	file:
+Pattern	src/stereo_get_images.cpp	/^    enum Pattern { NOT_EXISTING, CHESSBOARD, CIRCLES_GRID, ASYMMETRIC_CIRCLES_GRID };$/;"	g	class:Settings	file:
 PixelFormat	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	enum PixelFormat$/;"	g	namespace:FlyCapture2
 PixelFormat	include/FlyCapture2Defs.h	/^	enum PixelFormat$/;"	g	namespace:FlyCapture2
 PollForTriggerReady	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^bool PollForTriggerReady(Camera *pCam)$/;"	f
-PollForTriggerReady	src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^bool PollForTriggerReady(Camera *pCam)$/;"	f
+PollForTriggerReady	old_src/src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^bool PollForTriggerReady(Camera *pCam)$/;"	f
+PollForTriggerReady	old_src/src/cameraSetup.cpp	/^bool PollForTriggerReady(Camera *pCam)$/;"	f
+PollForTriggerReady	src/cameraSetup.cpp	/^bool PollForTriggerReady(Camera *pCam)$/;"	f
 PopulateFilterData	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/SaveImageFileChooserDialog.cpp	/^void SaveImageFileChooserDialog::PopulateFilterData()$/;"	f	class:SaveImageFileChooserDialog
 PortType	flycapture.2.10.3.266_arm64/include/TopologyNode.h	/^			enum PortType$/;"	g	class:FlyCapture2::TopologyNode
 PortType	include/TopologyNode.h	/^			enum PortType$/;"	g	class:FlyCapture2::TopologyNode
@@ -1713,9 +2422,10 @@ PrintBuildInfo	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/GrabCallbackEx.cpp
 PrintBuildInfo	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/HighDynamicRangeEx.cpp	/^void PrintBuildInfo()$/;"	f
 PrintBuildInfo	flycapture.2.10.3.266_arm64/src/ImageEventEx/ImageEventEx.cpp	/^void PrintBuildInfo()$/;"	f
 PrintBuildInfo	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/MultipleCameraEx.cpp	/^void PrintBuildInfo()$/;"	f
-PrintBuildInfo	src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^void PrintBuildInfo()$/;"	f
-PrintBuildInfo	src/FlyCapture2Test/FlyCapture2Test.cpp	/^void PrintBuildInfo()$/;"	f
-PrintBuildInfo	src/MultipleCameraEx/MultipleCameraEx.cpp	/^void PrintBuildInfo()$/;"	f
+PrintBuildInfo	old_src/src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^void PrintBuildInfo()$/;"	f
+PrintBuildInfo	old_src/src/FlyCapture2Test/FlyCapture2Test.cpp	/^void PrintBuildInfo()$/;"	f
+PrintBuildInfo	old_src/src/MultipleCameraEx/MultipleCameraEx.cpp	/^void PrintBuildInfo()$/;"	f
+PrintBuildInfo	old_src/src/cameraSetup.cpp	/^void PrintBuildInfo()$/;"	f
 PrintBuildInfo	src/cameraSetup.cpp	/^void PrintBuildInfo()$/;"	f
 PrintCameraInfo	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^void PrintCameraInfo(CameraInfo *pCamInfo)$/;"	f
 PrintCameraInfo	flycapture.2.10.3.266_arm64/src/CustomImageEx/CustomImageEx.cpp	/^void PrintCameraInfo(CameraInfo *pCamInfo)$/;"	f
@@ -1727,9 +2437,10 @@ PrintCameraInfo	flycapture.2.10.3.266_arm64/src/GigEGrabEx_C/GigEGrabEx_C.c	/^vo
 PrintCameraInfo	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/GrabCallbackEx.cpp	/^void PrintCameraInfo(CameraInfo *pCamInfo)$/;"	f
 PrintCameraInfo	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/HighDynamicRangeEx.cpp	/^void PrintCameraInfo(CameraInfo *pCamInfo)$/;"	f
 PrintCameraInfo	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/MultipleCameraEx.cpp	/^void PrintCameraInfo(CameraInfo *pCamInfo)$/;"	f
-PrintCameraInfo	src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^void PrintCameraInfo(CameraInfo *pCamInfo)$/;"	f
-PrintCameraInfo	src/FlyCapture2Test/FlyCapture2Test.cpp	/^void PrintCameraInfo(CameraInfo *pCamInfo)$/;"	f
-PrintCameraInfo	src/MultipleCameraEx/MultipleCameraEx.cpp	/^void PrintCameraInfo(CameraInfo *pCamInfo)$/;"	f
+PrintCameraInfo	old_src/src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^void PrintCameraInfo(CameraInfo *pCamInfo)$/;"	f
+PrintCameraInfo	old_src/src/FlyCapture2Test/FlyCapture2Test.cpp	/^void PrintCameraInfo(CameraInfo *pCamInfo)$/;"	f
+PrintCameraInfo	old_src/src/MultipleCameraEx/MultipleCameraEx.cpp	/^void PrintCameraInfo(CameraInfo *pCamInfo)$/;"	f
+PrintCameraInfo	old_src/src/cameraSetup.cpp	/^void PrintCameraInfo(CameraInfo *pCamInfo)$/;"	f
 PrintCameraInfo	src/cameraSetup.cpp	/^void PrintCameraInfo(CameraInfo *pCamInfo)$/;"	f
 PrintError	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^void PrintError(Error error) { error.PrintErrorTrace(); }$/;"	f
 PrintError	flycapture.2.10.3.266_arm64/src/BusEventsEx/BusEventsEx.cpp	/^void PrintError(Error error) { error.PrintErrorTrace(); }$/;"	f
@@ -1741,9 +2452,10 @@ PrintError	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/GrabCallbackEx.cpp	/^v
 PrintError	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/HighDynamicRangeEx.cpp	/^void PrintError(Error error) { error.PrintErrorTrace(); }$/;"	f
 PrintError	flycapture.2.10.3.266_arm64/src/ImageEventEx/ImageEventEx.cpp	/^void PrintError(Error error) { error.PrintErrorTrace(); }$/;"	f
 PrintError	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/MultipleCameraEx.cpp	/^void PrintError(Error error) { error.PrintErrorTrace(); }$/;"	f
-PrintError	src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^void PrintError(Error error) { error.PrintErrorTrace(); }$/;"	f
-PrintError	src/FlyCapture2Test/FlyCapture2Test.cpp	/^void PrintError(Error error) { error.PrintErrorTrace(); }$/;"	f
-PrintError	src/MultipleCameraEx/MultipleCameraEx.cpp	/^void PrintError(Error error) { error.PrintErrorTrace(); }$/;"	f
+PrintError	old_src/src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^void PrintError(Error error) { error.PrintErrorTrace(); }$/;"	f
+PrintError	old_src/src/FlyCapture2Test/FlyCapture2Test.cpp	/^void PrintError(Error error) { error.PrintErrorTrace(); }$/;"	f
+PrintError	old_src/src/MultipleCameraEx/MultipleCameraEx.cpp	/^void PrintError(Error error) { error.PrintErrorTrace(); }$/;"	f
+PrintError	old_src/src/cameraSetup.cpp	/^void PrintError(Error error) { error.PrintErrorTrace(); }$/;"	f
 PrintError	src/cameraSetup.cpp	/^void PrintError(Error error) { error.PrintErrorTrace(); }$/;"	f
 PrintFormat7Capabilities	flycapture.2.10.3.266_arm64/src/CustomImageEx/CustomImageEx.cpp	/^void PrintFormat7Capabilities(Format7Info fmt7Info)$/;"	f
 PrintGrabLoopError	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^FlycapWindow::PrintGrabLoopError( Error fc2Error )$/;"	f	class:FlycapWindow
@@ -1772,13 +2484,15 @@ RED	include/ImageStatistics.h	/^				RED,$/;"	e	enum:FlyCapture2::ImageStatistics
 REGISTRY_HIVE	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HelpLauncher.h	26;"	d
 REGISTRY_HIVE	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HelpLauncher.h	28;"	d
 REGISTRY_HIVE	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HelpLauncher.h	30;"	d
+REL_THRESH	src/configuration.h	48;"	d
 REMOVAL	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		REMOVAL, \/**< Register for removals only. *\/$/;"	e	enum:FlyCapture2::BusCallbackType
 REMOVAL	include/FlyCapture2Defs.h	/^		REMOVAL, \/**< Register for removals only. *\/$/;"	e	enum:FlyCapture2::BusCallbackType
 RGGB	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		RGGB, \/**< Red-Green-Green-Blue. *\/$/;"	e	enum:FlyCapture2::BayerTileFormat
 RGGB	include/FlyCapture2Defs.h	/^		RGGB, \/**< Red-Green-Green-Blue. *\/$/;"	e	enum:FlyCapture2::BayerTileFormat
 RIGOROUS	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		RIGOROUS,$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
 RIGOROUS	include/FlyCapture2Defs.h	/^		RIGOROUS,$/;"	e	enum:FlyCapture2::ColorProcessingAlgorithm
-RM	src/Makefile	/^RM        = rm$/;"	m
+RM	old_src/src/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	src/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
 ROIPosition	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2EmbeddedImageInfoProperty ROIPosition;$/;"	m	struct:_fc2EmbeddedImageInfo
 ROIPosition	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		EmbeddedImageInfoProperty ROIPosition;$/;"	m	struct:FlyCapture2::EmbeddedImageInfo
 ROIPosition	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/InformationPane.h	/^					unsigned int ROIPosition;$/;"	m	struct:InformationPane::EmbeddedImageInfoStruct::__anon1::__anon2
@@ -1812,9 +2526,9 @@ RunSingleCamera	flycapture.2.10.3.266_arm64/src/FlyCapture2Test/FlyCapture2Test.
 RunSingleCamera	flycapture.2.10.3.266_arm64/src/GigEGrabEx/GigEGrabEx.cpp	/^int RunSingleCamera(PGRGuid guid)$/;"	f
 RunSingleCamera	flycapture.2.10.3.266_arm64/src/GigEGrabEx_C/GigEGrabEx_C.c	/^int RunSingleCamera(fc2Context context, fc2PGRGuid guid)$/;"	f
 RunSingleCamera	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/GrabCallbackEx.cpp	/^int RunSingleCamera(PGRGuid guid)$/;"	f
-RunSingleCamera	src/FlyCapture2Test/FlyCapture2Test.cpp	/^int RunSingleCamera(PGRGuid guid)$/;"	f
-RunSingleCamera	src/cameraSetup.cpp	/^int RunSingleCamera(PGRGuid guid)$/;"	f
+RunSingleCamera	old_src/src/FlyCapture2Test/FlyCapture2Test.cpp	/^int RunSingleCamera(PGRGuid guid)$/;"	f
 RunStandard	flycapture.2.10.3.266_arm64/src/ImageEventEx/ImageEventEx.cpp	/^int RunStandard()$/;"	f
+S2V_B64	src/util.h	77;"	d
 SATURATION	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		SATURATION, \/**< Saturation. *\/$/;"	e	enum:FlyCapture2::PropertyType
 SATURATION	flycapture.2.10.3.266_arm64/include/ImageStatistics.h	/^				SATURATION,$/;"	e	enum:FlyCapture2::ImageStatistics::StatisticsChannel
 SATURATION	include/FlyCapture2Defs.h	/^		SATURATION, \/**< Saturation. *\/$/;"	e	enum:FlyCapture2::PropertyType
@@ -1832,15 +2546,53 @@ SDIR	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/Makefile	/^	SDIR  = .$/;"	m
 SDIR	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/Makefile	/^	SDIR  = .$/;"	m
 SDIR	flycapture.2.10.3.266_arm64/src/ImageEventEx/Makefile	/^	SDIR  = .$/;"	m
 SDIR	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/Makefile	/^	SDIR  = .$/;"	m
-SDIR	src/AsyncTriggerEx/Makefile	/^	SDIR  = .$/;"	m
-SDIR	src/FlyCapture2Test/Makefile	/^	SDIR  = .$/;"	m
-SDIR	src/MultipleCameraEx/Makefile	/^	SDIR  = .$/;"	m
+SDIR	old_src/src/AsyncTriggerEx/Makefile	/^	SDIR  = .$/;"	m
+SDIR	old_src/src/FlyCapture2Test/Makefile	/^	SDIR  = .$/;"	m
+SDIR	old_src/src/MultipleCameraEx/Makefile	/^	SDIR  = .$/;"	m
 SHARPNESS	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		SHARPNESS, \/**< Sharpness *\/$/;"	e	enum:FlyCapture2::PropertyType
 SHARPNESS	include/FlyCapture2Defs.h	/^		SHARPNESS, \/**< Sharpness *\/$/;"	e	enum:FlyCapture2::PropertyType
+SHELL	old_src/src/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	src/Makefile	/^SHELL = \/bin\/sh$/;"	m
 SHUTTER	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		SHUTTER, \/**< Shutter. *\/$/;"	e	enum:FlyCapture2::PropertyType
 SHUTTER	include/FlyCapture2Defs.h	/^		SHUTTER, \/**< Shutter. *\/$/;"	e	enum:FlyCapture2::PropertyType
+SIMULATE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+SIMULATE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+SIMULATE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+SIMULATE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	file:
+SIMULATE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	172;"	d	file:
+SIMULATE_ID	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+SIMULATE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+SIMULATE_ID	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+SIMULATE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	file:
+SIMULATE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	172;"	d	file:
+SIMULATE_ID	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	162;"	d	file:
+SIMULATE_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	177;"	d	file:
+SIMULATE_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+SIMULATE_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+SIMULATE_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+SIMULATE_VERSION_MAJOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	file:
+SIMULATE_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	162;"	d	file:
+SIMULATE_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	177;"	d	file:
+SIMULATE_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+SIMULATE_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+SIMULATE_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+SIMULATE_VERSION_MAJOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	file:
+SIMULATE_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	163;"	d	file:
+SIMULATE_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	178;"	d	file:
+SIMULATE_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	33;"	d	file:
+SIMULATE_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	165;"	d	file:
+SIMULATE_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	file:
+SIMULATE_VERSION_MINOR	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+SIMULATE_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	163;"	d	file:
+SIMULATE_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	178;"	d	file:
+SIMULATE_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	33;"	d	file:
+SIMULATE_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	165;"	d	file:
+SIMULATE_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	file:
+SIMULATE_VERSION_MINOR	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
 SOFTWARE_TRIGGER_CAMERA	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/AsyncTriggerEx.cpp	44;"	d	file:
-SOFTWARE_TRIGGER_CAMERA	src/AsyncTriggerEx/AsyncTriggerEx.cpp	44;"	d	file:
+SOFTWARE_TRIGGER_CAMERA	old_src/src/AsyncTriggerEx/AsyncTriggerEx.cpp	44;"	d	file:
 SRC	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/Makefile	/^SRC       = $(_OBJ:.o=.cpp)$/;"	m
 SRC	flycapture.2.10.3.266_arm64/src/BusEventsEx/Makefile	/^SRC       = $(_OBJ:.o=.cpp)$/;"	m
 SRC	flycapture.2.10.3.266_arm64/src/CustomImageEx/Makefile	/^SRC       = $(_OBJ:.o=.cpp)$/;"	m
@@ -1854,10 +2606,23 @@ SRC	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/Makefile	/^SRC       = $(_OBJ
 SRC	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/Makefile	/^SRC       = $(_OBJ:.o=.cpp)$/;"	m
 SRC	flycapture.2.10.3.266_arm64/src/ImageEventEx/Makefile	/^SRC       = $(_OBJ:.o=.cpp)$/;"	m
 SRC	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/Makefile	/^SRC       = $(_OBJ:.o=.cpp)$/;"	m
-SRC	src/AsyncTriggerEx/Makefile	/^SRC       = $(_OBJ:.o=.cpp)$/;"	m
-SRC	src/FlyCapture2Test/Makefile	/^SRC       = $(_OBJ:.o=.cpp)$/;"	m
-SRC	src/MultipleCameraEx/Makefile	/^SRC       = $(_OBJ:.o=.cpp)$/;"	m
+SRC	old_src/src/AsyncTriggerEx/Makefile	/^SRC       = $(_OBJ:.o=.cpp)$/;"	m
+SRC	old_src/src/FlyCapture2Test/Makefile	/^SRC       = $(_OBJ:.o=.cpp)$/;"	m
+SRC	old_src/src/MultipleCameraEx/Makefile	/^SRC       = $(_OBJ:.o=.cpp)$/;"	m
+STRINGIFY	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	289;"	d	file:
+STRINGIFY	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	284;"	d	file:
+STRINGIFY	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	289;"	d	file:
+STRINGIFY	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	284;"	d	file:
+STRINGIFY_HELPER	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	288;"	d	file:
+STRINGIFY_HELPER	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	283;"	d	file:
+STRINGIFY_HELPER	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	288;"	d	file:
+STRINGIFY_HELPER	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	283;"	d	file:
 STRIP	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/Makefile	/^	STRIP = strip$/;"	m
+STR_CALIB	src/stereo_calib.h	2;"	d
+STR_DISP	src/do_disp.h	2;"	d
+STR_RECTIFY	src/stereo_rectify_disp.h	2;"	d
+SUFFIXES	old_src/src/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	src/Makefile	/^SUFFIXES =$/;"	m
 SaveImageFileChooserDialog	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/SaveImageFileChooserDialog.cpp	/^SaveImageFileChooserDialog::SaveImageFileChooserDialog( Gtk::Window* pWindow, std::string defaultFileName )$/;"	f	class:SaveImageFileChooserDialog
 SaveImageFileChooserDialog	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/SaveImageFileChooserDialog.cpp	/^SaveImageFileChooserDialog::SaveImageFileChooserDialog()$/;"	f	class:SaveImageFileChooserDialog
 SaveImageFileChooserDialog	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/SaveImageFileChooserDialog.h	/^class SaveImageFileChooserDialog$/;"	c
@@ -1873,6 +2638,10 @@ SetShowCrosshair	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/ImageDrawingArea.cp
 SetStretchToFit	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/ImageDrawingArea.cpp	/^void ImageDrawingArea::SetStretchToFit( bool stretch )$/;"	f	class:ImageDrawingArea
 SetTimeStamping	flycapture.2.10.3.266_arm64/src/FlyCapture2Test_C/FlyCapture2Test_C.c	/^void SetTimeStamping(fc2Context context, BOOL enableTimeStamp)$/;"	f
 SetTimestamping	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^FlycapWindow::SetTimestamping( bool onOff )$/;"	f	class:FlycapWindow
+Settings	src/individual_calib.cpp	/^    Settings() : goodInput(false) {}$/;"	f	class:Settings
+Settings	src/individual_calib.cpp	/^class Settings$/;"	c	file:
+Settings	src/stereo_get_images.cpp	/^    Settings() : goodInput(false) {}$/;"	f	class:Settings
+Settings	src/stereo_get_images.cpp	/^class Settings$/;"	c	file:
 ShowCrosshair	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/ImageDrawingArea.cpp	/^void ImageDrawingArea::ShowCrosshair()$/;"	f	class:ImageDrawingArea
 ShowErrorMessageDialog	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^FlycapWindow::ShowErrorMessageDialog( Glib::ustring mainTxt, Error error, bool detailed )$/;"	f	class:FlycapWindow
 ShowErrorMessageDialog	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^FlycapWindow::ShowErrorMessageDialog( Glib::ustring mainTxt, Glib::ustring secondaryTxt )$/;"	f	class:FlycapWindow
@@ -1880,6 +2649,8 @@ SnapValue	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/ImageDrawingArea.cpp	/^dou
 Start	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^FlycapWindow::Start( PGRGuid guid )$/;"	f	class:FlycapWindow
 StatisticsChannel	flycapture.2.10.3.266_arm64/include/ImageStatistics.h	/^			enum StatisticsChannel$/;"	g	class:FlyCapture2::ImageStatistics
 StatisticsChannel	include/ImageStatistics.h	/^			enum StatisticsChannel$/;"	g	class:FlyCapture2::ImageStatistics
+StereoCalib	src/stereo_calib.cpp	/^StereoCalib(const vector<string>& imagelist, Size boardSize,  int camera1ID, int camera2ID, bool useCalibrated=true, bool showRectified=true)$/;"	f	file:
+StereoRectify	src/stereo_rectify_disp.cpp	/^StereoRectify(int camera1ID, int camera2ID, Camera * camArray[])$/;"	f	file:
 Stop	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^FlycapWindow::Stop()$/;"	f	class:FlycapWindow
 StrobeControl	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		StrobeControl()$/;"	f	struct:FlyCapture2::StrobeControl
 StrobeControl	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	struct StrobeControl$/;"	s	namespace:FlyCapture2
@@ -1909,6 +2680,7 @@ TIMEOUT_NONE	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		TIMEOUT_N
 TIMEOUT_NONE	include/FlyCapture2Defs.h	/^		TIMEOUT_NONE = 0,  \/**<  Non-blocking wait. *\/$/;"	e	enum:FlyCapture2::GrabTimeout
 TIMEOUT_UNSPECIFIED	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		TIMEOUT_UNSPECIFIED = -2, \/**< Unspecified timeout setting. *\/$/;"	e	enum:FlyCapture2::GrabTimeout
 TIMEOUT_UNSPECIFIED	include/FlyCapture2Defs.h	/^		TIMEOUT_UNSPECIFIED = -2, \/**< Unspecified timeout setting. *\/$/;"	e	enum:FlyCapture2::GrabTimeout
+TOP	src/configuration.h	37;"	d
 TRIGGER_DELAY	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		TRIGGER_DELAY, \/**< Trigger delay. *\/$/;"	e	enum:FlyCapture2::PropertyType
 TRIGGER_DELAY	include/FlyCapture2Defs.h	/^		TRIGGER_DELAY, \/**< Trigger delay. *\/$/;"	e	enum:FlyCapture2::PropertyType
 TRIGGER_MODE	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		TRIGGER_MODE, \/**< Trigger mode. *\/$/;"	e	enum:FlyCapture2::PropertyType
@@ -1934,6 +2706,9 @@ TriggerModeInfo	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		Trigge
 TriggerModeInfo	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	struct TriggerModeInfo$/;"	s	namespace:FlyCapture2
 TriggerModeInfo	include/FlyCapture2Defs.h	/^		TriggerModeInfo()$/;"	f	struct:FlyCapture2::TriggerModeInfo
 TriggerModeInfo	include/FlyCapture2Defs.h	/^	struct TriggerModeInfo$/;"	s	namespace:FlyCapture2
+UADD__CARRY_OUT	src/util.h	61;"	d
+UADD__IN_CARRY	src/util.h	69;"	d
+UADD__IN_CARRY_OUT	src/util.h	65;"	d
 UNKNOWN_OS	flycapture.2.10.3.266_arm64/include/Utilities.h	/^		UNKNOWN_OS, \/**< Unknown operating system. *\/$/;"	e	enum:FlyCapture2::OSType
 UNKNOWN_OS	include/Utilities.h	/^		UNKNOWN_OS, \/**< Unknown operating system. *\/$/;"	e	enum:FlyCapture2::OSType
 UNSPECIFIED_GRAB_MODE	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		UNSPECIFIED_GRAB_MODE,$/;"	e	enum:FlyCapture2::GrabMode
@@ -1942,6 +2717,7 @@ UNSPECIFIED_PIXEL_FORMAT	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/
 UNSPECIFIED_PIXEL_FORMAT	include/FlyCapture2Defs.h	/^		UNSPECIFIED_PIXEL_FORMAT = 0 \/**< Unspecified pixel format. *\/$/;"	e	enum:FlyCapture2::PixelFormat
 UNSPECIFIED_PROPERTY_TYPE	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		UNSPECIFIED_PROPERTY_TYPE, \/**< Unspecified property type. *\/$/;"	e	enum:FlyCapture2::PropertyType
 UNSPECIFIED_PROPERTY_TYPE	include/FlyCapture2Defs.h	/^		UNSPECIFIED_PROPERTY_TYPE, \/**< Unspecified property type. *\/$/;"	e	enum:FlyCapture2::PropertyType
+UTIL_H_	src/util.h	22;"	d
 UnregisterCallbacks	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^FlycapWindow::UnregisterCallbacks()$/;"	f	class:FlycapWindow
 Update	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramDrawingArea.cpp	/^void HistogramDrawingArea::Update($/;"	f	class:HistogramDrawingArea
 Update	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramWindow.cpp	/^void HistogramWindow::Update()$/;"	f	class:HistogramWindow
@@ -1957,6 +2733,7 @@ UpdateStatusBar	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/FlycapWindow.cpp	/^F
 UpdateTimestampInfo	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/InformationPane.cpp	/^void InformationPane::UpdateTimestampInfo( TimeStamp timestamp )$/;"	f	class:InformationPane
 Utilities	flycapture.2.10.3.266_arm64/include/Utilities.h	/^	class FLYCAPTURE2_API Utilities$/;"	c	namespace:FlyCapture2
 Utilities	include/Utilities.h	/^	class FLYCAPTURE2_API Utilities$/;"	c	namespace:FlyCapture2
+V2S_B64	src/util.h	73;"	d
 VIDEOMODE_1024x768RGB	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		VIDEOMODE_1024x768RGB, \/**< 1024x768 RGB. *\/$/;"	e	enum:FlyCapture2::VideoMode
 VIDEOMODE_1024x768RGB	include/FlyCapture2Defs.h	/^		VIDEOMODE_1024x768RGB, \/**< 1024x768 RGB. *\/$/;"	e	enum:FlyCapture2::VideoMode
 VIDEOMODE_1024x768Y16	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		VIDEOMODE_1024x768Y16, \/**< 1024x768 16-bit. *\/$/;"	e	enum:FlyCapture2::VideoMode
@@ -2007,14 +2784,18 @@ VIDEOMODE_FORCE_32BITS	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	
 VIDEOMODE_FORCE_32BITS	include/FlyCapture2Defs.h	/^		VIDEOMODE_FORCE_32BITS = FULL_32BIT_VALUE$/;"	e	enum:FlyCapture2::VideoMode
 VIDEOMODE_FORMAT7	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		VIDEOMODE_FORMAT7, \/**< Custom video mode for Format7 functionality. *\/$/;"	e	enum:FlyCapture2::VideoMode
 VIDEOMODE_FORMAT7	include/FlyCapture2Defs.h	/^		VIDEOMODE_FORMAT7, \/**< Custom video mode for Format7 functionality. *\/$/;"	e	enum:FlyCapture2::VideoMode
+VIDEO_FILE	src/individual_calib.cpp	/^    enum InputType {INVALID, CAMERA, VIDEO_FILE, IMAGE_LIST};$/;"	e	enum:Settings::InputType	file:
+VIDEO_FILE	src/stereo_get_images.cpp	/^    enum InputType {INVALID, CAMERA, VIDEO_FILE, IMAGE_LIST};$/;"	e	enum:Settings::InputType	file:
 VideoMode	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^	enum VideoMode$/;"	g	namespace:FlyCapture2
 VideoMode	include/FlyCapture2Defs.h	/^	enum VideoMode$/;"	g	namespace:FlyCapture2
+WARP_SIZE	src/util.h	40;"	d
 WHITE_BALANCE	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		WHITE_BALANCE, \/**< White balance. *\/$/;"	e	enum:FlyCapture2::PropertyType
 WHITE_BALANCE	include/FlyCapture2Defs.h	/^		WHITE_BALANCE, \/**< White balance. *\/$/;"	e	enum:FlyCapture2::PropertyType
 WINDOWS_X64	flycapture.2.10.3.266_arm64/include/Utilities.h	/^		WINDOWS_X64, \/**< All Windows 64-bit variants. *\/$/;"	e	enum:FlyCapture2::OSType
 WINDOWS_X64	include/Utilities.h	/^		WINDOWS_X64, \/**< All Windows 64-bit variants. *\/$/;"	e	enum:FlyCapture2::OSType
 WINDOWS_X86	flycapture.2.10.3.266_arm64/include/Utilities.h	/^		WINDOWS_X86, \/**< All Windows 32-bit variants. *\/$/;"	e	enum:FlyCapture2::OSType
 WINDOWS_X86	include/Utilities.h	/^		WINDOWS_X86, \/**< All Windows 32-bit variants. *\/$/;"	e	enum:FlyCapture2::OSType
+WRITE_FILES	src/configuration.h	27;"	d
 XMLNAME	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/Makefile	/^XMLNAME    = FlyCap2$/;"	m
 ZOOM	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		ZOOM, \/**< Zoom. *\/$/;"	e	enum:FlyCapture2::PropertyType
 ZOOM	include/FlyCapture2Defs.h	/^		ZOOM, \/**< Zoom. *\/$/;"	e	enum:FlyCapture2::PropertyType
@@ -2031,10 +2812,10 @@ _APS_NEXT_COMMAND_VALUE	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/resource.
 _APS_NEXT_COMMAND_VALUE	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/resource.h	10;"	d
 _APS_NEXT_COMMAND_VALUE	flycapture.2.10.3.266_arm64/src/ImageEventEx/resource.h	10;"	d
 _APS_NEXT_COMMAND_VALUE	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/resource.h	10;"	d
-_APS_NEXT_COMMAND_VALUE	src/AsyncTriggerEx/resource.h	10;"	d
-_APS_NEXT_COMMAND_VALUE	src/FlyCapture2Test/resource.h	10;"	d
-_APS_NEXT_COMMAND_VALUE	src/MultipleCameraEx/resource.h	10;"	d
-_APS_NEXT_COMMAND_VALUE	src/resource.h	10;"	d
+_APS_NEXT_COMMAND_VALUE	old_src/src/AsyncTriggerEx/resource.h	10;"	d
+_APS_NEXT_COMMAND_VALUE	old_src/src/FlyCapture2Test/resource.h	10;"	d
+_APS_NEXT_COMMAND_VALUE	old_src/src/MultipleCameraEx/resource.h	10;"	d
+_APS_NEXT_COMMAND_VALUE	old_src/src/resource.h	10;"	d
 _APS_NEXT_CONTROL_VALUE	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/resource.h	11;"	d
 _APS_NEXT_CONTROL_VALUE	flycapture.2.10.3.266_arm64/src/BusEventsEx/resource.h	12;"	d
 _APS_NEXT_CONTROL_VALUE	flycapture.2.10.3.266_arm64/src/CustomImageEx/resource.h	11;"	d
@@ -2048,10 +2829,10 @@ _APS_NEXT_CONTROL_VALUE	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/resource.
 _APS_NEXT_CONTROL_VALUE	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/resource.h	11;"	d
 _APS_NEXT_CONTROL_VALUE	flycapture.2.10.3.266_arm64/src/ImageEventEx/resource.h	11;"	d
 _APS_NEXT_CONTROL_VALUE	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/resource.h	11;"	d
-_APS_NEXT_CONTROL_VALUE	src/AsyncTriggerEx/resource.h	11;"	d
-_APS_NEXT_CONTROL_VALUE	src/FlyCapture2Test/resource.h	11;"	d
-_APS_NEXT_CONTROL_VALUE	src/MultipleCameraEx/resource.h	11;"	d
-_APS_NEXT_CONTROL_VALUE	src/resource.h	11;"	d
+_APS_NEXT_CONTROL_VALUE	old_src/src/AsyncTriggerEx/resource.h	11;"	d
+_APS_NEXT_CONTROL_VALUE	old_src/src/FlyCapture2Test/resource.h	11;"	d
+_APS_NEXT_CONTROL_VALUE	old_src/src/MultipleCameraEx/resource.h	11;"	d
+_APS_NEXT_CONTROL_VALUE	old_src/src/resource.h	11;"	d
 _APS_NEXT_RESOURCE_VALUE	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/resource.h	9;"	d
 _APS_NEXT_RESOURCE_VALUE	flycapture.2.10.3.266_arm64/src/BusEventsEx/resource.h	10;"	d
 _APS_NEXT_RESOURCE_VALUE	flycapture.2.10.3.266_arm64/src/CustomImageEx/resource.h	9;"	d
@@ -2065,10 +2846,10 @@ _APS_NEXT_RESOURCE_VALUE	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/resource
 _APS_NEXT_RESOURCE_VALUE	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/resource.h	9;"	d
 _APS_NEXT_RESOURCE_VALUE	flycapture.2.10.3.266_arm64/src/ImageEventEx/resource.h	9;"	d
 _APS_NEXT_RESOURCE_VALUE	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/resource.h	9;"	d
-_APS_NEXT_RESOURCE_VALUE	src/AsyncTriggerEx/resource.h	9;"	d
-_APS_NEXT_RESOURCE_VALUE	src/FlyCapture2Test/resource.h	9;"	d
-_APS_NEXT_RESOURCE_VALUE	src/MultipleCameraEx/resource.h	9;"	d
-_APS_NEXT_RESOURCE_VALUE	src/resource.h	9;"	d
+_APS_NEXT_RESOURCE_VALUE	old_src/src/AsyncTriggerEx/resource.h	9;"	d
+_APS_NEXT_RESOURCE_VALUE	old_src/src/FlyCapture2Test/resource.h	9;"	d
+_APS_NEXT_RESOURCE_VALUE	old_src/src/MultipleCameraEx/resource.h	9;"	d
+_APS_NEXT_RESOURCE_VALUE	old_src/src/resource.h	9;"	d
 _APS_NEXT_SYMED_VALUE	flycapture.2.10.3.266_arm64/src/AsyncTriggerEx/resource.h	12;"	d
 _APS_NEXT_SYMED_VALUE	flycapture.2.10.3.266_arm64/src/BusEventsEx/resource.h	13;"	d
 _APS_NEXT_SYMED_VALUE	flycapture.2.10.3.266_arm64/src/CustomImageEx/resource.h	12;"	d
@@ -2082,10 +2863,10 @@ _APS_NEXT_SYMED_VALUE	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/resource.h	
 _APS_NEXT_SYMED_VALUE	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/resource.h	12;"	d
 _APS_NEXT_SYMED_VALUE	flycapture.2.10.3.266_arm64/src/ImageEventEx/resource.h	12;"	d
 _APS_NEXT_SYMED_VALUE	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/resource.h	12;"	d
-_APS_NEXT_SYMED_VALUE	src/AsyncTriggerEx/resource.h	12;"	d
-_APS_NEXT_SYMED_VALUE	src/FlyCapture2Test/resource.h	12;"	d
-_APS_NEXT_SYMED_VALUE	src/MultipleCameraEx/resource.h	12;"	d
-_APS_NEXT_SYMED_VALUE	src/resource.h	12;"	d
+_APS_NEXT_SYMED_VALUE	old_src/src/AsyncTriggerEx/resource.h	12;"	d
+_APS_NEXT_SYMED_VALUE	old_src/src/FlyCapture2Test/resource.h	12;"	d
+_APS_NEXT_SYMED_VALUE	old_src/src/MultipleCameraEx/resource.h	12;"	d
+_APS_NEXT_SYMED_VALUE	old_src/src/resource.h	12;"	d
 _BUFFERS	flycapture.2.10.3.266_arm64/src/ImageEventEx/ImageEventEx.cpp	90;"	d	file:
 _BYTES_PER_PIXEL	flycapture.2.10.3.266_arm64/src/ImageEventEx/ImageEventEx.cpp	94;"	d	file:
 _COLS	flycapture.2.10.3.266_arm64/src/ImageEventEx/ImageEventEx.cpp	92;"	d	file:
@@ -2101,10 +2882,13 @@ _CRT_SECURE_NO_WARNINGS	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/stdafx.h	
 _CRT_SECURE_NO_WARNINGS	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/stdafx.h	14;"	d
 _CRT_SECURE_NO_WARNINGS	flycapture.2.10.3.266_arm64/src/ImageEventEx/stdafx.h	14;"	d
 _CRT_SECURE_NO_WARNINGS	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/stdafx.h	14;"	d
-_CRT_SECURE_NO_WARNINGS	src/AsyncTriggerEx/stdafx.h	14;"	d
-_CRT_SECURE_NO_WARNINGS	src/FlyCapture2Test/stdafx.h	14;"	d
-_CRT_SECURE_NO_WARNINGS	src/MultipleCameraEx/stdafx.h	14;"	d
+_CRT_SECURE_NO_WARNINGS	old_src/src/AsyncTriggerEx/stdafx.h	14;"	d
+_CRT_SECURE_NO_WARNINGS	old_src/src/FlyCapture2Test/stdafx.h	14;"	d
+_CRT_SECURE_NO_WARNINGS	old_src/src/MultipleCameraEx/stdafx.h	14;"	d
+_CRT_SECURE_NO_WARNINGS	old_src/src/stdafx.h	14;"	d
+_CRT_SECURE_NO_WARNINGS	src/individual_calib.cpp	2;"	d	file:
 _CRT_SECURE_NO_WARNINGS	src/stdafx.h	14;"	d
+_CRT_SECURE_NO_WARNINGS	src/stereo_get_images.cpp	2;"	d	file:
 _EVENTS	flycapture.2.10.3.266_arm64/src/ImageEventEx/ImageEventEx.cpp	89;"	d	file:
 _FRAMERATE	flycapture.2.10.3.266_arm64/src/ImageEventEx/ImageEventEx.cpp	98;"	d	file:
 _GCHNAME	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/Makefile	/^_GCHNAME     = Precompiled.h.gch$/;"	m
@@ -2123,9 +2907,9 @@ _OBJ	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/Makefile	/^_OBJ      = ${BAS
 _OBJ	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/Makefile	/^_OBJ      = ${BASE_NAME}.o$/;"	m
 _OBJ	flycapture.2.10.3.266_arm64/src/ImageEventEx/Makefile	/^_OBJ      = ${BASE_NAME}.o$/;"	m
 _OBJ	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/Makefile	/^_OBJ      = ${BASE_NAME}.o$/;"	m
-_OBJ	src/AsyncTriggerEx/Makefile	/^_OBJ      = ${BASE_NAME}.o$/;"	m
-_OBJ	src/FlyCapture2Test/Makefile	/^_OBJ      = ${BASE_NAME}.o$/;"	m
-_OBJ	src/MultipleCameraEx/Makefile	/^_OBJ      = ${BASE_NAME}.o$/;"	m
+_OBJ	old_src/src/AsyncTriggerEx/Makefile	/^_OBJ      = ${BASE_NAME}.o$/;"	m
+_OBJ	old_src/src/FlyCapture2Test/Makefile	/^_OBJ      = ${BASE_NAME}.o$/;"	m
+_OBJ	old_src/src/MultipleCameraEx/Makefile	/^_OBJ      = ${BASE_NAME}.o$/;"	m
 _PIXEL_FORMAT	flycapture.2.10.3.266_arm64/src/ImageEventEx/ImageEventEx.cpp	103;"	d	file:
 _Property	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^	typedef struct _Property$/;"	s
 _Property	include/C/FlyCapture2Defs_C.h	/^	typedef struct _Property$/;"	s
@@ -2142,10 +2926,12 @@ _WIN32_WINNT	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/stdafx.h	11;"	d
 _WIN32_WINNT	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/stdafx.h	11;"	d
 _WIN32_WINNT	flycapture.2.10.3.266_arm64/src/ImageEventEx/stdafx.h	11;"	d
 _WIN32_WINNT	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/stdafx.h	11;"	d
-_WIN32_WINNT	src/AsyncTriggerEx/stdafx.h	11;"	d
-_WIN32_WINNT	src/FlyCapture2Test/stdafx.h	11;"	d
-_WIN32_WINNT	src/MultipleCameraEx/stdafx.h	11;"	d
+_WIN32_WINNT	old_src/src/AsyncTriggerEx/stdafx.h	11;"	d
+_WIN32_WINNT	old_src/src/FlyCapture2Test/stdafx.h	11;"	d
+_WIN32_WINNT	old_src/src/MultipleCameraEx/stdafx.h	11;"	d
+_WIN32_WINNT	old_src/src/stdafx.h	11;"	d
 _WIN32_WINNT	src/stdafx.h	11;"	d
+__emulated_shfl	src/util.h	/^__inline__ __device__ int __emulated_shfl(const int scalarValue, const uint32_t source_lane) {$/;"	f
 _fc2AVIOption	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^	typedef struct _fc2AVIOption$/;"	s
 _fc2AVIOption	include/C/FlyCapture2Defs_C.h	/^	typedef struct _fc2AVIOption$/;"	s
 _fc2BMPOption	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^	typedef struct _fc2BMPOption$/;"	s
@@ -2310,10 +3096,14 @@ applicationPort	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsign
 applicationPort	include/C/FlyCapture2Defs_C.h	/^		unsigned int applicationPort;$/;"	m	struct:_fc2CameraInfo
 applicationPort	include/FlyCapture2Defs.h	/^		unsigned int applicationPort;$/;"	m	struct:FlyCapture2::CameraInfo
 arEmbeddedInfo	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/InformationPane.h	/^				unsigned int arEmbeddedInfo[10];$/;"	m	union:InformationPane::EmbeddedImageInfoStruct::__anon1
+aspectRatio	src/individual_calib.cpp	/^    float aspectRatio;         \/\/ The aspect ratio$/;"	m	class:Settings	file:
+aspectRatio	src/stereo_get_images.cpp	/^    float aspectRatio;         \/\/ The aspect ratio$/;"	m	class:Settings	file:
 asyncBusSpeed	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2BusSpeed asyncBusSpeed;$/;"	m	struct:_fc2Config
 asyncBusSpeed	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		BusSpeed asyncBusSpeed;$/;"	m	struct:FlyCapture2::FC2Config
 asyncBusSpeed	include/C/FlyCapture2Defs_C.h	/^		fc2BusSpeed asyncBusSpeed;$/;"	m	struct:_fc2Config
 asyncBusSpeed	include/FlyCapture2Defs.h	/^		BusSpeed asyncBusSpeed;$/;"	m	struct:FlyCapture2::FC2Config
+atImageList	src/individual_calib.cpp	/^    int atImageList;$/;"	m	class:Settings	file:
+atImageList	src/stereo_get_images.cpp	/^    int atImageList;$/;"	m	class:Settings	file:
 autoManualMode	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		BOOL autoManualMode;$/;"	m	struct:_Property
 autoManualMode	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		bool autoManualMode;$/;"	m	struct:FlyCapture2::Property
 autoManualMode	include/C/FlyCapture2Defs_C.h	/^		BOOL autoManualMode;$/;"	m	struct:_Property
@@ -2348,7 +3138,12 @@ bitrate	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned i
 bitrate	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int bitrate;$/;"	m	struct:FlyCapture2::H264Option
 bitrate	include/C/FlyCapture2Defs_C.h	/^		unsigned int bitrate;$/;"	m	struct:_fc2H264Option
 bitrate	include/FlyCapture2Defs.h	/^		unsigned int bitrate;$/;"	m	struct:FlyCapture2::H264Option
+blockAny	src/util.h	/^__inline__ __device__ bool blockAny(bool local_condition) {$/;"	f
+blockReduceMin	src/util.h	/^__inline__ __device__ int blockReduceMin(int val) {$/;"	f
+blockReduceMinIndex	src/util.h	/^__inline__ __device__ int blockReduceMinIndex(int val, int idx) {$/;"	f
 blue	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramDrawingArea.h	/^			RowColChannelStats blue;$/;"	m	struct:HistogramDrawingArea::RowColStats
+boardSize	src/individual_calib.cpp	/^    Size boardSize;            \/\/ The size of the board -> Number of items by width and height$/;"	m	class:Settings	file:
+boardSize	src/stereo_get_images.cpp	/^    Size boardSize;            \/\/ The size of the board -> Number of items by width and height$/;"	m	class:Settings	file:
 brightness	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2EmbeddedImageInfoProperty brightness;$/;"	m	struct:_fc2EmbeddedImageInfo
 brightness	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		EmbeddedImageInfoProperty brightness;$/;"	m	struct:FlyCapture2::EmbeddedImageInfo
 brightness	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/InformationPane.h	/^					unsigned int brightness;$/;"	m	struct:InformationPane::EmbeddedImageInfoStruct::__anon1::__anon2
@@ -2362,14 +3157,30 @@ busNumber	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned
 busNumber	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned short busNumber;$/;"	m	struct:FlyCapture2::CameraInfo
 busNumber	include/C/FlyCapture2Defs_C.h	/^		unsigned short busNumber;$/;"	m	struct:_fc2CameraInfo
 busNumber	include/FlyCapture2Defs.h	/^		unsigned short busNumber;$/;"	m	struct:FlyCapture2::CameraInfo
+bwriteExtrinsics	src/individual_calib.cpp	/^    bool bwriteExtrinsics;     \/\/ Write extrinsic parameters$/;"	m	class:Settings	file:
+bwriteExtrinsics	src/stereo_get_images.cpp	/^    bool bwriteExtrinsics;     \/\/ Write extrinsic parameters$/;"	m	class:Settings	file:
+bwritePoints	src/individual_calib.cpp	/^    bool bwritePoints;         \/\/  Write detected feature points$/;"	m	class:Settings	file:
+bwritePoints	src/stereo_get_images.cpp	/^    bool bwritePoints;         \/\/  Write detected feature points$/;"	m	class:Settings	file:
 byteOrder	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2ByteOrder byteOrder;$/;"	m	struct:_fc2SystemInfo
 byteOrder	flycapture.2.10.3.266_arm64/include/Utilities.h	/^		ByteOrder byteOrder;$/;"	m	struct:FlyCapture2::SystemInfo
 byteOrder	include/C/FlyCapture2Defs_C.h	/^		fc2ByteOrder byteOrder;$/;"	m	struct:_fc2SystemInfo
 byteOrder	include/Utilities.h	/^		ByteOrder byteOrder;$/;"	m	struct:FlyCapture2::SystemInfo
+calcBoardCornerPositions	src/individual_calib.cpp	/^static void calcBoardCornerPositions(Size boardSize, float squareSize, vector<Point3f>& corners,$/;"	f	file:
+calibFixPrincipalPoint	src/individual_calib.cpp	/^    bool calibFixPrincipalPoint;\/\/ Fix the principal point at the center$/;"	m	class:Settings	file:
+calibFixPrincipalPoint	src/stereo_get_images.cpp	/^    bool calibFixPrincipalPoint;\/\/ Fix the principal point at the center$/;"	m	class:Settings	file:
+calibZeroTangentDist	src/individual_calib.cpp	/^    bool calibZeroTangentDist; \/\/ Assume zero tangential distortion$/;"	m	class:Settings	file:
+calibZeroTangentDist	src/stereo_get_images.cpp	/^    bool calibZeroTangentDist; \/\/ Assume zero tangential distortion$/;"	m	class:Settings	file:
+calibrationPattern	src/individual_calib.cpp	/^    Pattern calibrationPattern;\/\/ One of the Chessboard, circles, or asymmetric circle pattern$/;"	m	class:Settings	file:
+calibrationPattern	src/stereo_get_images.cpp	/^    Pattern calibrationPattern;\/\/ One of the Chessboard, circles, or asymmetric circle pattern$/;"	m	class:Settings	file:
+camera1ID	src/stereo_get_images.cpp	/^    int camera1ID;$/;"	m	class:Settings	file:
+camera2ID	src/stereo_get_images.cpp	/^    int camera2ID;$/;"	m	class:Settings	file:
+cameraArray	src/individual_calib.cpp	/^    Camera * cameraArray[NUMCAMS];$/;"	m	class:Settings	file:
+cameraArray	src/stereo_get_images.cpp	/^    Camera * cameraArray[NUMCAMS]; \/\/ Camera handles$/;"	m	class:Settings	file:
 cameraCurrents	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		float cameraCurrents[8];$/;"	m	struct:_fc2CameraStats
 cameraCurrents	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		float cameraCurrents[8];$/;"	m	struct:FlyCapture2::CameraStats
 cameraCurrents	include/C/FlyCapture2Defs_C.h	/^		float cameraCurrents[8];$/;"	m	struct:_fc2CameraStats
 cameraCurrents	include/FlyCapture2Defs.h	/^		float cameraCurrents[8];$/;"	m	struct:FlyCapture2::CameraStats
+cameraID	src/individual_calib.cpp	/^    int cameraID;$/;"	m	class:Settings	file:
 cameraPowerUp	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		BOOL cameraPowerUp;$/;"	m	struct:_fc2CameraStats
 cameraPowerUp	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		bool cameraPowerUp;$/;"	m	struct:FlyCapture2::CameraStats
 cameraPowerUp	include/C/FlyCapture2Defs_C.h	/^		BOOL cameraPowerUp;$/;"	m	struct:_fc2CameraStats
@@ -2378,6 +3189,8 @@ cameraVoltages	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		flo
 cameraVoltages	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		float cameraVoltages[8];$/;"	m	struct:FlyCapture2::CameraStats
 cameraVoltages	include/C/FlyCapture2Defs_C.h	/^		float cameraVoltages[8];$/;"	m	struct:_fc2CameraStats
 cameraVoltages	include/FlyCapture2Defs.h	/^		float cameraVoltages[8];$/;"	m	struct:FlyCapture2::CameraStats
+capPictures	old_src/src/cameraSetup.cpp	/^void capPictures(unsigned int numCameras, Camera * camArray[])$/;"	f
+capPictures	src/cameraSetup.cpp	/^void capPictures(unsigned int numCameras, Camera * camArray[])$/;"	f
 ccpStatus	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int ccpStatus;$/;"	m	struct:_fc2CameraInfo
 ccpStatus	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int ccpStatus;$/;"	m	struct:FlyCapture2::CameraInfo
 ccpStatus	include/C/FlyCapture2Defs_C.h	/^		unsigned int ccpStatus;$/;"	m	struct:_fc2CameraInfo
@@ -2401,10 +3214,12 @@ compressionLevel	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		u
 compressionLevel	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int compressionLevel;$/;"	m	struct:FlyCapture2::PNGOption
 compressionLevel	include/C/FlyCapture2Defs_C.h	/^		unsigned int compressionLevel;$/;"	m	struct:_fc2PNGOption
 compressionLevel	include/FlyCapture2Defs.h	/^		unsigned int compressionLevel;$/;"	m	struct:FlyCapture2::PNGOption
+computeReprojectionErrors	src/individual_calib.cpp	/^static double computeReprojectionErrors( const vector<vector<Point3f> >& objectPoints,$/;"	f	file:
 configROM	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2ConfigROM configROM;$/;"	m	struct:_fc2CameraInfo
 configROM	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		ConfigROM configROM;$/;"	m	struct:FlyCapture2::CameraInfo
 configROM	include/C/FlyCapture2Defs_C.h	/^		fc2ConfigROM configROM;$/;"	m	struct:_fc2CameraInfo
 configROM	include/FlyCapture2Defs.h	/^		ConfigROM configROM;$/;"	m	struct:FlyCapture2::CameraInfo
+cost_t	src/configuration.h	/^typedef uint32_t cost_t;$/;"	t
 cpuDescription	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		char cpuDescription[ MAX_STRING_LENGTH];$/;"	m	struct:_fc2SystemInfo
 cpuDescription	flycapture.2.10.3.266_arm64/include/Utilities.h	/^		char cpuDescription[sk_maxStringLength];$/;"	m	struct:FlyCapture2::SystemInfo
 cpuDescription	include/C/FlyCapture2Defs_C.h	/^		char cpuDescription[ MAX_STRING_LENGTH];$/;"	m	struct:_fc2SystemInfo
@@ -2431,6 +3246,8 @@ delay	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		float delay;
 delay	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		float delay;$/;"	m	struct:FlyCapture2::StrobeControl
 delay	include/C/FlyCapture2Defs_C.h	/^		float delay;$/;"	m	struct:_fc2StrobeControl
 delay	include/FlyCapture2Defs.h	/^		float delay;$/;"	m	struct:FlyCapture2::StrobeControl
+delay	src/individual_calib.cpp	/^    int delay;                 \/\/ In case of a video input$/;"	m	class:Settings	file:
+delay	src/stereo_get_images.cpp	/^    int delay;                 \/\/ In case of a video input$/;"	m	class:Settings	file:
 destinationIpAddress	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2IPAddress destinationIpAddress;$/;"	m	struct:_fc2GigEStreamChannel
 destinationIpAddress	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		IPAddress destinationIpAddress;$/;"	m	struct:FlyCapture2::GigEStreamChannel
 destinationIpAddress	include/C/FlyCapture2Defs_C.h	/^		fc2IPAddress destinationIpAddress;$/;"	m	struct:_fc2GigEStreamChannel
@@ -2673,6 +3490,10 @@ fc2Version	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^	} fc2Ver
 fc2Version	include/C/FlyCapture2Defs_C.h	/^	} fc2Version;$/;"	t	typeref:struct:_fc2Version
 fc2VideoMode	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^	} fc2VideoMode;$/;"	t	typeref:enum:_fc2VideoMode
 fc2VideoMode	include/C/FlyCapture2Defs_C.h	/^	} fc2VideoMode;$/;"	t	typeref:enum:_fc2VideoMode
+features	old_src/src/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v
+features	old_src/src/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v
+features	src/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v
+features	src/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v
 firmwareBuildTime	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		char firmwareBuildTime[ MAX_STRING_LENGTH];$/;"	m	struct:_fc2CameraInfo
 firmwareBuildTime	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		char firmwareBuildTime[sk_maxStringLength];$/;"	m	struct:FlyCapture2::CameraInfo
 firmwareBuildTime	include/C/FlyCapture2Defs_C.h	/^		char firmwareBuildTime[ MAX_STRING_LENGTH];$/;"	m	struct:_fc2CameraInfo
@@ -2681,6 +3502,10 @@ firmwareVersion	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		ch
 firmwareVersion	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		char firmwareVersion[sk_maxStringLength];$/;"	m	struct:FlyCapture2::CameraInfo
 firmwareVersion	include/C/FlyCapture2Defs_C.h	/^		char firmwareVersion[ MAX_STRING_LENGTH];$/;"	m	struct:_fc2CameraInfo
 firmwareVersion	include/FlyCapture2Defs.h	/^		char firmwareVersion[sk_maxStringLength];$/;"	m	struct:FlyCapture2::CameraInfo
+flag	src/individual_calib.cpp	/^    int flag;$/;"	m	class:Settings	file:
+flag	src/stereo_get_images.cpp	/^    int flag;$/;"	m	class:Settings	file:
+flipVertical	src/individual_calib.cpp	/^    bool flipVertical;          \/\/ Flip the captured images around the horizontal axis$/;"	m	class:Settings	file:
+flipVertical	src/stereo_get_images.cpp	/^    bool flipVertical;          \/\/ Flip the captured images around the horizontal axis$/;"	m	class:Settings	file:
 format	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2PixelFormat format;$/;"	m	struct:_fc2Image
 format	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/SaveImageFileChooserDialog.h	/^	FlyCapture2::ImageFileFormat format;$/;"	m	struct:FilterData
 format	include/C/FlyCapture2Defs_C.h	/^		fc2PixelFormat format;$/;"	m	struct:_fc2Image
@@ -2707,6 +3532,7 @@ gain	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		EmbeddedImageInfo
 gain	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/InformationPane.h	/^					unsigned int gain;$/;"	m	struct:InformationPane::EmbeddedImageInfoStruct::__anon1::__anon2
 gain	include/C/FlyCapture2Defs_C.h	/^		fc2EmbeddedImageInfoProperty gain;$/;"	m	struct:_fc2EmbeddedImageInfo
 gain	include/FlyCapture2Defs.h	/^		EmbeddedImageInfoProperty gain;$/;"	m	struct:FlyCapture2::EmbeddedImageInfo
+getMatFromCameraImage	src/cameraSetup.cpp	/^cv::Mat getMatFromCameraImage(unsigned int cameraIndex, Camera * camArray[])$/;"	f
 gigEMajorVersion	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int gigEMajorVersion;$/;"	m	struct:_fc2CameraInfo
 gigEMajorVersion	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int gigEMajorVersion;$/;"	m	struct:FlyCapture2::CameraInfo
 gigEMajorVersion	include/C/FlyCapture2Defs_C.h	/^		unsigned int gigEMajorVersion;$/;"	m	struct:_fc2CameraInfo
@@ -2715,10 +3541,13 @@ gigEMinorVersion	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		u
 gigEMinorVersion	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int gigEMinorVersion;$/;"	m	struct:FlyCapture2::CameraInfo
 gigEMinorVersion	include/C/FlyCapture2Defs_C.h	/^		unsigned int gigEMinorVersion;$/;"	m	struct:_fc2CameraInfo
 gigEMinorVersion	include/FlyCapture2Defs.h	/^		unsigned int gigEMinorVersion;$/;"	m	struct:FlyCapture2::CameraInfo
+goodInput	src/individual_calib.cpp	/^    bool goodInput;$/;"	m	class:Settings	file:
+goodInput	src/stereo_get_images.cpp	/^    bool goodInput;$/;"	m	class:Settings	file:
 gpuDescription	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		char gpuDescription[ MAX_STRING_LENGTH];$/;"	m	struct:_fc2SystemInfo
 gpuDescription	flycapture.2.10.3.266_arm64/include/Utilities.h	/^		char gpuDescription[sk_maxStringLength];$/;"	m	struct:FlyCapture2::SystemInfo
 gpuDescription	include/C/FlyCapture2Defs_C.h	/^		char gpuDescription[ MAX_STRING_LENGTH];$/;"	m	struct:_fc2SystemInfo
 gpuDescription	include/Utilities.h	/^		char gpuDescription[sk_maxStringLength];$/;"	m	struct:FlyCapture2::SystemInfo
+gpu_get_sm_idx	src/util.h	/^__device__ __forceinline__ uint32_t gpu_get_sm_idx(){$/;"	f
 grabMode	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2GrabMode grabMode;$/;"	m	struct:_fc2Config
 grabMode	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		GrabMode grabMode;$/;"	m	struct:FlyCapture2::FC2Config
 grabMode	include/C/FlyCapture2Defs_C.h	/^		fc2GrabMode grabMode;$/;"	m	struct:_fc2Config
@@ -2742,6 +3571,8 @@ height	include/C/FlyCapture2Defs_C.h	/^		unsigned int height;$/;"	m	struct:_fc2H
 height	include/FlyCapture2Defs.h	/^		unsigned int height;$/;"	m	struct:FlyCapture2::Format7ImageSettings
 height	include/FlyCapture2Defs.h	/^		unsigned int height;$/;"	m	struct:FlyCapture2::GigEImageSettings
 height	include/FlyCapture2Defs.h	/^		unsigned int height;$/;"	m	struct:FlyCapture2::H264Option
+help	src/individual_calib.cpp	/^static void help()$/;"	f	file:
+help	src/stereo_get_images.cpp	/^static void help()$/;"	f	file:
 highPerformanceRetrieveBuffer	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		BOOL highPerformanceRetrieveBuffer;$/;"	m	struct:_fc2Config
 highPerformanceRetrieveBuffer	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		bool highPerformanceRetrieveBuffer;$/;"	m	struct:FlyCapture2::FC2Config
 highPerformanceRetrieveBuffer	include/C/FlyCapture2Defs_C.h	/^		BOOL highPerformanceRetrieveBuffer;$/;"	m	struct:_fc2Config
@@ -2779,6 +3610,8 @@ imageHStepSize	include/FlyCapture2Defs.h	/^		unsigned int imageHStepSize;$/;"	m	
 imageImpl	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2ImageImpl imageImpl;$/;"	m	struct:_fc2Image
 imageImpl	include/C/FlyCapture2Defs_C.h	/^		fc2ImageImpl imageImpl;$/;"	m	struct:_fc2Image
 imageInfo	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/InformationPane.h	/^			ImageInfoStruct imageInfo;$/;"	m	struct:InformationPane::InformationPaneStruct
+imageList	src/individual_calib.cpp	/^    vector<string> imageList;$/;"	m	class:Settings	file:
+imageList	src/stereo_get_images.cpp	/^    vector<string> imageList;$/;"	m	class:Settings	file:
 imageVStepSize	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int imageVStepSize;$/;"	m	struct:_fc2Format7Info
 imageVStepSize	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int imageVStepSize;$/;"	m	struct:_fc2GigEImageSettingsInfo
 imageVStepSize	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int imageVStepSize;$/;"	m	struct:FlyCapture2::Format7Info
@@ -2795,11 +3628,52 @@ indexedColor_8bit	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		
 indexedColor_8bit	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		bool indexedColor_8bit;$/;"	m	struct:FlyCapture2::BMPOption
 indexedColor_8bit	include/C/FlyCapture2Defs_C.h	/^		BOOL indexedColor_8bit;$/;"	m	struct:_fc2BMPOption
 indexedColor_8bit	include/FlyCapture2Defs.h	/^		bool indexedColor_8bit;$/;"	m	struct:FlyCapture2::BMPOption
-initMultiCams	src/cameraSetup.cpp	/^bool initMultiCams(int numSetupCams, PGRGuid * camArray) $/;"	f
+individual_calib	src/individual_calib.cpp	/^int individual_calib(int cameraID, Camera * camArray[])$/;"	f
+info_arch	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_dialect_default	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_language_dialect_default	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_language_dialect_default	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_language_dialect_default	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_platform	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+initMultiCams	old_src/src/cameraSetup.cpp	/^bool initMultiCams(unsigned int numSetupCams, Camera * camArray[]) $/;"	f
+initMultiCams	src/cameraSetup.cpp	/^bool initMultiCams(unsigned int numSetupCams, Camera * camArray[]) $/;"	f
+input1	src/individual_calib.cpp	/^    string input1;               \/\/ The input ->$/;"	m	class:Settings	file:
+input1	src/stereo_get_images.cpp	/^    string input1;               \/\/ The input ->$/;"	m	class:Settings	file:
+input2	src/stereo_get_images.cpp	/^    string input2;               \/\/ The input ->$/;"	m	class:Settings	file:
 inputBitDepth	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int inputBitDepth;$/;"	m	struct:_fc2LUTData
 inputBitDepth	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int inputBitDepth;$/;"	m	struct:FlyCapture2::LUTData
 inputBitDepth	include/C/FlyCapture2Defs_C.h	/^		unsigned int inputBitDepth;$/;"	m	struct:_fc2LUTData
 inputBitDepth	include/FlyCapture2Defs.h	/^		unsigned int inputBitDepth;$/;"	m	struct:FlyCapture2::LUTData
+inputCapture	src/individual_calib.cpp	/^    VideoCapture inputCapture;$/;"	m	class:Settings	file:
+inputCapture	src/stereo_get_images.cpp	/^    VideoCapture inputCapture;$/;"	m	class:Settings	file:
+inputType	src/individual_calib.cpp	/^    InputType inputType;$/;"	m	class:Settings	file:
+inputType	src/stereo_get_images.cpp	/^    InputType inputType;$/;"	m	class:Settings	file:
 int16_t	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Platform_C.h	/^typedef __int16				int16_t;$/;"	t
 int16_t	flycapture.2.10.3.266_arm64/include/FlyCapture2Platform.h	/^typedef __int16				int16_t;$/;"	t
 int16_t	include/C/FlyCapture2Platform_C.h	/^typedef __int16				int16_t;$/;"	t
@@ -2814,6 +3688,7 @@ int64_t	include/C/FlyCapture2Platform_C.h	/^typedef __int64				int64_t;$/;"	t
 int64_t	include/FlyCapture2Platform.h	/^typedef __int64				int64_t;$/;"	t
 int8_t	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Platform_C.h	/^typedef __int8				int8_t;$/;"	t
 int8_t	include/C/FlyCapture2Platform_C.h	/^typedef __int8				int8_t;$/;"	t
+interBuff	src/util.h	/^__shared__ int interBuff[GPU_THREADS_PER_BLOCK];$/;"	v
 interPacketDelay	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int interPacketDelay;$/;"	m	struct:_fc2GigEStreamChannel
 interPacketDelay	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int interPacketDelay;$/;"	m	struct:FlyCapture2::GigEStreamChannel
 interPacketDelay	include/C/FlyCapture2Defs_C.h	/^		unsigned int interPacketDelay;$/;"	m	struct:_fc2GigEStreamChannel
@@ -2826,6 +3701,8 @@ interlaced	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		BOOL in
 interlaced	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		bool interlaced;$/;"	m	struct:FlyCapture2::PNGOption
 interlaced	include/C/FlyCapture2Defs_C.h	/^		BOOL interlaced;$/;"	m	struct:_fc2PNGOption
 interlaced	include/FlyCapture2Defs.h	/^		bool interlaced;$/;"	m	struct:FlyCapture2::PNGOption
+interprate	src/individual_calib.cpp	/^    void interprate()$/;"	f	class:Settings
+interprate	src/stereo_get_images.cpp	/^    void interprate()$/;"	f	class:Settings
 ipAddress	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2IPAddress ipAddress;$/;"	m	struct:_fc2CameraInfo
 ipAddress	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		IPAddress ipAddress;$/;"	m	struct:FlyCapture2::CameraInfo
 ipAddress	include/C/FlyCapture2Defs_C.h	/^		fc2IPAddress ipAddress;$/;"	m	struct:_fc2CameraInfo
@@ -2857,6 +3734,8 @@ k_HDRShutter1	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/HighDynamicRang
 k_HDRShutter2	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/HighDynamicRangeEx.cpp	/^const unsigned int k_HDRShutter2 = 0x1840;$/;"	v
 k_HDRShutter3	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/HighDynamicRangeEx.cpp	/^const unsigned int k_HDRShutter3 = 0x1860;$/;"	v
 k_HDRShutter4	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/HighDynamicRangeEx.cpp	/^const unsigned int k_HDRShutter4 = 0x1880;$/;"	v
+ld_gbl_ca	src/util.h	/^__device__ __forceinline__ uint32_t ld_gbl_ca(const __restrict__ uint32_t *addr) {$/;"	f
+ld_gbl_cs	src/util.h	/^__device__ __forceinline__ uint32_t ld_gbl_cs(const __restrict__ uint32_t *addr) {$/;"	f
 libraryList	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		char libraryList[ MAX_STRING_LENGTH];$/;"	m	struct:_fc2SystemInfo
 libraryList	flycapture.2.10.3.266_arm64/include/Utilities.h	/^		char libraryList[sk_maxStringLength];$/;"	m	struct:FlyCapture2::SystemInfo
 libraryList	include/C/FlyCapture2Defs_C.h	/^		char libraryList[ MAX_STRING_LENGTH];$/;"	m	struct:_fc2SystemInfo
@@ -3039,9 +3918,20 @@ main	flycapture.2.10.3.266_arm64/src/GrabCallbackEx/GrabCallbackEx.cpp	/^int mai
 main	flycapture.2.10.3.266_arm64/src/HighDynamicRangeEx/HighDynamicRangeEx.cpp	/^int main(int \/*argc*\/, char ** \/*argv*\/)$/;"	f
 main	flycapture.2.10.3.266_arm64/src/ImageEventEx/ImageEventEx.cpp	/^int main(int argc, char *argv[])$/;"	f
 main	flycapture.2.10.3.266_arm64/src/MultipleCameraEx/MultipleCameraEx.cpp	/^int main(int \/*argc*\/, char ** \/*argv*\/)$/;"	f
-main	src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^int main(int \/*argc*\/, char ** \/*argv*\/)$/;"	f
-main	src/FlyCapture2Test/FlyCapture2Test.cpp	/^int main(int \/*argc*\/, char ** \/*argv*\/)$/;"	f
-main	src/MultipleCameraEx/MultipleCameraEx.cpp	/^int main(int \/*argc*\/, char ** \/*argv*\/)$/;"	f
+main	old_src/src/AsyncTriggerEx/AsyncTriggerEx.cpp	/^int main(int \/*argc*\/, char ** \/*argv*\/)$/;"	f
+main	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	old_src/src/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	old_src/src/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	old_src/src/FlyCapture2Test/FlyCapture2Test.cpp	/^int main(int \/*argc*\/, char ** \/*argv*\/)$/;"	f
+main	old_src/src/MultipleCameraEx/MultipleCameraEx.cpp	/^int main(int \/*argc*\/, char ** \/*argv*\/)$/;"	f
+main	old_src/src/stereoCamera.cpp	/^int main(int \/*argc*\/, char ** \/*argv*\/)$/;"	f
+main	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	src/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	src/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
 main	src/stereoCamera.cpp	/^int main(int \/*argc*\/, char ** \/*argv*\/)$/;"	f
 major	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int major; \/**< Major version number. *\/$/;"	m	struct:_fc2Version
 major	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int major; \/**< Major version number. *\/$/;"	m	struct:FlyCapture2::FC2Version
@@ -3119,6 +4009,8 @@ minor	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int
 minor	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int minor; \/**< Minor version number. *\/$/;"	m	struct:FlyCapture2::FC2Version
 minor	include/C/FlyCapture2Defs_C.h	/^		unsigned int minor; \/**< Minor version number. *\/$/;"	m	struct:_fc2Version
 minor	include/FlyCapture2Defs.h	/^		unsigned int minor; \/**< Minor version number. *\/$/;"	m	struct:FlyCapture2::FC2Version
+minu8_index4	src/util.h	/^__inline__ __device__ uint8_t minu8_index4(int *min_idx, const uint8_t val1, const int dis, const uint8_t val2, const int dis2, const uint8_t val3, const int dis3, const uint8_t val4, const int dis4) {$/;"	f
+minu8_index8	src/util.h	/^__inline__ __device__ uint8_t minu8_index8(int *min_idx, const uint8_t val1, const int dis, const uint8_t val2, const int dis2, const uint8_t val3, const int dis3, const uint8_t val4, const int dis4, const uint8_t val5, const int dis5, const uint8_t val6, const int dis6, const uint8_t val7, const int dis7, const uint8_t val8, const int dis8) {$/;"	f
 mode	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2Mode         mode;$/;"	m	struct:_fc2Format7Info
 mode	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2Mode mode;$/;"	m	struct:_fc2Format7ImageSettings
 mode	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int mode;$/;"	m	struct:_fc2TriggerMode
@@ -3144,6 +4036,8 @@ networkInterfaceIndex	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	
 networkInterfaceIndex	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int networkInterfaceIndex;$/;"	m	struct:FlyCapture2::GigEStreamChannel
 networkInterfaceIndex	include/C/FlyCapture2Defs_C.h	/^		unsigned int networkInterfaceIndex;$/;"	m	struct:_fc2GigEStreamChannel
 networkInterfaceIndex	include/FlyCapture2Defs.h	/^		unsigned int networkInterfaceIndex;$/;"	m	struct:FlyCapture2::GigEStreamChannel
+nextImage	src/individual_calib.cpp	/^    Mat nextImage()$/;"	f	class:Settings
+nextImage	src/stereo_get_images.cpp	/^    Mat nextImage(bool b)$/;"	f	class:Settings
 nodeNumber	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned short nodeNumber;$/;"	m	struct:_fc2CameraInfo
 nodeNumber	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned short nodeNumber;$/;"	m	struct:FlyCapture2::CameraInfo
 nodeNumber	include/C/FlyCapture2Defs_C.h	/^		unsigned short nodeNumber;$/;"	m	struct:_fc2CameraInfo
@@ -3152,6 +4046,8 @@ nodeVendorId	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsig
 nodeVendorId	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int nodeVendorId;$/;"	m	struct:FlyCapture2::ConfigROM
 nodeVendorId	include/C/FlyCapture2Defs_C.h	/^		unsigned int nodeVendorId;$/;"	m	struct:_fc2ConfigROM
 nodeVendorId	include/FlyCapture2Defs.h	/^		unsigned int nodeVendorId;$/;"	m	struct:FlyCapture2::ConfigROM
+nrFrames	src/individual_calib.cpp	/^    int nrFrames;              \/\/ The number of frames to use from the input for calibration$/;"	m	class:Settings	file:
+nrFrames	src/stereo_get_images.cpp	/^    int nrFrames;              \/\/ The number of frames to use from the input for calibration$/;"	m	class:Settings	file:
 numBanks	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int numBanks;$/;"	m	struct:_fc2LUTData
 numBanks	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int numBanks;$/;"	m	struct:FlyCapture2::LUTData
 numBanks	include/C/FlyCapture2Defs_C.h	/^		unsigned int numBanks;$/;"	m	struct:_fc2LUTData
@@ -3298,6 +4194,10 @@ outputBitDepth	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		uns
 outputBitDepth	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int outputBitDepth;$/;"	m	struct:FlyCapture2::LUTData
 outputBitDepth	include/C/FlyCapture2Defs_C.h	/^		unsigned int outputBitDepth;$/;"	m	struct:_fc2LUTData
 outputBitDepth	include/FlyCapture2Defs.h	/^		unsigned int outputBitDepth;$/;"	m	struct:FlyCapture2::LUTData
+outputFileName	src/individual_calib.cpp	/^    string outputFileName;      \/\/ The name of the file where to write$/;"	m	class:Settings	file:
+outputFileName	src/stereo_get_images.cpp	/^    string outputFileName;      \/\/ The name of the file where to write$/;"	m	class:Settings	file:
+outputFileName2	src/individual_calib.cpp	/^    string outputFileName2;      \/\/ The name of the file where to write$/;"	m	class:Settings	file:
+outputFileName2	src/stereo_get_images.cpp	/^    string outputFileName2;      \/\/ The name of the file where to write$/;"	m	class:Settings	file:
 pBusMgr	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Internal_C.h	/^	FlyCapture2::BusManager* pBusMgr;$/;"	m	struct:_fc2InternalContext
 pBusMgr	include/C/FlyCapture2Internal_C.h	/^	FlyCapture2::BusManager* pBusMgr;$/;"	m	struct:_fc2InternalContext
 pCallback	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Internal_C.h	/^	fc2ImageEventCallback   pCallback;$/;"	m	struct:_fc2InternalImageCallback
@@ -3337,6 +4237,8 @@ parameter	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned
 parameter	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int parameter;$/;"	m	struct:FlyCapture2::TriggerMode
 parameter	include/C/FlyCapture2Defs_C.h	/^		unsigned int parameter;$/;"	m	struct:_fc2TriggerMode
 parameter	include/FlyCapture2Defs.h	/^		unsigned int parameter;$/;"	m	struct:FlyCapture2::TriggerMode
+patternToUse	src/individual_calib.cpp	/^    string patternToUse;$/;"	m	class:Settings	file:
+patternToUse	src/stereo_get_images.cpp	/^    string patternToUse;$/;"	m	class:Settings	file:
 pcieBusSpeed	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2PCIeBusSpeed pcieBusSpeed;$/;"	m	struct:_fc2CameraInfo
 pcieBusSpeed	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		PCIeBusSpeed pcieBusSpeed;$/;"	m	struct:FlyCapture2::CameraInfo
 pcieBusSpeed	include/C/FlyCapture2Defs_C.h	/^		fc2PCIeBusSpeed pcieBusSpeed;$/;"	m	struct:_fc2CameraInfo
@@ -3378,6 +4280,7 @@ polaritySupported	include/C/FlyCapture2Defs_C.h	/^		BOOL polaritySupported;$/;"	
 polaritySupported	include/C/FlyCapture2Defs_C.h	/^		BOOL polaritySupported;$/;"	m	struct:_fc2TriggerModeInfo
 polaritySupported	include/FlyCapture2Defs.h	/^		bool polaritySupported;$/;"	m	struct:FlyCapture2::StrobeInfo
 polaritySupported	include/FlyCapture2Defs.h	/^		bool polaritySupported;$/;"	m	struct:FlyCapture2::TriggerModeInfo
+popcount	src/util.h	/^__device__ __forceinline__ int popcount(T n) {$/;"	f
 portErrors	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int portErrors;$/;"	m	struct:_fc2CameraStats
 portErrors	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int portErrors;$/;"	m	struct:FlyCapture2::CameraStats
 portErrors	include/C/FlyCapture2Defs_C.h	/^		unsigned int portErrors;$/;"	m	struct:_fc2CameraStats
@@ -3398,6 +4301,8 @@ present	include/FlyCapture2Defs.h	/^		bool present;$/;"	m	struct:FlyCapture2::Pr
 present	include/FlyCapture2Defs.h	/^		bool present;$/;"	m	struct:FlyCapture2::PropertyInfo
 present	include/FlyCapture2Defs.h	/^		bool present;$/;"	m	struct:FlyCapture2::StrobeInfo
 present	include/FlyCapture2Defs.h	/^		bool present;$/;"	m	struct:FlyCapture2::TriggerModeInfo
+print_help	src/stereo_calib.cpp	/^static int print_help()$/;"	f	file:
+print_uchars	src/util.h	/^__device__ __forceinline__ void print_uchars(const char* str, const uint32_t s) {$/;"	f
 processedFrameRate	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/InformationPane.h	/^			double processedFrameRate;$/;"	m	struct:InformationPane::FPSStruct
 progressive	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		BOOL progressive;$/;"	m	struct:_fc2JPEGOption
 progressive	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		bool progressive;$/;"	m	struct:FlyCapture2::JPEGOption
@@ -3411,6 +4316,10 @@ pszKeyword	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		char ps
 pszKeyword	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		char pszKeyword[ sk_maxStringLength ];$/;"	m	struct:FlyCapture2::ConfigROM
 pszKeyword	include/C/FlyCapture2Defs_C.h	/^		char pszKeyword[ MAX_STRING_LENGTH ];$/;"	m	struct:_fc2ConfigROM
 pszKeyword	include/FlyCapture2Defs.h	/^		char pszKeyword[ sk_maxStringLength ];$/;"	m	struct:FlyCapture2::ConfigROM
+qnxnto	old_src/src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	old_src/src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	src/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	src/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
 quality	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int quality;$/;"	m	struct:_fc2JPEGOption
 quality	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int quality;$/;"	m	struct:_fc2JPG2Option
 quality	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int quality;$/;"	m	struct:_fc2MJPGOption
@@ -3423,6 +4332,10 @@ quality	include/C/FlyCapture2Defs_C.h	/^		unsigned int quality;$/;"	m	struct:_fc
 quality	include/FlyCapture2Defs.h	/^		unsigned int quality;$/;"	m	struct:FlyCapture2::JPEGOption
 quality	include/FlyCapture2Defs.h	/^		unsigned int quality;$/;"	m	struct:FlyCapture2::JPG2Option
 quality	include/FlyCapture2Defs.h	/^		unsigned int quality;$/;"	m	struct:FlyCapture2::MJPGOption
+read	src/individual_calib.cpp	/^    void read(const FileNode& node)                          \/\/Read serialization for this class$/;"	f	class:Settings
+read	src/individual_calib.cpp	/^static void read(const FileNode& node, Settings& x, const Settings& default_value = Settings())$/;"	f	file:
+read	src/stereo_get_images.cpp	/^    void read(const FileNode& node)                          \/\/Read serialization for this class$/;"	f	class:Settings
+read	src/stereo_get_images.cpp	/^static void read(const FileNode& node, Settings& x, const Settings& default_value = Settings())$/;"	f	file:
 readOutSupported	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		BOOL readOutSupported;$/;"	m	struct:_fc2PropertyInfo
 readOutSupported	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		BOOL readOutSupported;$/;"	m	struct:_fc2StrobeInfo
 readOutSupported	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		BOOL readOutSupported;$/;"	m	struct:_fc2TriggerModeInfo
@@ -3435,6 +4348,9 @@ readOutSupported	include/C/FlyCapture2Defs_C.h	/^		BOOL readOutSupported;$/;"	m	
 readOutSupported	include/FlyCapture2Defs.h	/^		bool readOutSupported;$/;"	m	struct:FlyCapture2::PropertyInfo
 readOutSupported	include/FlyCapture2Defs.h	/^		bool readOutSupported;$/;"	m	struct:FlyCapture2::StrobeInfo
 readOutSupported	include/FlyCapture2Defs.h	/^		bool readOutSupported;$/;"	m	struct:FlyCapture2::TriggerModeInfo
+readStringList	src/individual_calib.cpp	/^    static bool readStringList( const string& filename, vector<string>& l )$/;"	f	class:Settings
+readStringList	src/stereo_calib.cpp	/^static bool readStringList( const string& filename, vector<string>& l )$/;"	f	file:
+readStringList	src/stereo_get_images.cpp	/^    static bool readStringList( const string& filename, vector<string>& l )$/;"	f	class:Settings
 receivedDataSize	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int receivedDataSize;$/;"	m	struct:_fc2Image
 receivedDataSize	include/C/FlyCapture2Defs_C.h	/^		unsigned int receivedDataSize;$/;"	m	struct:_fc2Image
 recommendedBytesPerPacket	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int recommendedBytesPerPacket;$/;"	m	struct:_fc2Format7PacketInfo
@@ -3591,6 +4507,9 @@ reserved	include/FlyCapture2Defs.h	/^		unsigned int reserved[8];$/;"	m	struct:Fl
 reserved	include/Utilities.h	/^		unsigned int reserved[16];$/;"	m	struct:FlyCapture2::SystemInfo
 rows	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int rows;$/;"	m	struct:_fc2Image
 rows	include/C/FlyCapture2Defs_C.h	/^		unsigned int rows;$/;"	m	struct:_fc2Image
+runCalibration	src/individual_calib.cpp	/^static bool runCalibration( Settings& s, Size& imageSize, Mat& cameraMatrix, Mat& distCoeffs,$/;"	f	file:
+runCalibrationAndSave	src/individual_calib.cpp	/^bool runCalibrationAndSave(Settings& s, Size imageSize, Mat&  cameraMatrix, Mat& distCoeffs,vector<vector<Point2f> > imagePoints, int cam)$/;"	f
+saveCameraParams	src/individual_calib.cpp	/^static void saveCameraParams( Settings& s, Size& imageSize, Mat& cameraMatrix, Mat& distCoeffs,$/;"	f	file:
 screenHeight	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		size_t screenHeight;$/;"	m	struct:_fc2SystemInfo
 screenHeight	flycapture.2.10.3.266_arm64/include/Utilities.h	/^		size_t screenHeight;$/;"	m	struct:FlyCapture2::SystemInfo
 screenHeight	include/C/FlyCapture2Defs_C.h	/^		size_t screenHeight;$/;"	m	struct:_fc2SystemInfo
@@ -3615,6 +4534,10 @@ serialNumber	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsig
 serialNumber	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int serialNumber;$/;"	m	struct:FlyCapture2::CameraInfo
 serialNumber	include/C/FlyCapture2Defs_C.h	/^		unsigned int serialNumber;$/;"	m	struct:_fc2CameraInfo
 serialNumber	include/FlyCapture2Defs.h	/^		unsigned int serialNumber;$/;"	m	struct:FlyCapture2::CameraInfo
+shfl_32	src/util.h	/^__inline__ __device__ int shfl_32(int scalarValue, const int lane) {$/;"	f
+shfl_down_32	src/util.h	/^__inline__ __device__ int shfl_down_32(int scalarValue, const int n) {$/;"	f
+shfl_up_32	src/util.h	/^__inline__ __device__ int shfl_up_32(int scalarValue, const int n) {$/;"	f
+shfl_xor_32	src/util.h	/^__inline__ __device__ int shfl_xor_32(int scalarValue, const int n) {$/;"	f
 showBlue	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramDrawingArea.h	/^			bool showBlue;$/;"	m	struct:HistogramDrawingArea::RowColDisplayOptions
 showGreen	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramDrawingArea.h	/^			bool showGreen;$/;"	m	struct:HistogramDrawingArea::RowColDisplayOptions
 showGrey	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramDrawingArea.h	/^			bool showGrey;$/;"	m	struct:HistogramDrawingArea::RowColDisplayOptions
@@ -3622,6 +4545,8 @@ showMax	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramDrawingArea.h	/^			
 showMean	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramDrawingArea.h	/^			bool showMean;$/;"	m	struct:HistogramDrawingArea::RowColFunctionOptions
 showMin	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramDrawingArea.h	/^			bool showMin;$/;"	m	struct:HistogramDrawingArea::RowColFunctionOptions
 showRed	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramDrawingArea.h	/^			bool showRed;$/;"	m	struct:HistogramDrawingArea::RowColDisplayOptions
+showUndistorsed	src/individual_calib.cpp	/^    bool showUndistorsed;       \/\/ Show undistorted images after calibration$/;"	m	class:Settings	file:
+showUndistorsed	src/stereo_get_images.cpp	/^    bool showUndistorsed;       \/\/ Show undistorted images after calibration$/;"	m	class:Settings	file:
 shutter	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2EmbeddedImageInfoProperty shutter;$/;"	m	struct:_fc2EmbeddedImageInfo
 shutter	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		EmbeddedImageInfoProperty shutter;$/;"	m	struct:FlyCapture2::EmbeddedImageInfo
 shutter	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/InformationPane.h	/^					unsigned int shutter;$/;"	m	struct:InformationPane::EmbeddedImageInfoStruct::__anon1::__anon2
@@ -3660,8 +4585,15 @@ sourcePort	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigne
 sourcePort	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int sourcePort;$/;"	m	struct:FlyCapture2::GigEStreamChannel
 sourcePort	include/C/FlyCapture2Defs_C.h	/^		unsigned int sourcePort;$/;"	m	struct:_fc2GigEStreamChannel
 sourcePort	include/FlyCapture2Defs.h	/^		unsigned int sourcePort;$/;"	m	struct:FlyCapture2::GigEStreamChannel
+squareSize	src/individual_calib.cpp	/^    float squareSize;          \/\/ The size of a square in your defined unit (point, millimeter,etc).$/;"	m	class:Settings	file:
+squareSize	src/stereo_get_images.cpp	/^    float squareSize;          \/\/ The size of a square in your defined unit (point, millimeter,etc).$/;"	m	class:Settings	file:
+st_gbl_cs	src/util.h	/^__device__ __forceinline__ void st_gbl_cs(const __restrict__ uint32_t *addr, const uint32_t value) {$/;"	f
+st_gbl_wt	src/util.h	/^__device__ __forceinline__ void st_gbl_wt(const __restrict__ uint32_t *addr, const uint32_t value) {$/;"	f
 statsMutex	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramDrawingArea.h	/^		Glib::Mutex statsMutex;$/;"	m	class:HistogramDrawingArea
 statsMutex	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramWindow.h	/^		Glib::Mutex statsMutex;$/;"	m	class:HistogramWindow
+stereo_calib	src/stereo_calib.cpp	/^int stereo_calib(int camera1ID, int camera2ID, string imagelistfn)$/;"	f
+stereo_get_images	src/stereo_get_images.cpp	/^int stereo_get_images(int camera1ID, int camera2ID, Camera * camArray[])$/;"	f
+stereo_rectify_disp	src/stereo_rectify_disp.cpp	/^int stereo_rectify_disp(int camera1ID, int camera2ID, Camera * camArray[])$/;"	f
 stride	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int stride;$/;"	m	struct:_fc2Image
 stride	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/InformationPane.h	/^			unsigned int stride;$/;"	m	struct:InformationPane::ImageInfoStruct
 stride	include/C/FlyCapture2Defs_C.h	/^		unsigned int stride;$/;"	m	struct:_fc2Image
@@ -3682,6 +4614,8 @@ sysMemSize	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		size_t	
 sysMemSize	flycapture.2.10.3.266_arm64/include/Utilities.h	/^		size_t	sysMemSize;$/;"	m	struct:FlyCapture2::SystemInfo
 sysMemSize	include/C/FlyCapture2Defs_C.h	/^		size_t	sysMemSize;$/;"	m	struct:_fc2SystemInfo
 sysMemSize	include/Utilities.h	/^		size_t	sysMemSize;$/;"	m	struct:FlyCapture2::SystemInfo
+teardownMultiCams	old_src/src/cameraSetup.cpp	/^void teardownMultiCams(unsigned int numCameras, Camera * camArray[])$/;"	f
+teardownMultiCams	src/cameraSetup.cpp	/^void teardownMultiCams(unsigned int numCameras, Camera * camArray[])$/;"	f
 temperature	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		unsigned int temperature;$/;"	m	struct:_fc2CameraStats
 temperature	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int temperature;$/;"	m	struct:FlyCapture2::CameraStats
 temperature	include/C/FlyCapture2Defs_C.h	/^		unsigned int temperature;$/;"	m	struct:_fc2CameraStats
@@ -3716,6 +4650,8 @@ type	include/C/FlyCapture2Defs_C.h	/^		unsigned int type; \/**< Type version num
 type	include/FlyCapture2Defs.h	/^		PropertyType type;$/;"	m	struct:FlyCapture2::Property
 type	include/FlyCapture2Defs.h	/^		PropertyType type;$/;"	m	struct:FlyCapture2::PropertyInfo
 type	include/FlyCapture2Defs.h	/^		unsigned int type; \/**< Type version number. *\/$/;"	m	struct:FlyCapture2::FC2Version
+uchar_to_uint32	src/util.h	/^__device__ __forceinline__ uint32_t uchar_to_uint32(int u1) {$/;"	f
+uchars_to_uint32	src/util.h	/^__device__ __forceinline__ uint32_t uchars_to_uint32(int u1, int u2, int u3, int u4) {$/;"	f
 uint16_t	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Platform_C.h	/^typedef unsigned __int16	uint16_t;$/;"	t
 uint16_t	flycapture.2.10.3.266_arm64/include/FlyCapture2Platform.h	/^typedef unsigned __int16	uint16_t;$/;"	t
 uint16_t	include/C/FlyCapture2Platform_C.h	/^typedef unsigned __int16	uint16_t;$/;"	t
@@ -3724,6 +4660,7 @@ uint32_t	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Platform_C.h	/^typedef
 uint32_t	flycapture.2.10.3.266_arm64/include/FlyCapture2Platform.h	/^typedef unsigned __int32	uint32_t;$/;"	t
 uint32_t	include/C/FlyCapture2Platform_C.h	/^typedef unsigned __int32	uint32_t;$/;"	t
 uint32_t	include/FlyCapture2Platform.h	/^typedef unsigned __int32	uint32_t;$/;"	t
+uint32_to_uchars	src/util.h	/^__device__ __forceinline__ void uint32_to_uchars(const uint32_t s, int *u1, int *u2, int *u3, int *u4) {$/;"	f
 uint64_t	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Platform_C.h	/^typedef unsigned __int64	uint64_t;$/;"	t
 uint64_t	flycapture.2.10.3.266_arm64/include/FlyCapture2Platform.h	/^typedef unsigned __int64	uint64_t;$/;"	t
 uint64_t	include/C/FlyCapture2Platform_C.h	/^typedef unsigned __int64	uint64_t;$/;"	t
@@ -3770,6 +4707,7 @@ valueReadable	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		BOOL
 valueReadable	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		bool valueReadable;$/;"	m	struct:FlyCapture2::TriggerModeInfo
 valueReadable	include/C/FlyCapture2Defs_C.h	/^		BOOL valueReadable;$/;"	m	struct:_fc2TriggerModeInfo
 valueReadable	include/FlyCapture2Defs.h	/^		bool valueReadable;$/;"	m	struct:FlyCapture2::TriggerModeInfo
+vcmpgeu4	src/util.h	/^__device__ __forceinline__ unsigned int vcmpgeu4(unsigned int a, unsigned int b) {$/;"	f
 vecMax	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramDrawingArea.h	/^			std::vector<unsigned int> vecMax;$/;"	m	struct:HistogramDrawingArea::RowColChannelStats
 vecMean	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramDrawingArea.h	/^			std::vector<unsigned int> vecMean;$/;"	m	struct:HistogramDrawingArea::RowColChannelStats
 vecMin	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/HistogramDrawingArea.h	/^			std::vector<unsigned int> vecMin;$/;"	m	struct:HistogramDrawingArea::RowColChannelStats
@@ -3801,6 +4739,10 @@ vendorUniqueInfo_3	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^	
 vendorUniqueInfo_3	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		unsigned int vendorUniqueInfo_3;$/;"	m	struct:FlyCapture2::ConfigROM
 vendorUniqueInfo_3	include/C/FlyCapture2Defs_C.h	/^		unsigned int vendorUniqueInfo_3;$/;"	m	struct:_fc2ConfigROM
 vendorUniqueInfo_3	include/FlyCapture2Defs.h	/^		unsigned int vendorUniqueInfo_3;$/;"	m	struct:FlyCapture2::ConfigROM
+vminu4	src/util.h	/^__device__ __forceinline__ unsigned int vminu4(unsigned int a, unsigned int b) {$/;"	f
+warpReduceMin	src/util.h	/^__inline__ __device__ int warpReduceMin(int val) {$/;"	f
+warpReduceMinIndex	src/util.h	/^__inline__ __device__ int warpReduceMinIndex(int val, int idx) {$/;"	f
+warpReduceMinIndex2	src/util.h	/^__inline__ __device__ int warpReduceMinIndex2(int *val, int idx) {$/;"	f
 whiteBalance	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		fc2EmbeddedImageInfoProperty whiteBalance;$/;"	m	struct:_fc2EmbeddedImageInfo
 whiteBalance	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		EmbeddedImageInfoProperty whiteBalance;$/;"	m	struct:FlyCapture2::EmbeddedImageInfo
 whiteBalance	flycapture.2.10.3.266_arm64/src/FlyCap2_ARM/InformationPane.h	/^					unsigned int whiteBalance;$/;"	m	struct:InformationPane::EmbeddedImageInfoStruct::__anon1::__anon2
@@ -3819,6 +4761,9 @@ width	include/C/FlyCapture2Defs_C.h	/^		unsigned int width;$/;"	m	struct:_fc2H26
 width	include/FlyCapture2Defs.h	/^		unsigned int width;$/;"	m	struct:FlyCapture2::Format7ImageSettings
 width	include/FlyCapture2Defs.h	/^		unsigned int width;$/;"	m	struct:FlyCapture2::GigEImageSettings
 width	include/FlyCapture2Defs.h	/^		unsigned int width;$/;"	m	struct:FlyCapture2::H264Option
+write	src/individual_calib.cpp	/^    void write(FileStorage& fs) const                        \/\/Write serialization for this class$/;"	f	class:Settings
+write	src/stereo_get_images.cpp	/^    void write(FileStorage& fs) const                        \/\/Write serialization for this class$/;"	f	class:Settings
+write_file	src/debug.h	/^void write_file(const char* fname, const T *data, const int size) {$/;"	f
 xmlURL1	flycapture.2.10.3.266_arm64/include/C/FlyCapture2Defs_C.h	/^		char xmlURL1[ MAX_STRING_LENGTH];$/;"	m	struct:_fc2CameraInfo
 xmlURL1	flycapture.2.10.3.266_arm64/include/FlyCapture2Defs.h	/^		char xmlURL1[sk_maxStringLength];$/;"	m	struct:FlyCapture2::CameraInfo
 xmlURL1	include/C/FlyCapture2Defs_C.h	/^		char xmlURL1[ MAX_STRING_LENGTH];$/;"	m	struct:_fc2CameraInfo
