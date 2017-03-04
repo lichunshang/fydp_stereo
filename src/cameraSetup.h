@@ -32,5 +32,6 @@ void capPictures(unsigned int numCameras, Camera * camArray[]);
 void teardownMultiCams(unsigned int numCameras, Camera * camArray[]);
 bool initGPIO();
 bool triggerGPIO(unsigned int numCameras, Camera * camArray[]);
+void testCameraArray(unsigned int numCameras, Camera * camArray[]);
 
 #endif

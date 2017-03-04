@@ -25,7 +25,6 @@
 
 #include "cameraSetup.h"
 
-//#define SOFTWARE_TRIGGER_CAMERA
 #define NUM_BUFFERS 1
 #define GPIO_NUMBER gpio219
 
@@ -154,9 +153,9 @@ bool triggerGPIO(unsigned int numCameras, Camera * camArray[])
 
 cv::Mat getMatFromCameraImage(unsigned int cameraIndex, Camera * camArray[])
 {
-	cv::Mat result;
 	Error error;
 	Camera *cam;
+	cv::Mat image;
 
         cam = camArray[cameraIndex];
 
@@ -165,28 +164,17 @@ cv::Mat getMatFromCameraImage(unsigned int cameraIndex, Camera * camArray[])
         if (error != PGRERROR_OK)
         {
             PrintError(error);
-            return result;
+            return image;
         }
 
     	Image rawImage;
     
-#ifdef SOFTWARE_TRIGGER_CAMERA
-        PollForTriggerReady(cam);
-        bool retVal = FireSoftwareTrigger(cam);
-        if (!retVal)
-        {
-            cout << endl;
-            cout << "Error firing software trigger" << endl;
-            return result;
-        }
-#endif
-
         // Retrieve an image
         error = cam->RetrieveBuffer(&rawImage);
         if (error != PGRERROR_OK)
         {
             PrintError(error);
-            return result;
+            return image;
         }
 
 	// convert to rgb
@@ -195,19 +183,17 @@ cv::Mat getMatFromCameraImage(unsigned int cameraIndex, Camera * camArray[])
 
         // convert to OpenCV Mat
         unsigned int rowBytes = (double)rgbImage.GetReceivedDataSize()/(double)rgbImage.GetRows();       
-        cv::Mat image = cv::Mat(rgbImage.GetRows(), rgbImage.GetCols(), CV_8UC3, rgbImage.GetData(),rowBytes);            
-
-	image.copyTo(result);
+        image = cv::Mat(rgbImage.GetRows(), rgbImage.GetCols(), CV_8UC3, rgbImage.GetData(),rowBytes);            
 
 	// Stop capturing images
         error = cam->StopCapture();
         if (error != PGRERROR_OK)
         {
             PrintError(error);
-            return result;
+            return image;
         }
 
-	return result;
+	return image;
  }
 
 void capPictures(unsigned int numCameras, Camera * camArray[])
@@ -216,43 +202,31 @@ void capPictures(unsigned int numCameras, Camera * camArray[])
     Error error;
     Camera *cam;
 
-    printf("trying to start capturing\n");
     for (unsigned int i = 0; i < numCameras; i++)
     {
-        printf("it %u\n", i);
+        printf("start %u\n", i);
         cam = camArray[i];
 
         // Start capturing images
         error = cam->StartCapture();
+        if(error == PGRERROR_ISOCH_BANDWIDTH_EXCEEDED){
+            cout << "Couldn't start camera " << i << " because interface bandwidth exceeded." << endl;
+        }
         if (error != PGRERROR_OK)
         {
             PrintError(error);
             return;
         }
     }
+//    StartSyncCapture(numCameras, camArray);
 
     printf("started capturing...\n");
 
     Image rawImage;
     for (unsigned int imageCnt = 0; imageCnt < k_numImages; imageCnt++)
     {
-        triggerGPIO(numCameras, camArray);
-        for (unsigned int i = 0; i < numCameras; i++)
-        {
-            cam = camArray[i];
-#ifdef SOFTWARE_TRIGGER_CAMERA
-            PollForTriggerReady(cam);
-            bool retVal = FireSoftwareTrigger(cam);
-            if (!retVal)
-            {
-                cout << endl;
-                cout << "Error firing software trigger" << endl;
-                return;
-            }
-#endif
-        }
-
-        printf("fired software triggers...\n");
+        bool triggerRes = triggerGPIO(numCameras, camArray);
+        cout << "Trigger... " << triggerRes << endl;
 
         for (unsigned int i = 0; i < numCameras; i++)
         {
@@ -292,6 +266,19 @@ void capPictures(unsigned int numCameras, Camera * camArray[])
                 PrintError(error);
                 return;
             }
+/*
+            for(unsigned int i = 0; i < numCameras; i++) {
+                cout << "stop " << i << endl;
+                Error error;
+                // Stop capturing images
+                error = camArray[i]->StopCapture();
+                if (error != PGRERROR_OK)
+                {
+                    PrintError(error);
+                    return;
+                }
+            }
+*/
             
         }
         printf("retrieved images...\n");
@@ -313,7 +300,7 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
         cout << "Failed to create file in current folder.  Please check "
                 "permissions."
              << endl;
-        return -1;
+        return false;
     }
     fclose(tempFile);
     remove("test.txt");
@@ -324,7 +311,7 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
     if (error != PGRERROR_OK)
     {
         PrintError(error);
-        return -1;
+        return false;
     }
 
     cout << "Number of cameras detected: " << numCameras << endl;
@@ -337,6 +324,7 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
 
     for (unsigned int i = 0; i < numSetupCams; i++)
     {
+        cout << "setting up..." << endl;
         PGRGuid guid;
         error = busMgr.GetCameraFromIndex(i, &guid);
 
@@ -367,7 +355,6 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
 
         PrintCameraInfo(&camInfo);
 
-#ifndef SOFTWARE_TRIGGER_CAMERA
         // Check for external trigger support
         TriggerModeInfo triggerModeInfo;
         error = cam->GetTriggerModeInfo(&triggerModeInfo);
@@ -382,12 +369,15 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
             cout << "Camera does not support external trigger! Exiting..." << endl;
             return false;
         }
-#endif
+	else
+	{
+	    cout << "Found camera trigger support." << endl;
+	}
 
         // Set trigger mode
         TriggerMode triggerMode;
 
-        error = cam->GetTriggerMode(&triggerMode);
+        //error = cam->GetTriggerMode(&triggerMode);
         if (error != PGRERROR_OK)
         {
             printf("Error getting triggering modes.");
@@ -396,22 +386,22 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
         }
 
         triggerMode.onOff = true;
-//        triggerMode.onOff = false;
         triggerMode.mode = 0;
         triggerMode.parameter = 0;
-#ifdef SOFTWARE_TRIGGER_CAMERA
-        triggerMode.source = 7; //software trigger
-#else
         triggerMode.source = 2; //external trigger
-#endif
-        triggerMode.polarity = 0;
+        triggerMode.polarity = 0; //falling edge
+
         // Set the trigger settings
-        error = cam->SetTriggerMode(&triggerMode);
+        //error = cam->SetTriggerMode(&triggerMode);
         if (error != PGRERROR_OK)
         {
             printf("Error setting trigger modes.\n");
             PrintError(error);
             return false;
+        }
+        else
+        {
+            cout << "Set trigger mode." << endl;
         }
 
         // Power on the camera
@@ -423,19 +413,20 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
         {
             printf("Error: Could not power on camera.\n");
             PrintError( error );
-            return -1;
+            return false;
         }
+	cout << "Camera on." << endl;
 
         // Poll for trigger to be ready
-#ifdef SOFTWARE_TRIGGER_CAMERA
-        bool retVal = PollForTriggerReady(cam);
+        /*bool retVal = PollForTriggerReady(cam);
         if (!retVal)
         {
             cout << endl;
             cout << "Error polling for trigger ready!" << endl;
             return false;
-        }
-#endif
+        }*/
+
+	cout << "Trigger ready." << endl;
 
         // Get the camera configuration
         FC2Config config;
@@ -448,27 +439,44 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
         }
 
         // Set the number of driver buffers used to 10.
-        config.numBuffers = 1;
+        config.numBuffers = 2;
         // Set the grab timeout to 5 seconds
-        config.grabTimeout = 5000;
+        config.grabTimeout = 1000;
+//        config.highPerformanceRetrieveBuffer = true;
+//        config.grabMode = DROP_FRAMES;
+//        config.asyncBusSpeed = BUSSPEED_S_FASTEST;
 
         // Set the camera configuration
         error = cam->SetConfiguration(&config);
         if (error != PGRERROR_OK)
         {
             PrintError(error);
-            return -1;
-        }
-        printf("FINISHED CONFIGURING\n");
-#ifdef SOFTWARE_TRIGGER_CAMERA
-        if (!CheckSoftwareTriggerPresence(cam))
-        {
-            cout << "SOFT_ASYNC_TRIGGER not implemented on this camera! Stopping ""application"<< endl;
             return false;
         }
-#else
-//            cout << "Trigger the camera by sending a trigger pulse to GPIO" << triggerMode.source << endl;
-#endif
+
+        printf("FINISHED CONFIGURING\n");
+        
+        Format7ImageSettings imageSettings;
+        unsigned int packetSize;
+        float percentage;
+        cout << "Setting image format..." << endl;
+        error = cam->GetFormat7Configuration(&imageSettings, &packetSize, &percentage);
+        if (error != PGRERROR_OK)
+        {
+            PrintError(error);
+            return false;
+        }
+
+        imageSettings.pixelFormat = PIXEL_FORMAT_MONO8;
+        error = cam->SetFormat7Configuration(&imageSettings, packetSize);
+        if (error != PGRERROR_OK)
+        {
+            PrintError(error);
+            return false;
+        }
+
+        cout << "Finished setting image format." << endl;
+
         camArray[i] = cam;
 //        RunSingleCamera(*guid);
     }
@@ -500,5 +508,20 @@ void teardownMultiCams(unsigned int numCameras, Camera * camArray[])
             PrintError(error);
             return;
         }
+    }
+}
+
+void testCameraArray(unsigned int numCameras, Camera * camArray[]){
+    for(int i = 0; i < numCameras; i++){
+        // Get the camera information
+        CameraInfo camInfo;
+        Error error;
+        error = camArray[i]->GetCameraInfo(&camInfo);
+        if (error != PGRERROR_OK)
+        {
+            PrintError(error);
+            return;
+        }
+        PrintCameraInfo(&camInfo);
     }
 }

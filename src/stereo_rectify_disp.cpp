@@ -9,6 +9,7 @@ using namespace std;
 static void
 StereoRectify(int camera1ID, int camera2ID, Camera * camArray[])
 {
+	printf("Here...");
     int param1 = 1;
     int param2 = 5000;
     Mat img = imread("Results/left0.jpg", 0), rimg, cimg, disp;
@@ -155,7 +156,7 @@ int ctr =1 ;
 
 int stereo_rectify_disp(int camera1ID, int camera2ID, Camera * camArray[])
 {
-
+	printf("\nTest1\n");
     StereoRectify(camera1ID,camera2ID, camArray);
     return 0;
 }
