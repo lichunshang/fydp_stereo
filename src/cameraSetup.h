@@ -31,7 +31,8 @@ cv::Mat getMatFromCameraImage(unsigned int cameraIndex, Camera * camArray[]);
 void capPictures(unsigned int numCameras, Camera * camArray[]);
 void teardownMultiCams(unsigned int numCameras, Camera * camArray[]);
 bool initGPIO();
-bool triggerGPIO(unsigned int numCameras, Camera * camArray[]);
+bool triggerGPIO(unsigned int * indexArray, unsigned int indexArraySize, Camera * camArray[]);
 void testCameraArray(unsigned int numCameras, Camera * camArray[]);
+bool startAllCapture(unsigned int numCameras, Camera * camArray[]);
 
 #endif

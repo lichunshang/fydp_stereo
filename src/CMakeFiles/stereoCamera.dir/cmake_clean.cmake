@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_calib.cpp.o"
   "CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp.cpp.o"
   "CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_get_images.cpp.o"
+  "CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o"
   "CMakeFiles/stereoCamera.dir/stereoCamera_generated_do_disp.cu.o"
   "CMakeFiles/stereoCamera.dir/stereoCamera_generated_median_filter.cu.o"
   "CMakeFiles/stereoCamera.dir/stereoCamera_generated_hamming_cost.cu.o"

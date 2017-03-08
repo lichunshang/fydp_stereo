@@ -19,7 +19,8 @@
 
 #include "cameraSetup.h"
 
-int stereo_rectify_disp(int camera1ID, int camera2ID, Camera * camArray[]);
+int stereo_rectify_disp(int camera1ID1, int camera1ID2, int camera2ID1, int camera2ID2, Camera * camArray[]);
+cv::Mat getDispMat(int c1ID, int c2ID, int pair);
 
 #endif
 

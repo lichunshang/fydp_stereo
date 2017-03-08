@@ -177,6 +177,7 @@ static void free_memory() {
 	CUDA_CHECK_RETURN(cudaFree(d_disparity));
 	CUDA_CHECK_RETURN(cudaFree(d_disparity_filtered_uchar));
 	CUDA_CHECK_RETURN(cudaFree(d_cost));
+	CUDA_CHECK_RETURN(cudaFree(d_S));
 
 	delete[] h_disparity;
 }

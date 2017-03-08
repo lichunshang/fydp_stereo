@@ -26,7 +26,8 @@
 #include "cameraSetup.h"
 
 #define NUM_BUFFERS 1
-#define GPIO_NUMBER gpio219
+#define GPIO_NUMBER (gpio38)
+#define EXT_TRIGGER 1
 
 using namespace FlyCapture2;
 using namespace std;
@@ -129,71 +130,80 @@ bool initGPIO()
 	GPIO_INIT = gpioExport(triggerGPIO) == 0 ? 1 : 0;
 	GPIO_INIT &= gpioSetDirection(triggerGPIO, outputPin) == 0 ? 1 : 0;
 	if(GPIO_INIT){
-        unsigned int value = 0;
-        gpioGetValue(triggerGPIO, &value);
-        if(value != 0)
-    		gpioSetValue(triggerGPIO, low);
+   		gpioSetValue(triggerGPIO, low);
     }
 	return GPIO_INIT;
 }
 
-bool triggerGPIO(unsigned int numCameras, Camera * camArray[])
+bool triggerGPIO(unsigned int * indexArray, unsigned int indexArraySize, Camera * camArray[])
 {
 	jetsonTX1GPIONumber triggerGPIO = GPIO_NUMBER;
 	if(GPIO_INIT){
-        for(int i = 0; i < numCameras; i++){
-            cout << "waiting for camera " << i << " trigger...";
-            PollForTriggerReady(camArray[i]);
-            cout << "READY!" << endl;
-        }
-		return gpioSetValue(triggerGPIO, high) == 0 ? true : false;
+		for(int i = 0; i < indexArraySize; i++){
+		    cout << "waiting for camera " << indexArray[i] << " trigger...";
+		    PollForTriggerReady(camArray[indexArray[i]]);
+		    cout << "READY!" << endl;
+		}
+        bool triggerRes = (!gpioSetValue(triggerGPIO, high) && !gpioSetValue(triggerGPIO, low));
+
+        cout << "Trigger..." << triggerRes << endl;
+
+		return triggerRes;
     }
 	return false;
+}
+
+bool resetGPIO()
+{
+	jetsonTX1GPIONumber triggerGPIO = GPIO_NUMBER;
+	return gpioSetValue(triggerGPIO, low) == 0 ? true : false;
 }
 
 cv::Mat getMatFromCameraImage(unsigned int cameraIndex, Camera * camArray[])
 {
 	Error error;
 	Camera *cam;
-	cv::Mat image;
+	cv::Mat result;
 
-        cam = camArray[cameraIndex];
+    cam = camArray[cameraIndex];
 
-        // Start capturing images
-        error = cam->StartCapture();
-        if (error != PGRERROR_OK)
-        {
-            PrintError(error);
-            return image;
-        }
+    // Start capturing images
+/*        error = cam->StartCapture();
+    if (error != PGRERROR_OK)
+    {
+        PrintError(error);
+        return result;
+    }
+*/
+    Image rawImage;
 
-    	Image rawImage;
-    
-        // Retrieve an image
-        error = cam->RetrieveBuffer(&rawImage);
-        if (error != PGRERROR_OK)
-        {
-            PrintError(error);
-            return image;
-        }
+    // Retrieve an image
+    error = cam->RetrieveBuffer(&rawImage);
+    if (error != PGRERROR_OK)
+    {
+        PrintError(error);
+        return result;
+    }
 
-	// convert to rgb
-        Image rgbImage;
-        rawImage.Convert( FlyCapture2::PIXEL_FORMAT_BGR, &rgbImage );
+// convert to rgb
+    Image rgbImage;
+    rawImage.Convert( FlyCapture2::PIXEL_FORMAT_BGR, &rgbImage );
 
-        // convert to OpenCV Mat
-        unsigned int rowBytes = (double)rgbImage.GetReceivedDataSize()/(double)rgbImage.GetRows();       
-        image = cv::Mat(rgbImage.GetRows(), rgbImage.GetCols(), CV_8UC3, rgbImage.GetData(),rowBytes);            
+    // convert to OpenCV Mat
+    unsigned int rowBytes = (double)rgbImage.GetReceivedDataSize()/(double)rgbImage.GetRows();       
+    cv::Mat image = cv::Mat(rgbImage.GetRows(), rgbImage.GetCols(), CV_8UC3, rgbImage.GetData(),rowBytes);            
 
-	// Stop capturing images
-        error = cam->StopCapture();
-        if (error != PGRERROR_OK)
-        {
-            PrintError(error);
-            return image;
-        }
+// Stop capturing images
+/*        error = cam->StopCapture();
+    if (error != PGRERROR_OK)
+    {
+        PrintError(error);
+        return result;
+    }
+*/
+	image.copyTo(result);
 
-	return image;
+	return result;
  }
 
 void capPictures(unsigned int numCameras, Camera * camArray[])
@@ -202,7 +212,7 @@ void capPictures(unsigned int numCameras, Camera * camArray[])
     Error error;
     Camera *cam;
 
-    for (unsigned int i = 0; i < numCameras; i++)
+/*    for (unsigned int i = 0; i < numCameras; i++)
     {
         printf("start %u\n", i);
         cam = camArray[i];
@@ -221,12 +231,19 @@ void capPictures(unsigned int numCameras, Camera * camArray[])
 //    StartSyncCapture(numCameras, camArray);
 
     printf("started capturing...\n");
+    */
 
     Image rawImage;
     for (unsigned int imageCnt = 0; imageCnt < k_numImages; imageCnt++)
     {
-        bool triggerRes = triggerGPIO(numCameras, camArray);
-        cout << "Trigger... " << triggerRes << endl;
+        if(EXT_TRIGGER){
+            unsigned int idxArray[numCameras];
+            for(int z = 0; z < numCameras; z++)
+                idxArray[z] = z;
+            bool triggerRes = triggerGPIO(idxArray, numCameras, camArray);
+            cout << "Trigger... " << triggerRes << endl;
+            //resetGPIO();
+        }
 
         for (unsigned int i = 0; i < numCameras; i++)
         {
@@ -377,7 +394,7 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
         // Set trigger mode
         TriggerMode triggerMode;
 
-        //error = cam->GetTriggerMode(&triggerMode);
+        error = cam->GetTriggerMode(&triggerMode);
         if (error != PGRERROR_OK)
         {
             printf("Error getting triggering modes.");
@@ -385,14 +402,20 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
             return false;
         }
 
-        triggerMode.onOff = true;
-        triggerMode.mode = 0;
-        triggerMode.parameter = 0;
-        triggerMode.source = 2; //external trigger
-        triggerMode.polarity = 0; //falling edge
+	if(EXT_TRIGGER){
+		triggerMode.onOff = true;
+		triggerMode.mode = 0;
+		triggerMode.parameter = 0;
+		triggerMode.source = 2; //external trigger
+		triggerMode.polarity = 0; //falling edge
+	}
+	else{
+		triggerMode.onOff = false;
+	}
 
         // Set the trigger settings
-        //error = cam->SetTriggerMode(&triggerMode);
+	
+	error = cam->SetTriggerMode(&triggerMode);
         if (error != PGRERROR_OK)
         {
             printf("Error setting trigger modes.\n");
@@ -418,13 +441,15 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
 	cout << "Camera on." << endl;
 
         // Poll for trigger to be ready
-        /*bool retVal = PollForTriggerReady(cam);
-        if (!retVal)
-        {
-            cout << endl;
-            cout << "Error polling for trigger ready!" << endl;
-            return false;
-        }*/
+	if(EXT_TRIGGER){
+		bool retVal = PollForTriggerReady(cam);
+		if (!retVal)
+		{
+		    cout << endl;
+		    cout << "Error polling for trigger ready!" << endl;
+		    return false;
+		}
+	}
 
 	cout << "Trigger ready." << endl;
 
@@ -467,7 +492,7 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
             return false;
         }
 
-        imageSettings.pixelFormat = PIXEL_FORMAT_MONO8;
+        //imageSettings.pixelFormat = PIXEL_FORMAT_MONO8;
         error = cam->SetFormat7Configuration(&imageSettings, packetSize);
         if (error != PGRERROR_OK)
         {
@@ -476,6 +501,8 @@ bool initMultiCams(unsigned int numSetupCams, Camera * camArray[])
         }
 
         cout << "Finished setting image format." << endl;
+
+	//cam->SetOutputVerticalFlip(true);
 
         camArray[i] = cam;
 //        RunSingleCamera(*guid);
@@ -524,4 +551,29 @@ void testCameraArray(unsigned int numCameras, Camera * camArray[]){
         }
         PrintCameraInfo(&camInfo);
     }
+}
+
+bool startAllCapture(unsigned int numCameras, Camera * camArray[]){
+    Error error;
+    Camera *cam;
+
+    for (unsigned int i = 0; i < numCameras; i++)
+    {
+        printf("start %u\n", i);
+        cam = camArray[i];
+
+        // Start capturing images
+        error = cam->StartCapture();
+        if(error == PGRERROR_ISOCH_BANDWIDTH_EXCEEDED){
+            cout << "Couldn't start camera " << i << " because interface bandwidth exceeded." << endl;
+        }
+        if (error != PGRERROR_OK)
+        {
+            PrintError(error);
+            return false;
+        }
+    }
+
+    printf("started capturing for all...\n");
+    return true;
 }

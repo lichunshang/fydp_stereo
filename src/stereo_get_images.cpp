@@ -8,7 +8,9 @@ using namespace std;
 using namespace FlyCapture2;
 using namespace cv;
 
-#define NUMCAMS 2
+#define NUMCAMS 3
+#define NUM_FRAMES 14
+#define FLIP_VERTICAL 1
 
 static void help()
 {
@@ -21,6 +23,7 @@ class Settings
 {
 public:
     Settings() : goodInput(false) {}
+    Camera * cameraArray[NUMCAMS]; // Camera handles
 
     enum Pattern { NOT_EXISTING, CHESSBOARD, CIRCLES_GRID, ASYMMETRIC_CIRCLES_GRID };
     enum InputType {INVALID, CAMERA, VIDEO_FILE, IMAGE_LIST};
@@ -38,40 +41,35 @@ public:
 
                   << "Write_DetectedFeaturePoints" << bwritePoints
                   << "Write_extrinsicParameters"   << bwriteExtrinsics
-                  << "Write_outputFileName"  << outputFileName
-		  << "Write_outputFileName2" << outputFileName2
+                  //<< "Write_outputFileName"  << outputFileName
+		  //<< "Write_outputFileName2" << outputFileName2
 
                   << "Show_UndistortedImage" << showUndistorsed
 
                   << "Input_FlipAroundHorizontalAxis" << flipVertical
                   << "Input_Delay" << delay
-                  << "Input1" << input1
-		  << "Input2" << input2
            << "}";
     }
     void read(const FileNode& node)                          //Read serialization for this class
     {
         node["BoardSize_Width" ] >> boardSize.width;
         node["BoardSize_Height"] >> boardSize.height;
-        node["Calibrate_Pattern"] >> patternToUse;
         node["Square_Size"]  >> squareSize;
+        node["Calibrate_Pattern"] >> patternToUse;
         node["Calibrate_NrOfFrameToUse"] >> nrFrames;
         node["Calibrate_FixAspectRatio"] >> aspectRatio;
         node["Write_DetectedFeaturePoints"] >> bwritePoints;
         node["Write_extrinsicParameters"] >> bwriteExtrinsics;
-        node["Write_outputFileName"] >> outputFileName;
-        node["Write_outputFileName2"] >> outputFileName2;
         node["Calibrate_AssumeZeroTangentialDistortion"] >> calibZeroTangentDist;
         node["Calibrate_FixPrincipalPointAtTheCenter"] >> calibFixPrincipalPoint;
         node["Input_FlipAroundHorizontalAxis"] >> flipVertical;
         node["Show_UndistortedImage"] >> showUndistorsed;
-        node["Input1"] >> input1;
-	node["Input2"] >> input2;
         node["Input_Delay"] >> delay;
         interprate();
     }
     void interprate()
     {
+
         goodInput = true;
         if (boardSize.width <= 0 || boardSize.height <= 0)
         {
@@ -89,81 +87,19 @@ public:
             goodInput = false;
         }
 
-        if (input1.empty() || input2.empty())      // Check for valid input
-                inputType = INVALID;
-        else
-        {
-            if (input1[0] >= '0' && input1[0] <= '9')
-            {
-                inputType = CAMERA;
-            }
-            else
-            {
-                if (readStringList(input1, imageList))
-                    {
-                        inputType = IMAGE_LIST;
-                        nrFrames = (nrFrames < (int)imageList.size()) ? nrFrames : (int)imageList.size();
-                    }
-                else
-                    inputType = VIDEO_FILE;
-            }
-
-            if (inputType == CAMERA)
-		//inputCapture.open(input1);
-            if (inputType == VIDEO_FILE)
-                inputCapture.open(input1);
-	    if (inputType != IMAGE_LIST && !inputCapture.isOpened() && inputType != CAMERA)
-	            inputType = INVALID;
-        }
-        if (inputType == INVALID)
-        {
-            cerr << " Inexistent input: " << input1;
-            goodInput = false;
-        }
-
-        flag = 0;
-        if(calibFixPrincipalPoint) flag |= CV_CALIB_FIX_PRINCIPAL_POINT;
-        if(calibZeroTangentDist)   flag |= CV_CALIB_ZERO_TANGENT_DIST;
-        if(aspectRatio)            flag |= CV_CALIB_FIX_ASPECT_RATIO;
-
-
-        calibrationPattern = NOT_EXISTING;
-        if (!patternToUse.compare("CHESSBOARD")) calibrationPattern = CHESSBOARD;
-        if (!patternToUse.compare("CIRCLES_GRID")) calibrationPattern = CIRCLES_GRID;
-        if (!patternToUse.compare("ASYMMETRIC_CIRCLES_GRID")) calibrationPattern = ASYMMETRIC_CIRCLES_GRID;
-        if (calibrationPattern == NOT_EXISTING)
-            {
-                cerr << " Inexistent camera calibration mode: " << patternToUse << endl;
-                goodInput = false;
-            }
-        atImageList = 0;
-
+        inputType = CAMERA;
     }
 
     Mat nextImage(bool b)
     {
+
 	if (b)
         	return getMatFromCameraImage(camera1ID, cameraArray);
 	else
 	        return getMatFromCameraImage(camera2ID, cameraArray);
     }
 
-    static bool readStringList( const string& filename, vector<string>& l )
-    {
-        l.clear();
-        FileStorage fs(filename, FileStorage::READ);
-        if( !fs.isOpened() )
-            return false;
-        FileNode n = fs.getFirstTopLevelNode();
-        if( n.type() != FileNode::SEQ )
-            return false;
-        FileNodeIterator it = n.begin(), it_end = n.end();
-        for( ; it != it_end; ++it )
-            l.push_back((string)*it);
-        return true;
-    }
 public:
-    Camera * cameraArray[NUMCAMS]; // Camera handles
     Size boardSize;            // The size of the board -> Number of items by width and height
     Pattern calibrationPattern;// One of the Chessboard, circles, or asymmetric circle pattern
     float squareSize;          // The size of a square in your defined unit (point, millimeter,etc).
@@ -175,27 +111,15 @@ public:
     bool calibZeroTangentDist; // Assume zero tangential distortion
     bool calibFixPrincipalPoint;// Fix the principal point at the center
     bool flipVertical;          // Flip the captured images around the horizontal axis
-    string outputFileName;      // The name of the file where to write
-    string outputFileName2;      // The name of the file where to write
     bool showUndistorsed;       // Show undistorted images after calibration
-    string input1;               // The input ->
-    string input2;               // The input ->
-
-
 
     int camera1ID;
     int camera2ID;
-    vector<string> imageList;
-    int atImageList;
-    VideoCapture inputCapture;
     InputType inputType;
     bool goodInput;
-    int flag;
 
 private:
     string patternToUse;
-
-
 };
 
 static void read(const FileNode& node, Settings& x, const Settings& default_value = Settings())
@@ -208,7 +132,7 @@ static void read(const FileNode& node, Settings& x, const Settings& default_valu
 
 enum { DETECTION = 0, CAPTURING = 1, CALIBRATED = 2 };
 
-int stereo_get_images(int camera1ID, int camera2ID, Camera * camArray[])
+int stereo_get_images(int c1, int c2, Camera * camArray[])
 {
     help();
     Settings s;
@@ -217,33 +141,19 @@ int stereo_get_images(int camera1ID, int camera2ID, Camera * camArray[])
     s.cameraArray[0] = camArray[0];
     s.cameraArray[1] = camArray[1];
     s.cameraArray[2] = camArray[2];
-    s.camera1ID = camera1ID;
-    s.camera2ID = camera2ID;
-
+    s.camera1ID = c1;
+    s.camera2ID = c2;
+printf("\nHERE\n");
     const string inputSettingsFile = "individual_calib_input.xml";
-    FileStorage fs(inputSettingsFile, FileStorage::READ); // Read the settings
-    if (!fs.isOpened())
-    {
-        cout << "Could not open the configuration file: \"" << inputSettingsFile << "\"" << endl;
-        return -1;
-    }
-    fs["Settings"] >> s;
-    fs.release();                                         // close Settings file
-
-    if (!s.goodInput)
-    {
-        cout << "Invalid input detected. Application stopping. " << endl;
-        return -1;
-    }
-
-    int mode = s.inputType == Settings::IMAGE_LIST ? CAPTURING : DETECTION;
+    
+    int mode = DETECTION;
     clock_t prevTimestamp = 0;
     const Scalar RED(0,0,255), GREEN(0,255,0);
     const char ESC_KEY = 27;
 	
     Mat view1, view2;
     
-    for(int i = 0; i < s.nrFrames;)
+    for(int i = 0; i < NUM_FRAMES;)
     {
       
       bool blinkOutput = false;
@@ -251,29 +161,37 @@ int stereo_get_images(int camera1ID, int camera2ID, Camera * camArray[])
       view1 = s.nextImage(true);
       view2 = s.nextImage(false);
 
-        if( s.flipVertical )
+        if( FLIP_VERTICAL )
 	{    
-		flip( view1, view1, 0);
-		flip( view2, view2, 0);
-	}
+		if (c2 != 2)
+		{
+			flip( view1, view1, 0);
+			flip( view2, view2, 0);
+		}else {
+			flip (view1, view1, 0);
+		}
+	} 
+	
 
 	if( mode == CAPTURING)  // For camera only take new samples after delay time
 	{
-
+	if (clock() - prevTimestamp > 3000000)
+{
 	std::stringstream sstm;
-	sstm << i << "_Cameras_" << camera1ID << "_" << camera2ID << ".jpg";
+	sstm << i << "_Cameras_" << c1 << "_" << c2 << ".jpg";
 
 	imwrite("Results/left" + sstm.str(), view1);
 	imwrite("Results/right" + sstm.str(), view2);
 	//cout << "Press Key to Continue" << endl;
-	waitKey(200);
+	waitKey(100);
 	blinkOutput = false;
 	imshow("Image View", view1);
 	imshow("Image View2", view2);
-	waitKey(2800);
+	waitKey(100);
 	i++;
 	prevTimestamp = clock();
 	blinkOutput = true;
+}
 	}
 
         //----------------------------- Output Text ------------------------------------------------
@@ -304,7 +222,7 @@ int stereo_get_images(int camera1ID, int camera2ID, Camera * camArray[])
 	
         imshow("Image View", view1);
 	imshow("Image View2", view2);
-        char key = (char)waitKey(s.delay);
+        char key = (char)waitKey(50);
 
         if( key  == ESC_KEY )
             break;

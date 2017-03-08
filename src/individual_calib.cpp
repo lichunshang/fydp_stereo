@@ -8,7 +8,7 @@ using namespace std;
 using namespace FlyCapture2;
 using namespace cv;
 
-#define NUMCAMS 2
+#define NUMCAMS 3
 
 static void help()
 {
@@ -252,7 +252,7 @@ int individual_calib(int cameraID, Camera * camArray[])
       //-----  If no more image, or got enough, then stop calibration and show result -------------
       if( mode == CAPTURING && imagePoints1.size() >= (unsigned)s.nrFrames )
       {
-          if( runCalibrationAndSave(s, imageSize,  cameraMatrix1, distCoeffs1, imagePoints1, 0))
+          if( runCalibrationAndSave(s, imageSize,  cameraMatrix1, distCoeffs1, imagePoints1, cameraID))
               mode = CALIBRATED;
           else
               mode = DETECTION;
@@ -261,16 +261,15 @@ int individual_calib(int cameraID, Camera * camArray[])
       if(view1.empty() )         // If no more images then run calibration, save and stop loop.
       {
             if( imagePoints1.size() > 0 )
-                runCalibrationAndSave(s, imageSize,  cameraMatrix1, distCoeffs1, imagePoints1, 0);
+                runCalibrationAndSave(s, imageSize,  cameraMatrix1, distCoeffs1, imagePoints1, cameraID);
             break;
       }
 
 
         imageSize = view1.size();  // Format input image.
-        if( s.flipVertical )
-	{    
+        if( s.flipVertical && cameraID != 2)    
 		flip( view1, view1, 0);
-	}
+	
 
         vector<Point2f> pointBuf1;
 
@@ -489,7 +488,7 @@ static void saveCameraParams( Settings& s, Size& imageSize, Mat& cameraMatrix, M
 	std::stringstream sstm;
 	sstm << "Results/out_camera_" << camNum << "_calib" << ".xml";
 
-	fs.open( s.outputFileName, FileStorage::WRITE );
+	fs.open( sstm.str(), FileStorage::WRITE );
 
 
     time_t tm;

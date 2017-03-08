@@ -21,12 +21,13 @@ set_source_files_properties( cameraSetup.cpp PROPERTIES CUDA_SOURCE_PROPERTY_FOR
 set_source_files_properties( individual_calib.cpp PROPERTIES CUDA_SOURCE_PROPERTY_FORMAT OBJ )
 set_source_files_properties( stereo_calib.cpp PROPERTIES CUDA_SOURCE_PROPERTY_FORMAT OBJ )
 set_source_files_properties( stereo_rectify_disp.cpp PROPERTIES CUDA_SOURCE_PROPERTY_FORMAT OBJ )
+set_source_files_properties( stereo_rectify_disp-with_trackbars.cpp PROPERTIES CUDA_SOURCE_PROPERTY_FORMAT OBJ )
 set_source_files_properties( stereo_get_images.cpp PROPERTIES CUDA_SOURCE_PROPERTY_FORMAT OBJ )
 set_source_files_properties( gpio.c PROPERTIES CUDA_SOURCE_PROPERTY_FORMAT OBJ)
 
 cuda_add_executable( stereoCamera 
-		     stereoCamera.cpp cameraSetup.cpp individual_calib.cpp stereo_calib.cpp stereo_rectify_disp.cpp stereo_get_images.cpp  
-		     do_disp.cu median_filter.cu hamming_cost.cu disparity_method.cu debug.cu costs.cu gpio.c
+		     stereoCamera.cpp cameraSetup.cpp individual_calib.cpp stereo_calib.cpp stereo_rectify_disp.cpp stereo_get_images.cpp   
+		     stereo_rectify_disp-with_trackbars.cpp do_disp.cu median_filter.cu hamming_cost.cu disparity_method.cu debug.cu costs.cu gpio.c
 		     )
 
 target_link_libraries( stereoCamera ${OpenCV_LIBS} flycapture)

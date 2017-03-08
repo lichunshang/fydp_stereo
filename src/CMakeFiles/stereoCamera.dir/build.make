@@ -77,6 +77,7 @@ CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereoCamera.cpp.o: stdafx.h
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereoCamera.cpp.o: stereoCamera.cpp
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereoCamera.cpp.o: stereo_calib.h
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereoCamera.cpp.o: stereo_get_images.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereoCamera.cpp.o: stereo_rectify_disp-with_trackbars.h
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereoCamera.cpp.o: stereo_rectify_disp.h
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereoCamera.cpp.o: /usr/include/_G_config.h
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereoCamera.cpp.o: /usr/include/aarch64-linux-gnu/bits/byteswap-16.h
@@ -1344,6 +1345,269 @@ CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_get_images.cpp.o: ster
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -E make_directory /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//.
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -D verbose:BOOL=$(VERBOSE) -D build_configuration:STRING= -D generated_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_stereo_get_images.cpp.o -D generated_cubin_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_stereo_get_images.cpp.o.cubin.txt -P /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//stereoCamera_generated_stereo_get_images.cpp.o.cmake
 
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /home/ubuntu/Documents/fydp/include/AVIRecorder.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /home/ubuntu/Documents/fydp/include/BusManager.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /home/ubuntu/Documents/fydp/include/Camera.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /home/ubuntu/Documents/fydp/include/CameraBase.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /home/ubuntu/Documents/fydp/include/Error.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /home/ubuntu/Documents/fydp/include/FlyCapture2.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /home/ubuntu/Documents/fydp/include/FlyCapture2Defs.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /home/ubuntu/Documents/fydp/include/FlyCapture2Platform.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /home/ubuntu/Documents/fydp/include/GigECamera.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /home/ubuntu/Documents/fydp/include/Image.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /home/ubuntu/Documents/fydp/include/ImageStatistics.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /home/ubuntu/Documents/fydp/include/TopologyNode.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /home/ubuntu/Documents/fydp/include/Utilities.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: cameraSetup.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: configuration.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: cost_aggregation.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: costs.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: debug.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: disparity_method.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: do_disp.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: gpio.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: hamming_cost.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: median_filter.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: stdafx.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: stereo_rectify_disp-with_trackbars.cpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: stereo_rectify_disp-with_trackbars.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: util.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/_G_config.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/byteswap-16.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/byteswap.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/dirent.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/endian.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/huge_val.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/huge_valf.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/huge_vall.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/inf.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/libm-simd-decl-stubs.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/local_lim.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/locale.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/math-vector.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/mathcalls.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/mathdef.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/mathinline.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/nan.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/posix1_lim.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/posix2_lim.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/sched.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/select.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/select2.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/setjmp.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/sigset.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/stdio.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/stdio2.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/stdio_lim.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/stdlib-float.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/stdlib.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/string3.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/sys_errlist.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/time.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/timex.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/types.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/typesizes.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/waitflags.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/waitstatus.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/wchar.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/wchar2.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/wordsize.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/bits/xopen_lim.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/c++/5/bits/atomic_word.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/c++/5/bits/basic_file.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/c++/5/bits/c++allocator.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/c++/5/bits/c++config.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/c++/5/bits/c++io.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/c++/5/bits/c++locale.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/c++/5/bits/cpu_defines.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/c++/5/bits/ctype_base.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/c++/5/bits/ctype_inline.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/c++/5/bits/gthr-default.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/c++/5/bits/gthr.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/c++/5/bits/os_defines.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/gnu/stubs.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/sys/cdefs.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/sys/select.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/sys/sysmacros.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/sys/time.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/aarch64-linux-gnu/sys/types.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/alloca.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/assert.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/algorithm
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/backward/binders.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/algorithmfwd.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/allocator.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/atomic_lockfree_defines.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/basic_ios.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/basic_ios.tcc
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/basic_string.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/basic_string.tcc
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/char_traits.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/codecvt.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/concept_check.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/cpp_type_traits.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/cxxabi_forced.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/deque.tcc
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/exception_defines.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/fstream.tcc
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/functexcept.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/gslice.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/gslice_array.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/indirect_array.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/ios_base.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/istream.tcc
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/list.tcc
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/locale_classes.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/locale_classes.tcc
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/locale_facets.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/locale_facets.tcc
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/localefwd.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/mask_array.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/memoryfwd.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/move.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/ostream.tcc
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/ostream_insert.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/postypes.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/predefined_ops.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/ptr_traits.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/range_access.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/slice_array.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/sstream.tcc
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_algo.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_algobase.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_bvector.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_construct.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_deque.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_function.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_heap.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_iterator.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_iterator_base_funcs.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_iterator_base_types.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_list.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_map.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_multimap.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_multiset.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_numeric.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_pair.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_relops.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_set.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_tempbuf.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_tree.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_uninitialized.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stl_vector.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stream_iterator.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/streambuf.tcc
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/streambuf_iterator.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/stringfwd.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/valarray_after.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/valarray_array.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/valarray_array.tcc
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/valarray_before.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/bits/vector.tcc
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/cctype
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/clocale
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/cmath
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/complex
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/cstddef
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/cstdio
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/cstdlib
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/ctime
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/cwchar
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/cwctype
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/debug/debug.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/deque
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/exception
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/ext/alloc_traits.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/ext/atomicity.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/ext/new_allocator.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/ext/numeric_traits.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/ext/type_traits.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/fstream
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/ios
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/iosfwd
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/iostream
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/istream
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/iterator
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/limits
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/list
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/map
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/new
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/numeric
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/ostream
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/set
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/sstream
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/stdexcept
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/streambuf
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/string
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/typeinfo
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/utility
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/valarray
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/c++/5/vector
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/ctype.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/dirent.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/endian.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/features.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/libio.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/limits.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/linux/limits.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/locale.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/math.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/memory.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/pthread.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/sched.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/stdc-predef.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/stdint.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/stdio.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/stdlib.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/string.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/time.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/wchar.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/wctype.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/include/xlocale.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/lib/gcc/aarch64-linux-gnu/5/include-fixed/limits.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/lib/gcc/aarch64-linux-gnu/5/include-fixed/syslimits.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/lib/gcc/aarch64-linux-gnu/5/include/float.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/lib/gcc/aarch64-linux-gnu/5/include/stdarg.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/lib/gcc/aarch64-linux-gnu/5/include/stddef.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/lib/gcc/aarch64-linux-gnu/5/include/stdint.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/calib3d/calib3d.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/contrib/contrib.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/contrib/openfabmap.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/contrib/retina.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/core/affine.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/core/core.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/core/core_c.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/core/mat.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/core/operations.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/core/types_c.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/core/version.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/features2d/features2d.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/flann/config.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/flann/defines.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/flann/miniflann.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/highgui/highgui.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/highgui/highgui_c.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/imgproc/imgproc.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/imgproc/imgproc_c.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/imgproc/types_c.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/ml/ml.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/objdetect/objdetect.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/opencv.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/opencv_modules.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/photo/photo.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/photo/photo_c.h
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/video/background_segm.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/video/tracking.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: /usr/local/include/opencv2/video/video.hpp
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o.cmake
+CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o: stereo_rectify_disp-with_trackbars.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building NVCC (Device) object CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o"
+	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -E make_directory /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//.
+	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -D verbose:BOOL=$(VERBOSE) -D build_configuration:STRING= -D generated_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o -D generated_cubin_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o.cubin.txt -P /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o.cmake
+
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_do_disp.cu.o: configuration.h
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_do_disp.cu.o: cost_aggregation.h
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_do_disp.cu.o: costs.h
@@ -1633,7 +1897,7 @@ CMakeFiles/stereoCamera.dir/stereoCamera_generated_do_disp.cu.o: /usr/local/incl
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_do_disp.cu.o: /usr/local/include/opencv2/video/video.hpp
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_do_disp.cu.o: CMakeFiles/stereoCamera.dir/stereoCamera_generated_do_disp.cu.o.cmake
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_do_disp.cu.o: do_disp.cu
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building NVCC (Device) object CMakeFiles/stereoCamera.dir/stereoCamera_generated_do_disp.cu.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building NVCC (Device) object CMakeFiles/stereoCamera.dir/stereoCamera_generated_do_disp.cu.o"
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -E make_directory /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//.
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -D verbose:BOOL=$(VERBOSE) -D build_configuration:STRING= -D generated_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_do_disp.cu.o -D generated_cubin_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_do_disp.cu.o.cubin.txt -P /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//stereoCamera_generated_do_disp.cu.o.cmake
 
@@ -1766,7 +2030,7 @@ CMakeFiles/stereoCamera.dir/stereoCamera_generated_median_filter.cu.o: /usr/loca
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_median_filter.cu.o: /usr/local/cuda-8.0/include/vector_types.h
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_median_filter.cu.o: CMakeFiles/stereoCamera.dir/stereoCamera_generated_median_filter.cu.o.cmake
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_median_filter.cu.o: median_filter.cu
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building NVCC (Device) object CMakeFiles/stereoCamera.dir/stereoCamera_generated_median_filter.cu.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building NVCC (Device) object CMakeFiles/stereoCamera.dir/stereoCamera_generated_median_filter.cu.o"
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -E make_directory /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//.
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -D verbose:BOOL=$(VERBOSE) -D build_configuration:STRING= -D generated_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_median_filter.cu.o -D generated_cubin_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_median_filter.cu.o.cubin.txt -P /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//stereoCamera_generated_median_filter.cu.o.cmake
 
@@ -1971,7 +2235,7 @@ CMakeFiles/stereoCamera.dir/stereoCamera_generated_hamming_cost.cu.o: /usr/local
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_hamming_cost.cu.o: /usr/local/cuda-8.0/include/vector_types.h
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_hamming_cost.cu.o: CMakeFiles/stereoCamera.dir/stereoCamera_generated_hamming_cost.cu.o.cmake
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_hamming_cost.cu.o: hamming_cost.cu
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building NVCC (Device) object CMakeFiles/stereoCamera.dir/stereoCamera_generated_hamming_cost.cu.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building NVCC (Device) object CMakeFiles/stereoCamera.dir/stereoCamera_generated_hamming_cost.cu.o"
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -E make_directory /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//.
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -D verbose:BOOL=$(VERBOSE) -D build_configuration:STRING= -D generated_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_hamming_cost.cu.o -D generated_cubin_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_hamming_cost.cu.o.cubin.txt -P /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//stereoCamera_generated_hamming_cost.cu.o.cmake
 
@@ -2252,7 +2516,7 @@ CMakeFiles/stereoCamera.dir/stereoCamera_generated_disparity_method.cu.o: /usr/l
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_disparity_method.cu.o: /usr/local/include/opencv2/video/video.hpp
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_disparity_method.cu.o: CMakeFiles/stereoCamera.dir/stereoCamera_generated_disparity_method.cu.o.cmake
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_disparity_method.cu.o: disparity_method.cu
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building NVCC (Device) object CMakeFiles/stereoCamera.dir/stereoCamera_generated_disparity_method.cu.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building NVCC (Device) object CMakeFiles/stereoCamera.dir/stereoCamera_generated_disparity_method.cu.o"
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -E make_directory /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//.
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -D verbose:BOOL=$(VERBOSE) -D build_configuration:STRING= -D generated_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_disparity_method.cu.o -D generated_cubin_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_disparity_method.cu.o.cubin.txt -P /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//stereoCamera_generated_disparity_method.cu.o.cmake
 
@@ -2454,7 +2718,7 @@ CMakeFiles/stereoCamera.dir/stereoCamera_generated_debug.cu.o: /usr/local/cuda-8
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_debug.cu.o: /usr/local/cuda-8.0/include/vector_types.h
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_debug.cu.o: CMakeFiles/stereoCamera.dir/stereoCamera_generated_debug.cu.o.cmake
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_debug.cu.o: debug.cu
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building NVCC (Device) object CMakeFiles/stereoCamera.dir/stereoCamera_generated_debug.cu.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building NVCC (Device) object CMakeFiles/stereoCamera.dir/stereoCamera_generated_debug.cu.o"
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -E make_directory /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//.
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -D verbose:BOOL=$(VERBOSE) -D build_configuration:STRING= -D generated_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_debug.cu.o -D generated_cubin_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_debug.cu.o.cubin.txt -P /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//stereoCamera_generated_debug.cu.o.cmake
 
@@ -2588,7 +2852,7 @@ CMakeFiles/stereoCamera.dir/stereoCamera_generated_costs.cu.o: /usr/local/cuda-8
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_costs.cu.o: /usr/local/cuda-8.0/include/vector_types.h
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_costs.cu.o: CMakeFiles/stereoCamera.dir/stereoCamera_generated_costs.cu.o.cmake
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_costs.cu.o: costs.cu
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building NVCC (Device) object CMakeFiles/stereoCamera.dir/stereoCamera_generated_costs.cu.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building NVCC (Device) object CMakeFiles/stereoCamera.dir/stereoCamera_generated_costs.cu.o"
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -E make_directory /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//.
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -D verbose:BOOL=$(VERBOSE) -D build_configuration:STRING= -D generated_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_costs.cu.o -D generated_cubin_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_costs.cu.o.cubin.txt -P /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//stereoCamera_generated_costs.cu.o.cmake
 
@@ -2660,7 +2924,7 @@ CMakeFiles/stereoCamera.dir/stereoCamera_generated_gpio.c.o: /usr/lib/gcc/aarch6
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_gpio.c.o: /usr/lib/gcc/aarch64-linux-gnu/5/include/stddef.h
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_gpio.c.o: CMakeFiles/stereoCamera.dir/stereoCamera_generated_gpio.c.o.cmake
 CMakeFiles/stereoCamera.dir/stereoCamera_generated_gpio.c.o: gpio.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building NVCC (Device) object CMakeFiles/stereoCamera.dir/stereoCamera_generated_gpio.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building NVCC (Device) object CMakeFiles/stereoCamera.dir/stereoCamera_generated_gpio.c.o"
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -E make_directory /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//.
 	cd /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir && /usr/bin/cmake -D verbose:BOOL=$(VERBOSE) -D build_configuration:STRING= -D generated_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_gpio.c.o -D generated_cubin_file:STRING=/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//./stereoCamera_generated_gpio.c.o.cubin.txt -P /home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir//stereoCamera_generated_gpio.c.o.cmake
 
@@ -2675,6 +2939,7 @@ stereoCamera_EXTERNAL_OBJECTS = \
 "/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_calib.cpp.o" \
 "/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp.cpp.o" \
 "/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_get_images.cpp.o" \
+"/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o" \
 "/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir/stereoCamera_generated_do_disp.cu.o" \
 "/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir/stereoCamera_generated_median_filter.cu.o" \
 "/home/ubuntu/Documents/fydp/src/CMakeFiles/stereoCamera.dir/stereoCamera_generated_hamming_cost.cu.o" \
@@ -2689,6 +2954,7 @@ stereoCamera: CMakeFiles/stereoCamera.dir/stereoCamera_generated_individual_cali
 stereoCamera: CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_calib.cpp.o
 stereoCamera: CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp.cpp.o
 stereoCamera: CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_get_images.cpp.o
+stereoCamera: CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o
 stereoCamera: CMakeFiles/stereoCamera.dir/stereoCamera_generated_do_disp.cu.o
 stereoCamera: CMakeFiles/stereoCamera.dir/stereoCamera_generated_median_filter.cu.o
 stereoCamera: CMakeFiles/stereoCamera.dir/stereoCamera_generated_hamming_cost.cu.o
@@ -2723,7 +2989,7 @@ stereoCamera: /usr/local/cuda-8.0/lib64/libnppi.so
 stereoCamera: /usr/local/cuda-8.0/lib64/libnpps.so
 stereoCamera: /usr/local/cuda-8.0/lib64/libcufft.so
 stereoCamera: CMakeFiles/stereoCamera.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable stereoCamera"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ubuntu/Documents/fydp/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable stereoCamera"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/stereoCamera.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -2745,6 +3011,7 @@ CMakeFiles/stereoCamera.dir/depend: CMakeFiles/stereoCamera.dir/stereoCamera_gen
 CMakeFiles/stereoCamera.dir/depend: CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_calib.cpp.o
 CMakeFiles/stereoCamera.dir/depend: CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp.cpp.o
 CMakeFiles/stereoCamera.dir/depend: CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_get_images.cpp.o
+CMakeFiles/stereoCamera.dir/depend: CMakeFiles/stereoCamera.dir/stereoCamera_generated_stereo_rectify_disp-with_trackbars.cpp.o
 CMakeFiles/stereoCamera.dir/depend: CMakeFiles/stereoCamera.dir/stereoCamera_generated_do_disp.cu.o
 CMakeFiles/stereoCamera.dir/depend: CMakeFiles/stereoCamera.dir/stereoCamera_generated_median_filter.cu.o
 CMakeFiles/stereoCamera.dir/depend: CMakeFiles/stereoCamera.dir/stereoCamera_generated_hamming_cost.cu.o

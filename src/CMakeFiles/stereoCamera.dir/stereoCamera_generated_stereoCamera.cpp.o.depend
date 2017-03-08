@@ -20,6 +20,7 @@ SET(CUDA_NVCC_DEPEND
  "/home/ubuntu/Documents/fydp/src/stereoCamera.cpp"
  "/home/ubuntu/Documents/fydp/src/stereo_calib.h"
  "/home/ubuntu/Documents/fydp/src/stereo_get_images.h"
+ "/home/ubuntu/Documents/fydp/src/stereo_rectify_disp-with_trackbars.h"
  "/home/ubuntu/Documents/fydp/src/stereo_rectify_disp.h"
  "/usr/include/_G_config.h"
  "/usr/include/aarch64-linux-gnu/bits/byteswap-16.h"

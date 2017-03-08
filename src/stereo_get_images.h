@@ -16,7 +16,7 @@
 
 #include "cameraSetup.h"
 
-int stereo_get_images(int camera1ID, int camera2ID, Camera * camArray[]);
+int stereo_get_images(int c1, int c2, Camera * camArray[]);
 
 #endif
 
